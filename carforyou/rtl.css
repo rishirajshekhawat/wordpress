@@ -1,0 +1,387 @@
+/*
+Theme Name: CarForYou
+Description: Adds support for languages written in a Right To Left (RTL) direction.
+It's easy, just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+See: https://codex.wordpress.org/Right_to_Left_Language_Support
+*/
+/**
+ * Table of Contents:
+ *
+ * 1.0 - Reset
+ * 2.0 - Typography
+ * 3.0 - Elements
+ * 4.0 - Forms
+ * 5.0 - Navigations
+ * 6.0 Alignments
+ * 7.0 Comments
+
+
+/**
+ * 1.0 Reset
+ */
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+caption,
+th,
+td {
+	text-align: right;
+}
+/**
+ * 2.0 Typography
+ */
+blockquote {
+	border-right: 4px solid rgba(51, 51, 51, 0.7);
+	border-left: 0;
+	padding-right: 0.7778em;
+	padding-left: 0;
+}
+/**
+ * 3.0 Elements
+ */
+ul,
+ol {
+	margin: 0 1.3333em 1.6em 0;
+}
+caption,
+th,
+td {
+	text-align: right;
+}
+/**
+ * 4.0 Forms
+ */
+.post-password-form input[type="submit"] {
+	right: auto;
+	left: 0;
+}
+/**
+ * 5.0 Navigations
+ */
+.post-navigation .has-post-thumbnail a:before {
+	right: 0;
+	left: auto;
+}
+/**
+ * 6.0 Alignments
+ */
+.alignright {
+	float: right;
+}
+.alignleft {
+	float: left;
+}
+.aligncenter {
+	margin-right: auto;
+	margin-left: auto;
+}
+blockquote.alignright,
+.wp-caption.alignright,
+img.alignright {
+	margin: 0.4em 0 1.6em 1.6em;
+}
+blockquote.alignleft,
+.wp-caption.alignleft,
+img.alignleft {
+	margin: 0.4em 1.6em 1.6em 0;
+}
+/**
+ * 7.0 Comments
+ */
+.comment-list .children > li {
+	padding-right: 0.8em;
+	padding-left: 0;
+}
+.comment-author .avatar {
+	float: right;
+	margin-right: 0;
+	margin-left: 0.4em;
+}
+.bypostauthor > article .fn:after {
+	right: 3px;
+	left: auto;
+}
+.comment-metadata .edit-link {
+	margin-right: 1em;
+	margin-left: auto;
+}
+.pingback .edit-link {
+	margin-right: 1em;
+	margin-left: auto;
+}
+.comment-content ul,
+.comment-content ol {
+	margin: 0 1.3333em 1.6em 0;
+}
+.comment-reply-title small a {
+	float: left;
+}
+ul.page-numbers {
+  float: right;
+}
+/**
+ * 8.0 Theme css
+ */
+
+h4.faq_text {text-align: right !important;}
+.featured-car-content li .fa {margin-left: 8px;margin-right: 0;}
+.recent-tab .nav.nav-tabs{ padding-right:0px;}
+.car-title-m h6 {float: right;}
+.car-title-m .price {float: left;}
+.car-info-box li .fa {margin-left: 8px;margin-right: 0;}
+.car-info-box li:nth-child(1) {margin-right: 0;}
+.car-info-box li:nth-last-child(1) {margin-right: 15px;}
+.blog-info-box li .fa {margin-left: 4px;margin-right: 0;}
+.blog-info-box li {margin-left: 10px;margin-right: 0;}
+.product-listing-content li .fa {margin-left: 8px;margin-right: 0;}
+.grid_listing .product-listing-content .car-location i {margin-left: 3px;margin-right: 0;}
+#add_model_compare {left: 0;right: inherit;}
+.compare_product_info table {direction: rtl;}
+.select::after {left: 15px;right: inherit;}
+.widget_heading i {margin-left: 5px;margin-right: 0;}
+.header_search button {left: 8px;right: inherit;}
+.header_search input {padding-left: 45px;padding-right: 15px;}
+ul li i, ol li i {margin-left: 12px;margin-right: 0;}
+.article_meta ul li {margin-left: 35px;margin-right: 0;}
+.wp_nav_links a[rel="next"] {float: left;}
+.circle_icon {float: right;margin-left: 10px;margin-right:0px;}
+.header_widgets {text-align: right;}
+.social-follow {float: right;}
+.looking-cat-image {left: -120px;right: inherit;}
+.banner_content .vc_custom_heading, .fact_m .vc_custom_heading, .our_services .vc_custom_heading, .filter_form h3, .contact_us h3.vc_custom_heading{text-align:right !important;}
+.owl-buttons div, .owl-nav div {float: left;}
+.countdown.styled {direction: ltr;}
+.listing_other_info button i {margin-left: 4px;margin-right: 0;}
+.listing_other_info button {margin-left: 40px;margin-right: 0;}
+.modal .modal-header .close {margin-left: 10px;}
+.contact_detail li {padding-left: 150px;padding-right: 0;}
+.contact_form {direction: rtl;}
+.brand-hadding {float: right;}
+.brand-logo-list {float: left;}
+.product-listing-img {float: right;}
+.product-listing-content {padding-left: 15px;padding-right: 30px;}
+
+
+.owl-carousel,
+.bx-wrapper { direction: ltr; }
+.owl-carousel .owl-item { direction: rtl; }
+@media (max-width:767px) {
+.header_search {float: left;}
+.navbar-default .navbar-collapse {margin-top: 55px !important;}
+.nav.navbar-nav {padding: 0;}
+.dropdown-menu > li > a {text-align: right;}
+
+}
+.header_info {
+    float: left;
+    text-align: left;
+}
+.social-follow {
+    float: left;
+}
+.header_search {
+    float: left;
+    padding: 14px 0;
+    position: relative;
+}
+.col-list-3:nth-child(3n+1) {
+    clear: unset;
+}
+.col-list-3:nth-child(3n) {
+    clear: unset;
+}
+.col-list-3 {
+    float: right;
+    padding: 0 15px;
+    width: 33%;
+}
+.testimonial-content {
+    background: #ffffff none repeat scroll 0 0;
+    border-radius: 0 30px;
+    float: left;
+    padding: 35px 111px 35px 35px;
+    position: relative;
+    width: 425px;
+}
+.testimonial-img {
+    border: 5px solid #ffffff;
+    border-radius: 50%;
+    float: right;
+    height: 215px;
+    right: 0px;
+    overflow: hidden;
+    position: absolute;
+    top: 42px;
+    width: 215px;
+    z-index: 1;
+}
+.brand-hadding {
+    border-right: 1px solid #bbbbbb;
+    padding-right: 10px;
+    position: relative;
+    width: 90px;
+}
+.brand-hadding::after {
+    border-color: rgba(0, 0, 0, 0) #bbbbbb rgba(0, 0, 0, 0) rgba(0, 0, 0, 0);
+    border-style: solid;
+    border-width: 12px;
+    content: "";
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+}
+.brand-hadding::after {
+    right: 100%;
+}
+.brand-hadding {
+    border-right: none;
+}
+.brand-hadding {
+    border-left: 1px solid #bbbbbb;
+}
+.copy-right {
+    color: #ffffff;
+    font-size: 15px;
+    line-height: 40px;
+    float: left;
+    margin: 0 auto;
+}
+.services_info li .fa {
+    float: right;
+    width: 99px;
+    height: 99px;
+    text-align: center;
+    font-size: 40px;
+    line-height: 90px;
+    border-radius: 50%;
+    border: rgba(255, 255, 255, 0.2) solid 1px;
+    margin: 0px 0px 0px 25px;
+}
+.grid_listing:nth-child(3n) {
+    clear: unset;
+}
+.recent_post_img {
+    float: right;
+    width: 34%;
+    overflow: hidden;
+}
+.car-location {
+    display: inline-block;
+    margin-right: 24px;
+    color: #919090;
+    font-size: 13px;
+    line-height: 23px;
+}
+.nav-tabs>li {
+    float: right;
+    margin-bottom: -1px;
+}
+.nav {
+    padding-left: 0px;
+    margin-bottom: 0;
+    list-style: none;
+    margin: 0;
+	padding:0;
+}
+.listing_detail_wrap .nav-tabs > li a{
+	margin:0;
+}
+.inventory_info_list ul li, .listing_heading div {
+    width: 25%;
+    float: right;
+    list-style: none;
+}
+.td_divider {
+    display: block;
+    height: 70%;
+    position: absolute;
+    left: 0;
+	right:unset;
+    top: 15%;
+    width: 3px;
+}
+.vs {
+    border-radius: 50%;
+    color: #ffffff;
+    display: block;
+    font-size: 14px;
+    font-weight: 400;
+    height: 32px;
+    line-height: 30px;
+    position: absolute;
+    left: -15px;
+	right: unset;
+    text-align: center;
+    top: 50%;
+    width: 32px;
+    transform: translateY(-50%) -moz-transform:translateY(-50%);
+    -o-transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    -md-transform: translateY(-50%);
+}
+.compare_info table td:first-child {
+    text-align: left;
+}
+.td_divider:after{
+	-webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+.td_divider:after {
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+.td_divider:after {
+    position: absolute;
+    right: 3px;
+    border-style: solid;
+    border-width: 10px;
+    content: "";
+    top: 38%;
+}
+#navigation.collapse.navbar-collapse {
+    float: right;
+}
+@media (min-width: 768px){
+.navbar-nav>li {
+    float: right;
+}
+}
+@media (min-width: 992px){
+.col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9 {
+    float: right;
+}
+.col-md-push-6 {
+     left: 0; 
+}
+.col-md-pull-6 {
+    right: 0;
+}
+.col-md-push-3 {
+    left: 0;
+}
+.col-md-pull-9 {
+    right: 0;
+}
+}
+@media (min-width: 1200px){
+.col-lg-push-3 {
+    left: 0;
+}
+.col-lg-pull-9 {
+    right: 0;
+}
+}

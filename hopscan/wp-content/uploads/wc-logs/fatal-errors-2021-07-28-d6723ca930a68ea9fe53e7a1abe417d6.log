@@ -1,0 +1,25 @@
+2021-07-28T03:53:01+00:00 CRITICAL Uncaught Error: Call to undefined function get_vendor_from_an_order() in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1827
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(289): send_custom_email_notifications('admin@hopscon.c...', Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-includes/plugin.php(212): WP_Hook->apply_filters('admin@hopscon.c...', Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/emails/class-wc-email.php(399): apply_filters('woocommerce_ema...', 'admin@hopscon.c...', Object(Automattic\WooCommerce\Admin\Overrides\Order), Object(WC_Email_Cancelled_Order))
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/emails/class-wc-email-cancelled-order.php(92): WC_Email->get_recipient()
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(287): WC_Email_Cancelled_Order->t in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1827
+
+2021-07-28T03:56:17+00:00 CRITICAL Uncaught Error: Call to undefined function get_vendor_from_an_order() in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1827
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(289): send_custom_email_notifications('admin@hopscon.c...', Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-includes/plugin.php(212): WP_Hook->apply_filters('admin@hopscon.c...', Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/emails/class-wc-email.php(399): apply_filters('woocommerce_ema...', 'admin@hopscon.c...', Object(Automattic\WooCommerce\Admin\Overrides\Order), Object(WC_Email_Cancelled_Order))
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/emails/class-wc-email-cancelled-order.php(92): WC_Email->get_recipient()
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(287): WC_Email_Cancelled_Order->t in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1827
+
+2021-07-28T04:21:09+00:00 CRITICAL Uncaught Error: Call to undefined function get_vendor_from_an_order() in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1826
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(287): send_custom_email_notifications(8731, 'processing', 'cancelled', Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-order.php(373): do_action('woocommerce_ord...', 8731, 'processing', 'cancelled', Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-order.php(221): WC_Order->status_transition()
+#5 /home/hopscon/public_html/hopscan-stg.com/wp-content/pl in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1826
+

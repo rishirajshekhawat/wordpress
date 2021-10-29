@@ -1,0 +1,922 @@
+
+
+.wp-core-ui .redux-action_bar input {
+
+	margin-right: 5px;
+
+}
+
+#redux-form-wrapper .redux-main .add-on {
+
+    height: 26px;
+
+    line-height: 20px;
+
+    border-radius: 0px;
+
+}
+
+#redux-form-wrapper .redux-main input[type="text"] {
+
+    line-height: 34px;
+
+	height: 34px;
+
+	border-radius: 0px;
+
+}
+
+.redux-container #redux-form-wrapper .select2-container .select2-choice {
+
+	height: 34px;
+
+	line-height: 34px;
+
+	border-radius: 0px;
+
+}
+
+.redux-container #redux-footer {
+
+	background: transparent !Important;
+
+    border-top: 0px !Important;
+
+    box-shadow: none;
+
+}
+
+.redux-container #redux-header .rAds .mgv1_1 {
+
+	display: none !Important;
+
+} 
+
+.redux-container .redux-image-select #layout-type_2+img,
+
+.redux-container .redux-image-select #layout-type_1+img {
+
+    width: 300px !important;
+
+    height: 120px;
+
+    float: left;
+
+    margin-right: 5px;
+
+}
+
+.redux-container #TakeThemes_options-header-type .redux-image-select li:nth-child(odd) img { 
+
+	margin-right: 14px;
+
+}
+
+.redux-container .form-table>tbody>tr>th {
+
+    width: 25%;
+
+}
+
+.redux-container .redux-main .form-table .regular-text {
+
+	width: 100%;
+
+}
+
+.redux-container .select2-container .select2-choice .select2-arrow b {
+
+	background-position: 0px 5px;
+
+}
+
+.redux-container .select2-container .select2-choice abbr {
+
+	top: 10px;
+
+}
+
+.redux-container .redux-main .redux-typography-container .select_wrapper .redux-typography {
+
+	height: auto !important;
+
+}
+
+.redux-container .select2-container .select2-choice {
+
+	background-image: none;
+
+}
+
+.redux-container .select2-container .select2-choice .select2-arrow {
+
+	background: #eee;
+
+	background-image: none;
+
+	border-radius: 0px;
+
+}
+
+#wpbody-content .wrap .redux-message {
+
+	display: none;
+
+}
+
+.redux-container .select2-container .select2-choice .select2-arrow b {
+
+	background: url(../images/bullet_arrow_down.png) no-repeat !Important;
+
+	position: absolute;
+
+    top: 13px;
+
+    left: 5px;
+
+}
+
+.redux-container .typography-color {
+
+	display: none;
+
+}
+
+.redux-container #TakeThemes_options-typography-body .picker-wrapper .wp-picker-container {
+
+	padding-left: 0px;
+
+}
+
+.redux-container .wp-picker-container .wp-color-result:after {
+
+	border-radius: 0px;
+
+}
+
+.redux-container .wp-picker-container .wp-color-result {
+
+    border-radius: 0px;
+
+    box-shadow: none;
+
+}
+
+.redux-container #TakeThemes_options-typography-body .select_wrapper label {
+
+    /* line-height: 25px; */ 
+
+}
+
+.redux-container .redux-sidebar .redux-group-menu li a:first-child:active,
+
+.redux-container .redux-sidebar .redux-group-menu li a:first-child:hover {
+
+	background: #eee;
+
+}
+
+.redux-container .redux-sidebar .redux-group-menu {
+
+	background-color: #fff !important;
+
+}
+
+/* .redux-container .redux-sidebar .redux-group-menu li a:first-child {
+
+    background: #fff;
+
+} */
+
+.redux-container #TakeThemes_options-redux_options_object #consolePrintObject {
+
+    background: #0073aa;
+
+    border: 1px solid #0073aa;
+
+    color: #fff;
+
+	box-shadow: none;
+
+}
+
+.redux-container #TakeThemes_options-shop-layout .redux-image-select {
+
+	width: auto;
+
+}
+
+.redux-dev-mode-notice-container.redux-dev-qtip {
+
+	display: none;
+
+}
+
+.redux-container #redux-header {
+
+	padding-top: 20px !important;
+
+    padding-bottom: 20px !important;
+
+}
+
+.redux-container #TakeThemes_options-blog-style .redux-image-select .redux-image-select .redux-image-select,
+
+.redux-container #TakeThemes_options-grid_layout .redux-image-select .redux-image-select .redux-image-select {
+
+	width: 100% !important;
+
+}
+
+.redux-container #TakeThemes_options-blog-style .redux-image-select .redux-image-select,
+
+.redux-container #TakeThemes_options-grid_layout .redux-image-select .redux-image-select {
+
+	width: 30%;
+
+}
+
+.redux-container .redux-section-desc .description:first-child {
+
+    background: #d9edf7;
+
+    padding: 10px 10px;
+
+    border-color: #bce8f1;
+
+    border-radius: 4px;
+
+    -webkit-border-radius: 4px;
+
+    -ms-border-radius: 4px;
+
+}
+
+.redux-container .redux-section-desc .description:last-child {
+
+	background: #dff0d8;
+
+	border-color: #d6e9c6;
+
+	padding: 10px 10px;
+
+    border-radius: 4px;
+
+    -webkit-border-radius: 4px;
+
+    -ms-border-radius: 4px;
+
+}
+
+.new-icon {
+
+   /*  background: url(../img/new-icon.jpg) no-repeat;
+
+    width: 55px;
+
+    height: 22px;
+
+    position: absolute;
+
+    z-index: 999;
+
+    top: 10px;
+
+    left: 10px; */
+
+}
+
+/* .theme-browser:hover {
+
+    background: url(../img/new-icon.jpg) no-repeat;
+
+} */
+
+
+
+@media (max-width: 783px) {
+
+	.wp-core-ui .redux-container .redux-action_bar .button-primary,
+
+	.wp-core-ui .redux-container .redux-action_bar .button-primary:hover,
+
+	.wp-core-ui .redux-container .redux-action_bar .button-primary:focus,
+
+	.redux-container .redux-main #redux-defaults, 
+
+	.redux-container .redux-main #redux-defaults:hover, 
+
+	.redux-container .redux-main #redux-defaults:focus, 
+
+	.redux-container .redux-main #redux-defaults:active,
+
+	.redux-container .redux-main #redux-defaults-section:active, 
+
+	.redux-container .redux-main #redux-defaults-section:focus, 
+
+	.redux-container .redux-main #redux-defaults-section:hover, 
+
+	.redux-container .redux-main #redux-defaults-section 	{
+
+	    background-position: 7px;
+
+	}
+
+}
+
+@media (max-width: 480px) {
+
+	.redux-container .redux-main #redux-defaults,
+
+	.wp-core-ui .redux-container .redux-action_bar .button-primary {
+
+		width: 100%;
+
+		text-align: center;
+
+		margin-top: 10px;
+
+	}
+
+	.redux-container .redux-main #redux-sticky #info_bar {
+
+		height: 120px;
+
+	}
+
+	.redux-container #redux-header .display_header h2 {
+
+		height: auto;
+
+		line-height: normal;
+
+		padding-left: 70px;
+
+	}
+
+}
+
+
+
+#tabs.ui-tabs .ui-tabs-panel{
+
+	padding:0px !important;
+
+}
+
+.form-table tr#field_faqs > th{
+
+	width:0px !important;
+
+}
+
+#field_faqs label{
+
+	 display: block;
+
+    margin: 13px 0 !important;
+
+}
+
+
+
+.btn-container ul {
+
+    float: left;
+
+}
+
+#tabs .ui-widget-header{
+
+	border-top: none !important;
+
+}
+
+#tabs.ui-widget{
+
+    margin-top: 0px !important;
+
+}
+
+#tabs.ui-tabs .ui-tabs-nav{
+
+	margin-top: 0px;
+
+	padding:0px !important;
+
+	margin-left: -5px;
+
+	margin-right: -5px;
+
+	margin-bottom: 10px;
+
+}
+
+#tabs.ui-tabs .ui-tabs-nav li{
+
+	border-top:0px;
+
+	margin-bottom:5px;
+
+	margin-right: 5px;
+
+	margin-left: 5px;
+
+	float:left
+
+}
+
+#tabs.ui-tabs .ui-tabs-nav li a{
+
+	background-color: #41A6DF;
+
+	color: #fff;
+
+	border-radius: 5px;
+
+    width: 54px;
+
+    text-align: center;
+
+}
+
+#tabs.ui-tabs .ui-tabs-nav li.ui-state-active a{
+
+	background-color:#363F48;
+
+}
+
+#tabs.ui-tabs .ui-tabs-nav li.ui-state-active{
+
+	margin-bottom:4px !important;	
+
+}
+
+#tabsbtn{
+
+	cursor:pointer;
+
+	display: inline;
+
+    float: left;
+
+	margin-left: 15px;
+
+	padding: 6px 10px;
+
+	border:1px solid green;
+
+	width:71px !important;	
+
+	border-radius: 5px;
+
+}
+
+.day-hours, .hours-display {
+
+    float: left;
+
+    width: 100%;
+
+}
+
+.hours {
+
+    float: left;
+
+    width: 100%;
+
+    line-height: 27px;
+
+}
+
+.hours > span.weekday {
+
+    font-weight: bold;
+
+    width: 100px;
+
+    float: left;
+
+    text-transform: capitalize;
+
+}
+
+.hours > span.start {
+
+    width: 65px;
+
+    float: left;
+
+}
+
+.hours > span {
+
+    float: left;
+
+    width: 7px;
+
+}
+
+.hours > span.end {
+
+    float: left;
+
+    margin-left: 15px;
+
+    width: 60px;
+
+}
+
+.hours > a.remove-hours {
+
+    margin-left: 15px;
+
+    color: #ff0000;
+
+}
+
+.day-hours > ul.hours-select {
+
+    float: left;
+
+    padding: 0;
+
+    width: 100%;
+
+    margin: 10px 0px 0px;
+
+    list-style-type: none;
+
+}
+
+.day-hours > ul.hours-select > li {
+
+    float: left;
+
+    margin-right: 10px;
+
+}
+
+.hours-select > li > button.add-hours {
+
+ background-color: #363f48;
+
+    border: medium none;
+
+    border-radius: 5px;
+
+    color: #fff;
+
+    font-size: 15px;
+
+    line-height: 23px;
+
+    padding: 4px 8px;
+
+	cursor:pointer;
+
+}
+
+.hours-select > li > button.add-hours:hover {
+
+	background-color: #41a6df;
+
+}
+
+.day-hours span.select2.select2-container {
+
+    min-width: 90px;
+
+}
+
+.day-hours .select2-container--default .select2-selection--single {
+
+    height: 40px;
+
+    line-height: 40px;
+
+}
+
+.day-hours .select2-container--default .select2-selection--single .select2-selection__rendered {
+
+    line-height: 40px;
+
+    padding-right: 30px;
+
+}
+
+.day-hours .select2-container--default .select2-selection--single .select2-selection__arrow {
+
+    height: 100%;
+
+    width: 30px;
+
+}
+
+#field_business_hours label{
+
+	display:none;
+
+}
+
+
+
+/* =============================
+
+		Harry Styles
+
+================================ */
+
+#field_business_hours label{
+
+	display:none;
+
+}
+
+#field_business_hours .panel-body .col-md-2{
+
+	float:left;
+
+	margin-right: 2px;
+
+	margin-bottom: 20px;
+
+    width: 13% !important;
+
+}
+
+#field_business_hours .panel-body .col-md-4{
+
+	float:left;
+
+	margin-right: 2px;
+
+	margin-bottom: 20px;
+
+    width: 30% !important;
+
+}
+
+#field_business_hours .row{
+
+	clear:both;
+
+	margin-bottom:20px;
+
+}
+
+
+
+.redux-container fieldset#olomo_options-header_views .redux-image-select {
+
+    width: 100%;
+
+}
+
+#adminmenu li#menu-posts-listing, #adminmenu li#menu-posts-price_plan,
+
+#adminmenu li#menu-posts-reviews, #adminmenu li#menu-posts-claims,
+
+#adminmenu li#toplevel_page_Invoices, #adminmenu li#menu-posts-ads,
+
+#adminmenu li#toplevel_page_listings-invoices {
+
+    background-color: #688090;
+
+}
+
+#adminmenu li#menu-posts-listing {
+
+    margin-top: 10px;
+
+}
+
+#adminmenu li#menu-posts-claims {
+
+	margin-bottom: 10px;
+
+}
+
+body .redux-main #redux-sticky #info_bar {
+
+    height: 39px;
+
+}
+
+#addtag > input#category_image, a.button.insert-images, #addtag > input#category_banner {
+
+    font-size: 12px;
+
+    height: 32px;
+
+    line-height: 30px;
+
+    margin: 5px 0px 10px;
+
+    padding: 0px 10px;
+
+}
+
+#addtag > input#category_image, #addtag > input#category_banner {
+
+	width: 275px;
+
+}
+
+.type_select.add_item_medium {
+
+    margin: 5px 0 15px;
+
+}
+
+#addtag > input#features_icon {
+
+    margin: 5px 0 10px;
+
+    width: 95%;
+
+}
+
+/* ====================================
+
+        March 4, 2017
+
+======================================= */
+
+#field_faqs #tabs.ui-tabs .ui-tabs-nav li a {
+
+	display:block;
+
+    line-height: 32px;
+
+    padding: 0 12px;
+
+    text-decoration: none;
+
+    width: auto;
+
+}
+
+body .hours-select > li > button.add-hours {
+
+    font-size: 13px;
+
+}
+
+#olomo_options-listing_style ul li, #olomo_options-single_listing_style ul li {
+
+    width: 30%;
+
+}
+
+#olomo_options-footer_style ul li {
+    width: 50%;
+}
+
+.select2-container--default .select2-selection--multiple {
+
+    float: left;
+
+    width: 100%;
+
+}
+
+.select2-container .select2-search--inline.select2-search {
+
+    margin-bottom: 0;
+
+}
+
+
+
+/* ====================================
+
+        March 31, 2017
+
+======================================= */
+
+body.wp-admin {
+
+    background-color: #f1f1f1;
+
+}
+
+.wrap ul.nav.nav-tabs {
+
+    background-color: rgba(0, 0, 0, 0);
+
+    padding: 10px 0px;
+
+}
+
+.wrap ul.nav.nav-tabs > li > a {
+
+    background-color: transparent;
+
+    border-right: 1px solid #696969;
+
+    border-top: 0px;
+
+    border-bottom: 0px;
+
+    border-left: 0px;
+
+    box-shadow: none;
+
+    color: #0073aa;
+
+    display: inline-block;
+
+    font-size: 13px;
+
+    line-height: 14px;
+
+    margin: 0;
+
+    outline: medium none;
+
+    padding: 0 12px;
+
+}
+
+.wrap ul.nav.nav-tabs > li:first-of-type > a {
+
+    padding-left: 0;
+
+}
+
+.wrap ul.nav.nav-tabs > li:last-of-type > a {
+
+    border-right: 0 none;
+
+}
+
+.wrap ul.nav.nav-tabs > li > a:hover {
+
+    background-color: rgba(0, 0, 0, 0);
+
+    color: #333333;
+
+}
+
+.wrap .tab-content .tab-content > .tab-pane {
+
+    padding: 20px 0;
+
+}
+
+.wrap .tab-content > .tab-pane > ul.nav.nav-tabs {
+
+    background-color: #ffffff;
+
+    padding: 10px;
+
+}
+
+.wrap .notice {
+
+    padding: 15px;
+
+}
+
+.wrap .notice > form > p {
+
+    margin-top: 0;
+
+}
+
+.wrap .notice .input-text-wrap {
+
+    display: inline-block;
+
+}
+
+.wrap .notice > form > input.button.button-primary.button-hero {
+
+    height: 29px;
+
+    line-height: 29px;
+
+    padding: 0 15px;
+
+    width: 80px;
+
+}
+
+.wrap .notice p.successful {
+
+    color: #3b9f00;
+
+    margin-bottom: 0px;
+
+}
+
+.wrap .notice p.error {
+
+    color: #c42020;
+
+    margin-bottom: 0px;
+
+}
+

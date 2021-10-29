@@ -1,0 +1,10 @@
+2021-07-26T07:16:41+00:00 CRITICAL Uncaught Error: Class 'DSR_View' not found in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1838
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury/woocommerce/single-product/tabs/tabs.php(56): dokan_seller_review_tab_content('seller_review', Array)
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/wc-core-functions.php(344): include('/home/hopscon/p...')
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1538): wc_get_template('single-product/...')
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(287): woocommerce_output_product_data_tabs('')
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/hopscon/public_html/hopscan-stg.com/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#6 /home/hopscon/public_html/hopscan-stg.com/wp-content/the in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1838
+

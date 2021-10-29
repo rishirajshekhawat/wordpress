@@ -1,0 +1,110 @@
+.header_style2 .navbar.navbar-default {
+	background: #fcfcfc;
+	box-shadow: 0 0 5px #ccc
+}
+#navigation .nav.navbar-nav {
+	display: inline-block;
+	vertical-align:middle;
+}
+#navigation .nav.navbar-nav li > a {
+	padding:31px 12px;
+}
+.header_style2 #navigation .nav.navbar-nav a {
+	color: #000
+}
+.header_style2 .submit_listing .btn.outline-btn {
+	background: #38ccff;
+	border: none;
+	border-radius: 0
+}
+.header_style2 .submit_listing .btn.outline-btn:hover {
+	background: #03aee9;
+	border-color: #03aee9
+}
+.front_nav_bar {
+	float: right;
+	padding: 18px 0;
+	margin-left: 15px;
+	width: 30px;
+	transition-duration: .5s;
+	-moz-transition-duration: .5s;
+	-o-transition-duration: .5s;
+	-webkit-transition-duration: .5s;
+	-ms-transition-duration: .5s
+}
+.front_nav_bar a {
+	font-size: 30px;
+	color: #000
+}
+.affix .front_nav_bar {
+	padding: 13px 0
+}
+.header_style2 .navbar-nav {
+	top: -300px;
+	position: relative;
+	transition-duration: .5s;
+	-moz-transition-duration: .5s;
+	-o-transition-duration: .5s;
+	-webkit-transition-duration: .5s;
+	-ms-transition-duration: .5s
+}
+.header_style2 .navbar-nav.dashboard_menu {
+	top: 0
+}
+.shownav .navbar-nav {
+	top: 0
+}
+#navigation .front_nav_bar .fa-close {
+	display: none;
+	margin-top: 5px
+}
+#navigation.shownav .front_nav_bar .fa-close {
+	display: block
+}
+#navigation.shownav .front_nav_bar .fa-bars {
+	display: none
+}
+#intro_map.intro_map_style2 {
+	padding-bottom: 0
+}
+.intro_map_style2 #map {
+	width: 70%
+}
+.style_header_element .header_style2#header .navbar-fixed-top {
+	height: 78px;
+	overflow: hidden
+}
+ @media (min-width:992px) and (max-width:1200px) {
+.header_style2 .submit_listing {
+	margin-left: 5px
+}
+}
+ @media (min-width:768px) and (max-width:991px) {
+.header_style2 .submit_listing {
+	margin-left: 5px
+}
+.header_style2 .navbar-nav {
+	top: 0
+}
+}
+ @media (max-width:767px) {
+.header_style2 #navigation .nav.navbar-nav a {
+	color:#FFF;
+}
+.header_style2 .submit_listing {
+	margin-left: 5px
+}
+.header_style2 .navbar-nav {
+	top: 0
+}
+.header_style2 #navigation .nav.navbar-nav {
+	display: block;
+}
+.header_style2 .submit_listing {
+	margin: 6px auto;
+}
+.user_nav .dropdown {
+	padding: 10px 0;
+}
+
+}

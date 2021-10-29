@@ -1,0 +1,316 @@
+/*
+Theme Name:CarForYou
+Description:Premium WordPress Theme Developed by webmasterdriver.
+Author: webmasterdriver
+Theme URI: http://themes.webmasterdriver.net/carforyouwp/
+Version:2.5
+Author URI: https://themeforest.net/user/webmasterdriver
+License:GNU General Public License v2 or later
+License URI:http://www.gnu.org/licenses/gpl-2.0.html
+Description:this theme create on 2017 for WordPress.
+Tags: one-column, two-columns, right-sidebar, left-sidebar, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
+Text Domain: carforyou This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+/*===========================
+ =  Table of CSS
+ 
+	1.General CSS
+	2. Financing Calculatoe
+	3. WordPress Default Theme 
+		                                                  
+===========================*/
+
+/*-----------------------------*/
+/* 1.General css
+/*-----------------------------*/
+
+iframe.mfp-iframe {
+	height: 460px;
+	width: 100%;
+}
+.page-template-coming-soon footer, .page-template-coming-soon .brand-section, .page-template-coming-soon header {
+	display: none;
+}
+.page-template-coming-soon header.navbar-fixed-top, .coming-soon-footer {
+	display:block !important;
+}
+.page-template-coming-soon.admin-bar header.navbar-fixed-top {
+	top: 30px;
+}
+#add_model_compare {
+  background: #ffffff none repeat scroll 0 0;
+  box-shadow: 0 0 21px rgba(0, 0, 0, 0.6);
+  display: none;
+  min-width: 244px;
+  position: fixed;
+  padding-bottom:8px;
+  right: 0;
+  top: 38%;
+  z-index: 1;
+}
+.compare-close {
+	float: right;
+	font-size: 25px;
+	text-align: right;
+}
+#add_model_compare h2 {
+	background: #fa2837 none repeat scroll 0 0;
+	color: #fff;
+	font-size: 16px;
+	line-height: 35px;
+	padding: 3px 15px;
+	text-align: center;
+}
+#add_model_compare ul {
+	padding:0px;
+	margin:0px;
+	overflow:hidden;
+}
+#add_model_compare ul li {
+	display: block;
+	float: left;
+	list-style: outside none none;
+}
+#add_model_compare ul li.vs_model {
+	position:relative;
+}
+#add_model_compare ul li.vs_model::after {
+	background: #58595b none repeat scroll 0 0;
+	border-radius: 50%;
+	color: #fff;
+	content: "Vs";
+	font-size: 8.77px;
+	height: 17px;
+	line-height: 17px;
+	position: absolute;
+	right: -8px;
+	text-align: center;
+	top: 40%;
+	width: 17px;
+}
+#add_model_compare ul li a {
+	background: #ffffff none repeat scroll 0 0;
+	border: 1px solid #cccccc;
+	border-radius: 0;
+	float: left;
+	height: 75px;
+	list-style: outside none none;
+	margin: 0 10px;
+	padding: 10px;
+	text-align: center;
+	width: 74px;
+}
+#add_model_compare ul li img {
+	height:100%;
+	display:inline-block;
+	vertical-align:middle;
+}
+.compare_now_btn {
+  background: #222222 none repeat scroll 0 0;
+  color: #ffffff;
+  cursor: pointer;
+  float: right;
+  font-size: 14px;
+  line-height: 33px;
+  margin: 3px;
+  padding: 0 18px;
+  text-align: center;
+  text-decoration: none;
+}
+.compare_now_btn:hover {
+	background:#fa2837;
+	color:#fff;	
+}
+#compare_model_btn.active .compare_close {
+	background: #fff url(../images/compare_close.jpg) no-repeat center;
+	border: 2px solid #625c59;
+	color: #000;
+	display: block;
+	font-size: 15px;
+	height: 15px;
+	position: absolute;
+	right: -108px;
+	top: -132px;
+	width: 19px;
+	z-index: 22;
+}
+.compare-close > a, .compare-close > a:hover {
+  color: #ffffff;
+  cursor: pointer;
+}
+
+
+/*-----------------------------*/
+/* 2. Financing Calculatoe
+/*-----------------------------*/
+.payment_result {
+	background: #222222 none repeat scroll 0 0;
+	border-radius: 3px;
+	color: #ffffff;
+	opacity: 0;
+	height:0;
+	transform: scale(0.2) translateY(-100px);
+	transition: all 0.3s linear 0s;
+}
+.payment_result.active {
+	height: auto;
+	opacity: 1;
+	transform: scale(1) translateY(0px);
+	transition: all 0.3s linear 0s;
+	padding: 15px 10px;
+}
+.payment_result.active {
+}
+.payment_result > p {
+	font-size: 14px;
+	margin-bottom: 5px;
+	line-height:20px;
+}
+.comment-respond {
+	margin-top: 60px;
+}
+#comment {
+	background: #eeeeee none repeat scroll 0 0;
+	border: 0 none;
+	border-radius: 3px;
+	box-shadow: none;
+	color: #888888;
+	font-size: 15px;
+	line-height: 30px;
+	padding: 0 15px;
+	width:100%;
+}
+.comment-form-comment > label {
+	display: none;
+}
+.comment-reply-title {
+	font-size: 18px;
+}
+.hiddens{ display:none;}
+.inner_pages_content {overflow: hidden;}
+
+input[type="submit"] {
+	border: medium none;
+	background:#fa2837;
+	border-radius: 3px;
+	color: #ffffff;
+	font-size: 16px;
+	font-weight: 800;
+	line-height: 30px;
+	margin: auto;
+	padding: 7px 36px;
+	transition: all 0.3s linear 0s;
+}
+ul.page-numbers {
+	clear: both;
+}
+/*-----------------------------*/
+
+/* 3. WordPress Default Theme Css
+
+/*-----------------------------*/
+
+.wp-caption {
+	background: #fff;
+	border: 1px solid #f0f0f0;
+	max-width: 96%; /* Image does not overflow the content area */
+	padding: 5px 3px 10px;
+	text-align: center;
+}
+.wp-caption.alignnone {
+	margin: 5px 20px 20px 0;
+}
+.wp-caption.alignleft {
+	margin: 5px 20px 20px 0;
+}
+.wp-caption.alignright {
+	margin: 5px 0 20px 20px;
+}
+.wp-caption img {
+	border: 0 none;
+	height: auto;
+	margin: 0;
+	max-width: 98.5%;
+	padding: 0;
+	width: auto;
+}
+.wp-caption p.wp-caption-text {
+	font-size: 11px;
+	line-height: 17px;
+	margin: 0;
+	padding: 0 4px 5px;
+}
+.alignleft {
+	float: left;
+	margin: 5px 20px 20px 0;
+}
+.alignright {
+	float: right;
+	margin: 5px 0 20px 20px;
+}
+.aligncenter, div.aligncenter {
+	display: block;
+	margin: 5px auto;
+}
+.screen-reader-text {
+	display: none;
+}
+.fw-wrap-search-form {
+	display:none;
+}
+.wp-caption-text {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing:    border-box;
+	box-sizing:         border-box;
+	font-size: 12px;
+	font-style: italic;
+	line-height: 1.5;
+	margin: 9px 0;
+}
+.sticky .entry-date {
+	display: none;
+}
+.gallery-caption {
+	background-color: rgba(0, 0, 0, 0.7);
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing:    border-box;
+	box-sizing:         border-box;
+	color: #fff;
+	font-size: 12px;
+	line-height: 1.5;
+	margin: 0;
+	max-height: 50%;
+	opacity: 0;
+	padding: 6px 8px;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	text-align: left;
+	width: 100%;
+}
+.gallery-caption:before {
+	content: "";
+	height: 100%;
+	min-height: 49px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+}
+.bypostauthor > article .fn:before {
+	margin: 0 2px 0 -2px;
+	position: relative;
+	top: -1px;
+}
+.bypostauthor > article .fn:before,  .comment-edit-link:before,  .comment-reply-link:before,  .comment-reply-login:before,  .comment-reply-title small a:before,  .contributor-posts-link:before,  .menu-toggle:before,  .search-toggle:before,  .slider-direction-nav a:before,  .widget_twentyfourteen_ephemera .widget-title:before {
+	-webkit-font-smoothing: antialiased;
+	display: inline-block;
+	font: normal 16px/1 Genericons;
+	text-decoration: inherit;
+	vertical-align: text-bottom;
+}
+#add_model_compare ul li:last-child.vs_model::after {
+	content:none;
+}

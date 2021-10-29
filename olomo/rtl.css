@@ -1,0 +1,247 @@
+/*
+
+Theme Name: olomo
+
+Description: Adds support for languages written in a Right To Left (RTL) direction.
+
+It's easy, just a matter of overwriting all the horizontal positioning attributes
+
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+
+
+See: https://codex.wordpress.org/Right_to_Left_Language_Support
+
+*/
+
+/**
+
+ * Table of Contents:
+
+ *
+
+ * 1.0 - Reset
+
+ * 2.0 - Typography
+
+ * 3.0 - Elements
+
+ * 4.0 - Forms
+
+ * 5.0 - Navigations
+
+ * 6.0 Alignments
+
+ * 7.0 Comments
+
+
+
+
+
+/**
+
+ * 1.0 Reset
+
+ */
+
+body {
+
+	direction: rtl;
+
+	unicode-bidi: embed;
+
+}
+
+caption,
+
+th,
+
+td {
+
+	text-align: right;
+
+}
+
+/**
+
+ * 2.0 Typography
+
+ */
+
+blockquote {
+
+	border-right: 4px solid rgba(51, 51, 51, 0.7);
+
+	border-left: 0;
+
+	padding-right: 0.7778em;
+
+	padding-left: 0;
+
+}
+
+/**
+
+ * 3.0 Elements
+
+ */
+
+ul,
+
+ol {
+
+	margin: 0 1.3333em 1.6em 0;
+
+}
+
+caption,
+
+th,
+
+td {
+
+	text-align: right;
+
+}
+
+/**
+
+ * 4.0 Forms
+
+ */
+
+.post-password-form input[type="submit"] {
+
+	right: auto;
+
+	left: 0;
+
+}
+
+/**
+
+ * 5.0 Navigations
+
+ */
+
+.post-navigation .has-post-thumbnail a:before {
+
+	right: 0;
+
+	left: auto;
+
+}
+
+/**
+
+ * 6.0 Alignments
+
+ */
+
+.alignright {
+
+	float: right;
+
+}
+
+.alignleft {
+
+	float: left;
+
+}
+
+.aligncenter {
+
+	margin-right: auto;
+
+	margin-left: auto;
+
+}
+
+blockquote.alignright,
+
+.wp-caption.alignright,
+
+img.alignright {
+
+	margin: 0.4em 0 1.6em 1.6em;
+
+}
+
+blockquote.alignleft,
+
+.wp-caption.alignleft,
+
+img.alignleft {
+
+	margin: 0.4em 1.6em 1.6em 0;
+
+}
+
+/**
+
+ * 7.0 Comments
+
+ */
+
+.comment-list .children > li {
+
+	padding-right: 0.8em;
+
+	padding-left: 0;
+
+}
+
+.comment-author .avatar {
+
+	float: right;
+
+	margin-right: 0;
+
+	margin-left: 0.4em;
+
+}
+
+.bypostauthor > article .fn:after {
+
+	right: 3px;
+
+	left: auto;
+
+}
+
+.comment-metadata .edit-link {
+
+	margin-right: 1em;
+
+	margin-left: auto;
+
+}
+
+.pingback .edit-link {
+
+	margin-right: 1em;
+
+	margin-left: auto;
+
+}
+
+.comment-content ul,
+
+.comment-content ol {
+
+	margin: 0 1.3333em 1.6em 0;
+
+}
+
+.comment-reply-title small a {
+
+	float: left;
+
+}
+
+ul.page-numbers {
+
+  float: right;
+
+}

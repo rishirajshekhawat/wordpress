@@ -1,0 +1,80 @@
+2021-08-05T07:31:32+00:00 CRITICAL Uncaught Error: Call to a member function is_type() on null in /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/wc-template-functions.php:3597
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/templates/checkout/review-order.php(20): wc_get_formatted_cart_item_data(NULL)
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/wc-core-functions.php(344): include('/home/hopscon/p...')
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2257): wc_get_template('checkout/review...', Array)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(287): woocommerce_order_review('')
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#5 /home/hopscon/public_html/hopscan-stg.com/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#6 /home/hopscon/public_html/hopscan-stg.com/wp-c in /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 3597
+
+2021-08-05T07:42:46+00:00 CRITICAL Uncaught Error: Call to a member function is_type() on null in /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/wc-template-functions.php:3597
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/templates/checkout/review-order.php(24): wc_get_formatted_cart_item_data(NULL)
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/wc-core-functions.php(344): include('/home/hopscon/p...')
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2257): wc_get_template('checkout/review...', Array)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(287): woocommerce_order_review('')
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#5 /home/hopscon/public_html/hopscan-stg.com/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#6 /home/hopscon/public_html/hopscan-stg.com/wp-c in /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 3597
+
+2021-08-05T07:43:17+00:00 CRITICAL Uncaught Error: Call to a member function is_type() on null in /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/wc-template-functions.php:3597
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/templates/checkout/review-order.php(24): wc_get_formatted_cart_item_data(NULL)
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/wc-core-functions.php(344): include('/home/hopscon/p...')
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2257): wc_get_template('checkout/review...', Array)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(287): woocommerce_order_review('')
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#5 /home/hopscon/public_html/hopscan-stg.com/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#6 /home/hopscon/public_html/hopscan-stg.com/wp-c in /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 3597
+
+2021-08-05T07:46:08+00:00 CRITICAL Uncaught Error: Call to a member function is_type() on null in /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/wc-template-functions.php:3597
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/templates/checkout/review-order.php(24): wc_get_formatted_cart_item_data(NULL)
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/wc-core-functions.php(344): include('/home/hopscon/p...')
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2257): wc_get_template('checkout/review...', Array)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(287): woocommerce_order_review('')
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#5 /home/hopscon/public_html/hopscan-stg.com/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#6 /home/hopscon/public_html/hopscan-stg.com/wp-c in /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 3597
+
+2021-08-05T07:47:36+00:00 CRITICAL Uncaught Error: Call to a member function is_type() on null in /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/wc-template-functions.php:3597
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/templates/checkout/review-order.php(23): wc_get_formatted_cart_item_data(NULL)
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/wc-core-functions.php(344): include('/home/hopscon/p...')
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2257): wc_get_template('checkout/review...', Array)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(287): woocommerce_order_review('')
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#5 /home/hopscon/public_html/hopscan-stg.com/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#6 /home/hopscon/public_html/hopscan-stg.com/wp-c in /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 3597
+
+2021-08-05T07:47:53+00:00 CRITICAL Uncaught Error: Call to a member function is_type() on null in /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/wc-template-functions.php:3597
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/templates/checkout/review-order.php(22): wc_get_formatted_cart_item_data(NULL)
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/wc-core-functions.php(344): include('/home/hopscon/p...')
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2257): wc_get_template('checkout/review...', Array)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(287): woocommerce_order_review('')
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#5 /home/hopscon/public_html/hopscan-stg.com/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#6 /home/hopscon/public_html/hopscan-stg.com/wp-c in /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 3597
+
+2021-08-05T07:48:15+00:00 CRITICAL Uncaught Error: Call to a member function is_type() on null in /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/wc-template-functions.php:3597
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/templates/checkout/review-order.php(22): wc_get_formatted_cart_item_data(NULL)
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/wc-core-functions.php(344): include('/home/hopscon/p...')
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2257): wc_get_template('checkout/review...', Array)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(287): woocommerce_order_review('')
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#5 /home/hopscon/public_html/hopscan-stg.com/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#6 /home/hopscon/public_html/hopscan-stg.com/wp-c in /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 3597
+
+2021-08-05T07:48:34+00:00 CRITICAL Uncaught Error: Call to a member function is_type() on null in /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/wc-template-functions.php:3597
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/templates/checkout/review-order.php(21): wc_get_formatted_cart_item_data(NULL)
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/wc-core-functions.php(344): include('/home/hopscon/p...')
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2257): wc_get_template('checkout/review...', Array)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(287): woocommerce_order_review('')
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#5 /home/hopscon/public_html/hopscan-stg.com/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#6 /home/hopscon/public_html/hopscan-stg.com/wp-c in /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 3597
+

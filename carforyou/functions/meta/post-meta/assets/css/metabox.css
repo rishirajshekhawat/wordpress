@@ -1,0 +1,30 @@
+#wmd-metabox .wp-tab-panel { display: none; }
+#wmd-metabox .wp-tab-panel#wmd-mb-tab-1 { display: block; }
+
+#wmd-metabox .wp-tab-panel { max-height: none !important; }
+#wmd-metabox ul.wp-tab-bar { -webkit-touch-callout: none; -webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; }
+
+#wmd-metabox ul.wp-tab-bar { padding-top: 5px; }
+#wmd-metabox ul.wp-tab-bar:after { content: ""; display: block; height: 0; clear: both; visibility: hidden; zoom: 1; }
+#wmd-metabox ul.wp-tab-bar li { padding: 5px 12px; font-size: 14px; }
+
+#wmd-metabox .inside .form-table tr { border-top: 1px solid #dfdfdf; }
+#wmd-metabox .inside .form-table tr:first-child { border: none; }
+#wmd-metabox .inside .form-table th { width: 240px; padding: 10px 30px 10px 0; }
+#wmd-metabox .inside .form-table td { padding: 10px 0; }
+
+#wmd-metabox .inside .form-table label { display: block; }
+#wmd-metabox .inside .form-table th label span { margin-right: 7px; }
+
+#wmd-metabox .wmd-mb-uploader { margin-left: 5px; }
+
+#wmd-metabox .inside .form-table th p.wmd-mb-description { font-size: 12px; font-weight: normal; margin: 0; padding: 0; padding-top: 4px; }
+
+#wmd-metabox .inside .form-table input[type="text"],
+#wmd-metabox .inside .form-table .wmd-mb-textarea-code { width: 40%; }
+#wmd-metabox .inside .form-table textarea { width: 100% }
+#wmd-metabox .inside .form-table select { min-width: 40%; }
+
+#wmd-metabox .wmd-mb-reset { margin-top: 7px; }
+#wmd-metabox .wmd-mb-reset .wmd-reset-btn { display: block; float: left; }
+#wmd-metabox .wmd-mb-reset .wmd-reset-checkbox { float: left; display: none; margin-left: 10px; padding-top: 5px; }

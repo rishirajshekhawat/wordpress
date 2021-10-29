@@ -1,0 +1,9 @@
+2021-07-21T15:39:46+00:00 CRITICAL Uncaught Error: Call to a member function get_shop_info() on null in /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/dokan-pro/modules/elementor/includes/Tags/StoreCoupons.php:56
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/elementor/core/dynamic-tags/tag.php(35): WeDevs\DokanPro\Modules\Elementor\Tags\StoreCoupons->render()
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/elementor/core/dynamic-tags/manager.php(230): Elementor\Core\DynamicTags\Tag->get_content()
+#2 [internal function]: Elementor\Core\DynamicTags\Manager->get_tag_data_content('', 'dokan-store-cou...', Array)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/elementor/core/dynamic-tags/manager.php(123): call_user_func_array(Array, Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/elementor/core/dynamic-tags/manager.php(88): Elementor\Core\DynamicTags\Manager->parse_tag_text('[elementor-tag ...', Array, Array)
+#5 [internal function]: Elementor\Core\Dy in /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/dokan-pro/modules/elementor/includes/Tags/StoreCoupons.php on line 56
+

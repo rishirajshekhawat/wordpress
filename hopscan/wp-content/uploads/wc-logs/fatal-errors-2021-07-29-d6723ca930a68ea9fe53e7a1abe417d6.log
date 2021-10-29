@@ -1,0 +1,33 @@
+2021-07-29T07:53:35+00:00 CRITICAL Uncaught Error: Wrong parameters for Exception([string $message [, long $code [, Throwable $previous = NULL]]]) in /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-google-distance-matrix-api.php:86
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-google-distance-matrix-api.php(86): Exception->__construct(Object(WP_Error))
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-google-distance-matrix-api.php(131): WC_Google_Distance_Matrix_API->perform_request('origins=Niboye%...')
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-shipping-distance-rate.php(702): WC_Google_Distance_Matrix_API->get_distance('Niboye, Kigali,...', 'Kigali - Ruheng...', false, 'driving', 'none', 'metric', 'rw')
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-con in /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-google-distance-matrix-api.php on line 86
+
+2021-07-29T16:21:05+00:00 CRITICAL syntax error, unexpected 'if' (T_IF) in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1862
+
+2021-07-29T16:21:07+00:00 CRITICAL syntax error, unexpected 'if' (T_IF) in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1862
+
+2021-07-29T16:29:10+00:00 CRITICAL Uncaught Error: Call to undefined function is_user_loggedin() in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1853
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(287): bbloomer_remove_product_from_cart_programmatically('')
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-includes/template-loader.php(13): do_action('template_redire...')
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-blog-header.php(19): require_once('/home/hopscon/p...')
+#5 /home/hopscon/public_html/hopscan-stg.com/index.php(17): require('/home/hopscon/p...')
+#6 {main}
+  thrown in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1853
+
+2021-07-29T16:29:12+00:00 CRITICAL Uncaught Error: Call to undefined function is_user_loggedin() in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1853
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(287): bbloomer_remove_product_from_cart_programmatically('')
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-includes/template-loader.php(13): do_action('template_redire...')
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-blog-header.php(19): require_once('/home/hopscon/p...')
+#5 /home/hopscon/public_html/hopscan-stg.com/index.php(17): require('/home/hopscon/p...')
+#6 {main}
+  thrown in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1853
+

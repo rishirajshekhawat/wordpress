@@ -1,0 +1,2289 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: CarForYou\n"
+"POT-Creation-Date: 2019-08-07 14:57+0530\n"
+"PO-Revision-Date: 2019-08-08 15:46+0530\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: he_IL\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:50
+msgid "Back To Home"
+msgstr "‎חזרה לעמוד ראשי"
+
+#: blog-left-sidebar.php:53 blog-left-sidebar.php:91 blog-right-sidebar.php:47
+#: blog-right-sidebar.php:83 functions/basic-functions.php:80
+#: functions/blog-style.php:35 functions/blog-style.php:74
+#: functions/blog-style.php:118 functions/blog-style.php:152
+#: functions/blog-style.php:211 functions/blog-style.php:308
+#: functions/blog-style.php:423 functions/blog-style.php:518
+msgid "Comments"
+msgstr "תגובות"
+
+#: blog-left-sidebar.php:106 functions/basic-functions.php:86
+msgid "Read More"
+msgstr "קרא עוד"
+
+#: car-listing-grid-page.php:37 car-listing-page.php:61 search-auto.php:272
+#: single-type-term.php:52 type-of-car-temp.php:79
+msgid "Listings"
+msgstr "נכסים"
+
+#: coming-soon.php:37
+msgid "Send Message"
+msgstr "שלח הודעה"
+
+#: comments.php:46
+msgid "Comments are closed."
+msgstr "תגובות סגורות."
+
+#: functions.php:93
+msgid "primary Menu"
+msgstr "תפריט ראשי"
+
+#: functions.php:94
+msgid "Secondary Menu"
+msgstr "תפריט משני"
+
+#: functions.php:117
+msgid "CarForYou Main Sidebar"
+msgstr "סרגל הצד הראשי של CarForYou"
+
+#: functions.php:130
+msgid "CarForYou Footer Widget"
+msgstr "יישומון כותרת תחתונה של CarForYou"
+
+#: functions.php:175 functions.php:181
+msgid "f"
+msgstr "F"
+
+#: functions.php:177
+msgid "t"
+msgstr "טי"
+
+#: functions.php:179 functions.php:183
+msgid "l"
+msgstr "ל'"
+
+#: functions.php:259
+msgid "Previous"
+msgstr "הקודם"
+
+#: functions.php:260
+msgid "Next"
+msgstr "הבא"
+
+#: functions.php:266
+msgid "Posts navigation"
+msgstr "ניווט פוסטים"
+
+#: functions.php:323
+msgctxt "Previous post link"
+msgid "Previous"
+msgstr "הקודם"
+
+#: functions.php:324
+msgctxt "Next post link"
+msgid "Next"
+msgstr "הבא"
+
+#: functions.php:336
+msgid "Comment navigation"
+msgstr "ניווט בתגובות"
+
+#: functions.php:340
+msgid "Older Comments"
+msgstr "תגובות ישנות יותר"
+
+#: functions.php:343
+msgid "Newer Comments"
+msgstr "תגובות חדשות יותר"
+
+#: functions.php:462
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "על"
+
+#: functions/auto-mata.php:19
+msgid "Miles"
+msgstr "מיילס"
+
+#: functions/auto-mata.php:21
+msgid "km"
+msgstr "קמ"
+
+#: functions/auto-ajax-data.php:13
+msgid "Select Model"
+msgstr "בחר דגם"
+
+#: functions/auto-detail-fun.php:32
+msgid "Financing Calculator"
+msgstr "מחשבון מימון"
+
+#: functions/auto-detail-fun.php:39
+msgid "Vehicle Price"
+msgstr "מחיר רכב"
+
+#: functions/auto-detail-fun.php:47
+msgid "Down Payment"
+msgstr "מצב התשלום"
+
+#: functions/auto-detail-fun.php:49 functions/auto-detail-fun.php:69
+msgid "%"
+msgstr "%"
+
+#: functions/auto-detail-fun.php:54
+msgid "10"
+msgstr "10"
+
+#: functions/auto-detail-fun.php:57
+msgid "20"
+msgstr "20"
+
+#: functions/auto-detail-fun.php:60
+msgid "30"
+msgstr "30"
+
+#: functions/auto-detail-fun.php:67
+msgid "Annual Rate"
+msgstr "תעריף שנתי"
+
+#: functions/auto-detail-fun.php:75
+msgid "Period in Month"
+msgstr "תקופה בחודש"
+
+#: functions/auto-detail-fun.php:80
+msgid "12 Month"
+msgstr "12 חודש"
+
+#: functions/auto-detail-fun.php:83
+msgid "18 Month"
+msgstr "18 חודש"
+
+#: functions/auto-detail-fun.php:86
+msgid "24 Month"
+msgstr "24 חודש"
+
+#: functions/auto-detail-fun.php:93
+msgid "Calculator"
+msgstr "חישוב"
+
+#: functions/auto-detail-fun.php:99
+msgid "Monthy Payment"
+msgstr "תשלום חודשי"
+
+#: functions/auto-detail-fun.php:104
+msgid "Total Interest"
+msgstr "ריבית מוחלטת"
+
+#: functions/auto-detail-fun.php:109
+msgid "Total Amount Pay"
+msgstr "סכום שכר כולל"
+
+#: functions/auto-detail-fun.php:141
+msgid "New"
+msgstr "חדש"
+
+#: functions/auto-detail-fun.php:146 functions/auto-function.php:99
+#: functions/basic-functions.php:248 functions/basic-functions.php:324
+#: functions/basic-functions.php:404 functions/basic-functions.php:459
+#: functions/list-page-fun.php:133 functions/list-page-fun.php:223
+#: functions/list-page-fun.php:395 functions/list-page-fun.php:523
+#: functions/list-page-fun.php:1023 functions/list-page-fun.php:1315
+#: functions/search-page-style.php:29 functions/search-page-style.php:70
+#: phone-rival.php:25 phone-rival.php:74 phone-rival.php:189
+msgid "Compare"
+msgstr "השווה"
+
+#: functions/auto-detail-fun.php:294
+msgid "Total Miles"
+msgstr "סך מיילים"
+
+#: functions/auto-detail-fun.php:296
+msgid "Total Kilometres"
+msgstr "סה\"כ קילומטרים"
+
+#: functions/auto-detail-fun.php:309 functions/auto-detail-fun.php:1198
+msgid "Reg.Year"
+msgstr "שנת רישום"
+
+#: functions/auto-detail-fun.php:317 functions/auto-detail-fun.php:448
+#: functions/auto-detail-fun.php:1206 functions/auto-detail-fun.php:1325
+#: phone-rival.php:150
+msgid "Fuel Type"
+msgstr "סוג דלק"
+
+#: functions/auto-detail-fun.php:325 functions/auto-detail-fun.php:1214
+msgid "Transmission"
+msgstr "גיר"
+
+#: functions/auto-detail-fun.php:333 functions/auto-detail-fun.php:1222
+msgid "Engine"
+msgstr "מנוע"
+
+#: functions/auto-detail-fun.php:341 functions/auto-detail-fun.php:1230
+msgid "Seats"
+msgstr "כמות מתאמנים"
+
+#: functions/auto-detail-fun.php:354 functions/auto-detail-fun.php:1243
+msgid "Vehicle Overview"
+msgstr "סקירת רכב"
+
+#: functions/auto-detail-fun.php:357 functions/auto-detail-fun.php:469
+#: functions/auto-detail-fun.php:1246 functions/auto-detail-fun.php:1337
+#: phone-rival.php:175
+msgid "Technical Specification"
+msgstr "מפרט טכני"
+
+#: functions/auto-detail-fun.php:360 functions/auto-detail-fun.php:545
+#: functions/auto-detail-fun.php:1249 functions/auto-detail-fun.php:1403
+#: phone-rival.php:239
+msgid "Accessories"
+msgstr "אביזרים"
+
+#: functions/auto-detail-fun.php:394 functions/auto-detail-fun.php:1273
+msgid "Basic Information"
+msgstr "מידע בסיסי"
+
+#: functions/auto-detail-fun.php:400 functions/auto-detail-fun.php:1279
+#: phone-rival.php:114
+msgid "Vehicle Condition"
+msgstr "מצב הרכב"
+
+#: functions/auto-detail-fun.php:412 functions/auto-detail-fun.php:1288
+#: phone-rival.php:120
+msgid "Brand"
+msgstr "מותג"
+
+#: functions/auto-detail-fun.php:418 functions/auto-detail-fun.php:1294
+#: phone-rival.php:132
+msgid "Model"
+msgstr "דוגמנית"
+
+#: functions/auto-detail-fun.php:430 functions/auto-detail-fun.php:1307
+#: phone-rival.php:126
+msgid "Model Year"
+msgstr "שנת מודל"
+
+#: functions/auto-detail-fun.php:436 functions/auto-detail-fun.php:1313
+#: phone-rival.php:138
+msgid "No. of Owners"
+msgstr "מסמפר בעלים קודמים"
+
+#: functions/auto-detail-fun.php:442 functions/auto-detail-fun.php:1319
+#: phone-rival.php:144
+msgid "KMs Driven"
+msgstr "קילומטרז' הרכב"
+
+#: functions/auto-detail-fun.php:475 functions/auto-detail-fun.php:1343
+#: phone-rival.php:183
+msgid "Engine Type"
+msgstr "סוג מנוע"
+
+#: functions/auto-detail-fun.php:481 functions/auto-detail-fun.php:1349
+msgid "Engine Description"
+msgstr "תיאור מנוע"
+
+#: functions/auto-detail-fun.php:487 functions/auto-detail-fun.php:1355
+#: phone-rival.php:196
+msgid "No. of Cylinders"
+msgstr "מספר בוחנות"
+
+#: functions/auto-detail-fun.php:493 functions/auto-detail-fun.php:1361
+#: phone-rival.php:202
+msgid "Mileage-City"
+msgstr "קילומטראז 'סיטי"
+
+#: functions/auto-detail-fun.php:499 functions/auto-detail-fun.php:1367
+#: phone-rival.php:208
+msgid "Mileage-Highway"
+msgstr "קילומטראז '- כביש מהיר"
+
+#: functions/auto-detail-fun.php:505 functions/auto-detail-fun.php:1373
+#: phone-rival.php:214
+msgid "Fuel Tank Capacity"
+msgstr "קיבולת מיכל הדלק"
+
+#: functions/auto-detail-fun.php:511 functions/auto-detail-fun.php:1379
+#: phone-rival.php:220
+msgid "Seating Capacity"
+msgstr "קיבולת מקומות הישיבה"
+
+#: functions/auto-detail-fun.php:517 functions/auto-detail-fun.php:1385
+#: phone-rival.php:226
+msgid "Transmission Type"
+msgstr "סוג גיר"
+
+#: functions/auto-detail-fun.php:551 functions/auto-detail-fun.php:1408
+msgid "Cruise Control"
+msgstr "בקרת שיוט"
+
+#: functions/auto-detail-fun.php:560 functions/auto-detail-fun.php:1416
+msgid "Electrically folding doors mirrors"
+msgstr "מראות דלתות מתקפלות חשמלית"
+
+#: functions/auto-detail-fun.php:568 functions/auto-detail-fun.php:1423
+msgid "Heated exteriors mirrors"
+msgstr "מראות חיצוניות מחוממות"
+
+#: functions/auto-detail-fun.php:576
+msgid "Electric windows front+rear"
+msgstr "חלונות חשמליים קדמיים + אחוריים"
+
+#: functions/auto-detail-fun.php:584
+msgid "Leather Furnishing"
+msgstr "ריהוט עור"
+
+#: functions/auto-detail-fun.php:592
+msgid "Armrest for"
+msgstr "משענת יד ל"
+
+#: functions/auto-detail-fun.php:600
+msgid "Rain Sensor"
+msgstr "חיישן גשם"
+
+#: functions/auto-detail-fun.php:608
+msgid "Start/Stop System"
+msgstr "הפעל / עצור מערכת"
+
+#: functions/auto-detail-fun.php:616
+msgid "Gear lever covered with leather"
+msgstr "ידית הילוכים מכוסה בעור"
+
+#: functions/auto-detail-fun.php:624
+msgid "Automatic Climate Control"
+msgstr "בקרת אקלים אוטומטית"
+
+#: functions/auto-detail-fun.php:632
+msgid "Electrically adjustable door mirrors"
+msgstr "מראות דלת מתכווננות חשמלית"
+
+#: functions/auto-detail-fun.php:640
+msgid "Central door locking with remote control"
+msgstr "נעילת דלת מרכזית עם שלט רחוק"
+
+#: functions/auto-detail-fun.php:648
+msgid "Seat Heating"
+msgstr "חימום מושב"
+
+#: functions/auto-detail-fun.php:656
+msgid "Leather Steering Wheel"
+msgstr "הגה מעור"
+
+#: functions/auto-detail-fun.php:664
+msgid "Light sensor"
+msgstr "חיישן אור"
+
+#: functions/auto-detail-fun.php:672
+msgid "Sports Suspension"
+msgstr "השעיית ספורט"
+
+#: functions/auto-detail-fun.php:688
+msgid "Tinted and heat-resistant glass"
+msgstr "זכוכית כהה ועמידה בחום"
+
+#: functions/auto-detail-fun.php:696
+msgid "ABS"
+msgstr "שרירי בטן"
+
+#: functions/auto-detail-fun.php:704
+msgid "Airbag Passenger"
+msgstr "נוסע כרית אוויר"
+
+#: functions/auto-detail-fun.php:712
+msgid "Alarm System"
+msgstr "מערכת אזעקה"
+
+#: functions/auto-detail-fun.php:720
+msgid "Isofix (Child Seat Confirmation)"
+msgstr "איזופיקס (אישור מושב ילדים)"
+
+#: functions/auto-detail-fun.php:728
+msgid "Traction Control"
+msgstr "בקרת משיכה"
+
+#: functions/auto-detail-fun.php:736
+msgid "Airbag Driver"
+msgstr "נהג כרית אוויר"
+
+#: functions/auto-detail-fun.php:744
+msgid "Side Airbags"
+msgstr "כריות אוויר בצד"
+
+#: functions/auto-detail-fun.php:752
+msgid "ESP"
+msgstr "ESP"
+
+#: functions/auto-detail-fun.php:760
+msgid "Rear Parking Sensors"
+msgstr "חיישני חניה אחוריים"
+
+#: functions/auto-detail-fun.php:768
+msgid "Bi Xenon Headlights"
+msgstr "פנסי דו קסנון"
+
+#: functions/auto-detail-fun.php:776
+msgid "LED Daytime running lights"
+msgstr "אורות LED בשעות היום"
+
+#: functions/auto-detail-fun.php:784
+msgid "LED tail lights"
+msgstr "נורות זנב LED"
+
+#: functions/auto-detail-fun.php:792
+msgid "Front Fog Lights"
+msgstr "אורות ערפל קדמיים"
+
+#: functions/auto-detail-fun.php:800
+msgid "Headlights Washers"
+msgstr "מכבשי פנסים"
+
+#: functions/auto-detail-fun.php:808
+msgid "Sports Package"
+msgstr "חבילת ספורט"
+
+#: functions/auto-detail-fun.php:816
+msgid "Alloy Wheels"
+msgstr "גלגלי סגסוגת"
+
+#: functions/auto-detail-fun.php:824
+msgid "Maintenance History Present"
+msgstr "היסטוריית תחזוקה הווה"
+
+#: functions/auto-detail-fun.php:832
+msgid "Particle Filter"
+msgstr "פילטר חלקיקים"
+
+#: functions/auto-detail-fun.php:840 functions/auto-detail-fun.php:1431
+#: phone-rival.php:247
+msgid "Air Conditioner"
+msgstr "מזגן"
+
+#: functions/auto-detail-fun.php:848 functions/auto-detail-fun.php:1439
+#: phone-rival.php:253
+msgid "AntiLock Braking System"
+msgstr "ABS"
+
+#: functions/auto-detail-fun.php:856 functions/auto-detail-fun.php:1447
+#: phone-rival.php:259
+msgid "Power Steering"
+msgstr "היגוי כוח"
+
+#: functions/auto-detail-fun.php:864 functions/auto-detail-fun.php:1455
+#: phone-rival.php:265
+msgid "Power Windows"
+msgstr "חלונות חשמליים"
+
+#: functions/auto-detail-fun.php:872 functions/auto-detail-fun.php:1463
+#: phone-rival.php:271
+msgid "CD Player"
+msgstr "נגן תקליטורים"
+
+#: functions/auto-detail-fun.php:880 functions/auto-detail-fun.php:1471
+#: phone-rival.php:277
+msgid "Leather Seats"
+msgstr "מושבי עור"
+
+#: functions/auto-detail-fun.php:888 functions/auto-detail-fun.php:1479
+#: phone-rival.php:283
+msgid "Central Locking"
+msgstr "נעילה מרכזית"
+
+#: functions/auto-detail-fun.php:896 functions/auto-detail-fun.php:1487
+#: phone-rival.php:289
+msgid "Power Door Locks"
+msgstr "מנעולי הדלתות חשמליים"
+
+#: functions/auto-detail-fun.php:904 functions/auto-detail-fun.php:1495
+msgid "Brake Assist"
+msgstr "עוזר בלמים"
+
+#: functions/auto-detail-fun.php:912 functions/auto-detail-fun.php:1503
+msgid "Driver Airbag"
+msgstr "כרית אוויר לנהג"
+
+#: functions/auto-detail-fun.php:920 functions/auto-detail-fun.php:1511
+msgid "Passenger Airbag"
+msgstr "כריות אויר לנוסע"
+
+#: functions/auto-detail-fun.php:928 functions/auto-detail-fun.php:1519
+msgid "Crash Sensor"
+msgstr "חיישן התרסקות"
+
+#: functions/auto-detail-fun.php:936 functions/auto-detail-fun.php:1527
+msgid "Engine Check Warning"
+msgstr "סימון אזהרה למנוע"
+
+#: functions/auto-detail-fun.php:944 functions/auto-detail-fun.php:1535
+msgid "Automatic Headlamps"
+msgstr "פנסים אוטומטיים"
+
+#: functions/auto-detail-fun.php:1000 functions/auto-detail-fun.php:1592
+msgid "Watch Video"
+msgstr "לחצו כאן לצפייה הסרטון"
+
+#: functions/auto-detail-fun.php:1649 functions/search-filter.php:137
+#: functions/search-filter.php:297 functions/search-filter.php:518
+#: functions/theme-options.php:1920
+msgid "Search Car"
+msgstr "חיפוש מכונית"
+
+#: functions/auto-function.php:88
+msgid "Compared Auto"
+msgstr "השוואה אוטומטי"
+
+#: functions/auto-function.php:102
+msgid "Clear All"
+msgstr "נקה הכל"
+
+#: functions/auto-function.php:137
+msgid "Sort by:"
+msgstr "מיין לפי:"
+
+#: functions/auto-function.php:151
+msgid "Sort Listing"
+msgstr "רשימת סוגים"
+
+#: functions/auto-function.php:154
+msgid "A-Z"
+msgstr "א-ת"
+
+#: functions/auto-function.php:157
+msgid "Price (Low to High)"
+msgstr "מחיר (מהנמוך לגבוה)"
+
+#: functions/auto-function.php:160
+msgid "Price (High to Low)"
+msgstr "מחיר (מהגבוה לנמוך)"
+
+#: functions/auto-function.php:163
+msgid "Newest Items"
+msgstr "הפריטים החדשים ביותר"
+
+#: functions/auto-function.php:166
+msgid "Oldest Items"
+msgstr "הפריטים הישנים ביותר"
+
+#: functions/blog-style.php:203 functions/blog-style.php:300
+#: functions/blog-style.php:415 functions/blog-style.php:510
+msgid "Featured"
+msgstr "מומלצים"
+
+#: functions/blog-style.php:234 functions/blog-style.php:323
+#: functions/blog-style.php:444 functions/blog-style.php:537
+msgid "Pages:"
+msgstr "עמודים:"
+
+#: functions/classes/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "התקן תוספים נדרשים"
+
+#: functions/classes/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "התקן תוספים"
+
+#. translators: %s: plugin name.
+#: functions/classes/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "מתקין תוספים: %s"
+
+#. translators: %s: plugin name.
+#: functions/classes/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "מעדכן את הפלאגין: %s"
+
+#: functions/classes/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "משהו השתבש עם ה-API של התוסף."
+
+#. translators: 1: plugin name(s).
+#: functions/classes/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: functions/classes/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: functions/classes/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: functions/classes/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/classes/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/classes/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/classes/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/classes/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "בחזרה אל התקנת התוספים הנדרשים"
+
+#: functions/classes/class-tgm-plugin-activation.php:393
+#: functions/classes/class-tgm-plugin-activation.php:920
+#: functions/classes/class-tgm-plugin-activation.php:2627
+#: functions/classes/class-tgm-plugin-activation.php:3674
+msgid "Return to the Dashboard"
+msgstr "חזור אל לוח הבקרה"
+
+#: functions/classes/class-tgm-plugin-activation.php:394
+#: functions/classes/class-tgm-plugin-activation.php:3253
+msgid "Plugin activated successfully."
+msgstr "התוסף הופעל בהצלחה."
+
+#: functions/classes/class-tgm-plugin-activation.php:395
+#: functions/classes/class-tgm-plugin-activation.php:3046
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "התוסף הבא הופעל בהצלחה:"
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: functions/classes/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "לא השתנה דבר. התוסף %1$s כבר היה פעיל."
+
+#. translators: 1: plugin name.
+#: functions/classes/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"תוסף אינו מופעל. גרסה גבוהה יותר של %s נדרש עבור ערכת נושא זו. נא לעדכן את "
+"התוסף."
+
+#. translators: 1: dashboard link.
+#: functions/classes/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "כל התוספים הותקנו והופעלו בהצלחה. %1$s"
+
+#: functions/classes/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "דחה הודעה זו"
+
+#: functions/classes/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr "קיים תוסף נדרש או מומלץ או יותר להתקנה, עדכון או הפעלה."
+
+#: functions/classes/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "אנא פנה אל מנהל האתר לעזרה."
+
+#: functions/classes/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "עליך לעדכן את התוסף כדי שיתאים לערכת הנושא שלך."
+
+#: functions/classes/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr "נדרש עידכון"
+
+#: functions/classes/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr "יש להגדיר את משתנה ה- parent_slug config במקום זאת."
+
+#: functions/classes/class-tgm-plugin-activation.php:1027
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"חבילת התוספים מרחוק אינה מכילה תיקייה עם הסלאג הנדרש ולא הצלחנו לשנות את השם."
+
+#: functions/classes/class-tgm-plugin-activation.php:1027
+#: functions/classes/class-tgm-plugin-activation.php:1030
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"אנא פנה ליוצר התוסף ושאל אותם איך לארוז את התוסף שלהם על פי הנחיות וורדפרס"
+
+#: functions/classes/class-tgm-plugin-activation.php:1030
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr "חבילת התוסף המרוחק מכילה יותר מקובץ אחד, אבל הקבצים לא ארוזים בתיקייה."
+
+#: functions/classes/class-tgm-plugin-activation.php:1214
+#: functions/classes/class-tgm-plugin-activation.php:3042
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "ו"
+
+#. translators: %s: version number
+#: functions/classes/class-tgm-plugin-activation.php:2076
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: functions/classes/class-tgm-plugin-activation.php:2367
+msgid "Required"
+msgstr "נדרש"
+
+#: functions/classes/class-tgm-plugin-activation.php:2370
+msgid "Recommended"
+msgstr "מומלץ"
+
+#: functions/classes/class-tgm-plugin-activation.php:2386
+msgid "WordPress Repository"
+msgstr "מאגר וורדפרס"
+
+#: functions/classes/class-tgm-plugin-activation.php:2389
+msgid "External Source"
+msgstr "מקור חיצוני"
+
+#: functions/classes/class-tgm-plugin-activation.php:2392
+msgid "Pre-Packaged"
+msgstr "ארוז מראש"
+
+#: functions/classes/class-tgm-plugin-activation.php:2409
+msgid "Not Installed"
+msgstr "לא הותקן"
+
+#: functions/classes/class-tgm-plugin-activation.php:2413
+msgid "Installed But Not Activated"
+msgstr "הותקן אך לא הופעל"
+
+#: functions/classes/class-tgm-plugin-activation.php:2415
+msgid "Active"
+msgstr "פעיל"
+
+#: functions/classes/class-tgm-plugin-activation.php:2421
+msgid "Required Update not Available"
+msgstr "העדכון הנדרש  לא זמין"
+
+#: functions/classes/class-tgm-plugin-activation.php:2424
+msgid "Requires Update"
+msgstr "דורש עדכון"
+
+#: functions/classes/class-tgm-plugin-activation.php:2427
+msgid "Update recommended"
+msgstr "עדכון מומלץ"
+
+#. translators: 1: install status, 2: update status
+#: functions/classes/class-tgm-plugin-activation.php:2436
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. translators: 1: number of plugins.
+#: functions/classes/class-tgm-plugin-activation.php:2482
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: functions/classes/class-tgm-plugin-activation.php:2486
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: functions/classes/class-tgm-plugin-activation.php:2490
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: functions/classes/class-tgm-plugin-activation.php:2494
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/classes/class-tgm-plugin-activation.php:2576
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "לא ידוע"
+
+#: functions/classes/class-tgm-plugin-activation.php:2584
+msgid "Installed version:"
+msgstr "גרסה מותקנת:"
+
+#: functions/classes/class-tgm-plugin-activation.php:2592
+msgid "Minimum required version:"
+msgstr "הגירסה המינימלית הנדרשת:"
+
+#: functions/classes/class-tgm-plugin-activation.php:2604
+msgid "Available version:"
+msgstr "גירסה זמינה:"
+
+#: functions/classes/class-tgm-plugin-activation.php:2627
+msgid "No plugins to install, update or activate."
+msgstr "אין תוספים להתקנה, לעדכון או להפעלה."
+
+#: functions/classes/class-tgm-plugin-activation.php:2641
+msgid "Plugin"
+msgstr "תוסף"
+
+#: functions/classes/class-tgm-plugin-activation.php:2642
+msgid "Source"
+msgstr "מקור"
+
+#: functions/classes/class-tgm-plugin-activation.php:2643
+msgid "Type"
+msgstr "סוג"
+
+#: functions/classes/class-tgm-plugin-activation.php:2647
+msgid "Version"
+msgstr "גרסה"
+
+#: functions/classes/class-tgm-plugin-activation.php:2648
+msgid "Status"
+msgstr "סטטוס"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: functions/classes/class-tgm-plugin-activation.php:2697
+#, php-format
+msgid "Install %2$s"
+msgstr "התקן %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: functions/classes/class-tgm-plugin-activation.php:2702
+#, php-format
+msgid "Update %2$s"
+msgstr "עדכן  %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: functions/classes/class-tgm-plugin-activation.php:2708
+#, php-format
+msgid "Activate %2$s"
+msgstr "הפעל %2$s"
+
+#: functions/classes/class-tgm-plugin-activation.php:2778
+msgid "Upgrade message from the plugin author:"
+msgstr "הודעת שדרוג מיוצר התוסף:"
+
+#: functions/classes/class-tgm-plugin-activation.php:2811
+msgid "Install"
+msgstr "להתקין"
+
+#: functions/classes/class-tgm-plugin-activation.php:2817
+msgid "Update"
+msgstr "עדכון"
+
+#: functions/classes/class-tgm-plugin-activation.php:2820
+msgid "Activate"
+msgstr "הפעל"
+
+#: functions/classes/class-tgm-plugin-activation.php:2851
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "לא נבחרו תוספים להתקנה. לא השתנה דבר."
+
+#: functions/classes/class-tgm-plugin-activation.php:2853
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "לא נבחרו תוספים לעדכון. לא השתנה דבר."
+
+#: functions/classes/class-tgm-plugin-activation.php:2894
+msgid "No plugins are available to be installed at this time."
+msgstr "לא נבחרו תוספים להתקנה. לא השתנה דבר."
+
+#: functions/classes/class-tgm-plugin-activation.php:2896
+msgid "No plugins are available to be updated at this time."
+msgstr "לא נבחרו תוספים להתקנה. לא השתנה דבר."
+
+#: functions/classes/class-tgm-plugin-activation.php:3002
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "לא נבחרו תוספים להפעלה. לא בוצעה שום פעולה."
+
+#: functions/classes/class-tgm-plugin-activation.php:3028
+msgid "No plugins are available to be activated at this time."
+msgstr "אין תוספים זמינים להפעלה כעת."
+
+#: functions/classes/class-tgm-plugin-activation.php:3252
+msgid "Plugin activation failed."
+msgstr "הפעלת התוסף נכשלה."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: functions/classes/class-tgm-plugin-activation.php:3592
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "מעדכן תוסף %1$s (%2$d/%3$d)"
+
+#. translators: 1: plugin name, 2: error message.
+#: functions/classes/class-tgm-plugin-activation.php:3595
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "אירעה שגיאה בעת ההתקנה %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name.
+#: functions/classes/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "ההתקנה של %1$s נכשלה."
+
+#: functions/classes/class-tgm-plugin-activation.php:3601
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"תהליך ההפעלה וההתקנה מתחיל. התהליך עלול לקחת זמן מה בחלק מהשרתים, אנא המתן "
+"בסבלנות."
+
+#. translators: 1: plugin name.
+#: functions/classes/class-tgm-plugin-activation.php:3603
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s הותקן והופעל בהצלחה."
+
+#: functions/classes/class-tgm-plugin-activation.php:3603
+#: functions/classes/class-tgm-plugin-activation.php:3611
+msgid "Show Details"
+msgstr "הצג פרטים"
+
+#: functions/classes/class-tgm-plugin-activation.php:3603
+#: functions/classes/class-tgm-plugin-activation.php:3611
+msgid "Hide Details"
+msgstr "הסתר פרטים"
+
+#: functions/classes/class-tgm-plugin-activation.php:3604
+msgid "All installations and activations have been completed."
+msgstr "כל ההתקנות וההפעלות הושלמו."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: functions/classes/class-tgm-plugin-activation.php:3606
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "מתקין ומפעיל תוסף %1$s (%2$d/%3$d)"
+
+#: functions/classes/class-tgm-plugin-activation.php:3609
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"תהליך ההתקנה מתחיל. התהליך עלול לקחת זמן מה בחלק מהשרתים, אנא המתן בסבלנות."
+
+#. translators: 1: plugin name.
+#: functions/classes/class-tgm-plugin-activation.php:3611
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s הותקן בהצלחה."
+
+#: functions/classes/class-tgm-plugin-activation.php:3612
+msgid "All installations have been completed."
+msgstr "כל ההתקנות הושלמו."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: functions/classes/class-tgm-plugin-activation.php:3614
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "מתקין תוסף %1$s (%2$d/%3$d)"
+
+#: functions/classes/install-plugin.php:237
+msgid "Dream Real Estate"
+msgstr "חלום נדל\"ן"
+
+#: functions/classes/install-plugin.php:277
+msgid "Js Composer"
+msgstr "מלחין Js"
+
+#: functions/classes/install-plugin.php:317
+msgid "Meta Box"
+msgstr "Meta Box"
+
+#: functions/classes/install-plugin.php:341
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: functions/classes/install-plugin.php:365
+msgid "Redux Framework"
+msgstr "מסגרת Redux"
+
+#: functions/classes/install-plugin.php:389
+msgid "MailChimp for WordPress"
+msgstr "מיילצ'ימפ עבור וורדפרס"
+
+#: functions/header-fun.php:407 header-a.php:167
+msgid "Search..."
+msgstr "לחפש..."
+
+#: functions/list-page-fun.php:427
+msgid "View Details "
+msgstr "לפרטים נוספים"
+
+#: functions/list-page-fun.php:553 functions/list-page-fun.php:1053
+#: functions/list-page-fun.php:1345 functions/search-page-style.php:85
+msgid "View Details"
+msgstr "הצג פרטים"
+
+#: functions/meta/post-meta/class.php:37
+msgid "Designation Field"
+msgstr "שדה ייעוד"
+
+#: functions/meta/post-meta/class.php:49
+msgid "Designation of Testimonial:-"
+msgstr "ייעוד המלצה: -"
+
+#: functions/meta/post-meta/class.php:51
+msgid "Example: CEO of xzy company"
+msgstr "דוגמא: מנכ\"ל חברת xzy"
+
+#: functions/meta/post-meta/class.php:59
+msgid "Brand Link"
+msgstr "קישור מותג"
+
+#: functions/meta/post-meta/class.php:62
+msgid "Add Brand Link:-"
+msgstr "הוספת קישור המותג:-"
+
+#: functions/meta/post-meta/class.php:64
+msgid "Example: http://www.bmw.in/"
+msgstr "דוגמה: http://www.bmw.in/"
+
+#: functions/meta/post-meta/class.php:73 functions/meta/post-meta/class.php:97
+msgid "Header Setting"
+msgstr "הגדרת כותרת"
+
+#: functions/meta/post-meta/class.php:77 functions/meta/post-meta/class.php:101
+msgid "Custom Header"
+msgstr "כותרת מותאמת אישית"
+
+#: functions/meta/post-meta/class.php:78 functions/meta/post-meta/class.php:102
+msgid "Custom Header Banner Image Upload"
+msgstr "העלאת תמונת באנר כותרת מותאמת אישית"
+
+#: functions/meta/post-meta/class.php:81 functions/meta/post-meta/class.php:105
+msgid "Header Image Upload"
+msgstr "העלאת תמונת כותרת"
+
+#: functions/meta/post-meta/class.php:117
+msgid "Show car type on page"
+msgstr "הצג את סוג המכונית בעמוד"
+
+#: functions/meta/post-meta/class.php:122
+msgid "Select car type:-"
+msgstr "בחר סוג רכב: -"
+
+#: functions/meta/post-meta/class.php:139
+msgid "Post Formet Setting"
+msgstr "הגדרת צורת פוסט"
+
+#: functions/meta/post-meta/class.php:143
+msgid "Video Link For Video Post Formet"
+msgstr "קישור וידאו לפורמט פוסט וידאו"
+
+#: functions/meta/post-meta/class.php:146
+msgid "Video Link"
+msgstr "קישור לווידאו"
+
+#: functions/meta/post-meta/class.php:149
+msgid "Note:- Please Add youtube Only"
+msgstr "הערה: - אנא הוסף YouTube בלבד"
+
+#: functions/meta/post-meta/class.php:161
+msgid "Trending Post"
+msgstr "פוסט פופולרי"
+
+#: functions/meta/post-meta/class.php:166
+msgid "Trending Car Post"
+msgstr "פוסט על רכבים חמים"
+
+#: functions/meta/post-meta/class.php:175
+msgid "Team Member Info"
+msgstr "מידע על צוות הצוות"
+
+#: functions/meta/post-meta/class.php:178
+msgid "Member Designation :-"
+msgstr "ייעוד לחבר: -"
+
+#: functions/meta/post-meta/class.php:180
+msgid "Example: Chief Finance Manager"
+msgstr "דוגמה: מנהל כספים ראשי"
+
+#: functions/meta/post-meta/class.php:184
+msgid "Member Phone No. :-"
+msgstr "מספר טלפון לחבר: -"
+
+#: functions/meta/post-meta/class.php:186
+msgid "Example: +61-12134-567-89"
+msgstr "דוגמה: 61-12134-567-89"
+
+#: functions/meta/post-meta/class.php:190
+msgid "Member Email :-"
+msgstr "דוא\"ל חבר: -"
+
+#: functions/meta/post-meta/class.php:192
+msgid "Example: contact@example.com"
+msgstr "דוגמה: contact@example.com"
+
+#: functions/meta/post-meta/class.php:196
+msgid "Member Facebook Page Link:-"
+msgstr "קישור לדף פייסבוק חבר: -"
+
+#: functions/meta/post-meta/class.php:198
+msgid "Example: https://www.facebook.com"
+msgstr "דוגמה: https://www.facebook.com"
+
+#: functions/meta/post-meta/class.php:202
+msgid "Member Twitter Page Link:-"
+msgstr "קישור לדף הטוויטר של החברים: -"
+
+#: functions/meta/post-meta/class.php:204
+msgid "Example: https://www.twitter.com"
+msgstr "דוגמה: https://www.twitter.com"
+
+#: functions/meta/post-meta/class.php:208
+msgid "Member linkedin Page Link:-"
+msgstr "קישור לדף קישור לחברים: -"
+
+#: functions/meta/post-meta/class.php:210
+msgid "Example: https://www.linkedin.com"
+msgstr "דוגמה: https://www.linkedin.com"
+
+#: functions/meta/post-meta/class.php:214
+msgid "Member Google Plus Link:-"
+msgstr "קישור ל- Google Plus פלוס: -"
+
+#: functions/meta/post-meta/class.php:216
+msgid "Example: https://www.google.com"
+msgstr "דוגמה: https://www.google.com"
+
+#: functions/search-filter.php:27 functions/search-filter.php:190
+#: functions/search-filter.php:370
+msgid "Select Location"
+msgstr "בחר חנות לאיסוף"
+
+#: functions/search-filter.php:48 functions/search-filter.php:211
+#: functions/search-filter.php:391
+msgid "Select Brand"
+msgstr "בחר מותג"
+
+#: functions/search-filter.php:65 functions/search-filter.php:228
+#: functions/search-filter.php:440
+msgid "Select Brand First"
+msgstr "בחר מותג ראשון"
+
+#: functions/search-filter.php:77 functions/search-filter.php:240
+#: functions/search-filter.php:452
+msgid "Year of Model"
+msgstr "שנת הדגם"
+
+#: functions/search-filter.php:98 functions/search-filter.php:261
+#: functions/search-filter.php:477
+msgid "Vehicle Fuel Type"
+msgstr "סוג מנוע הרכב"
+
+#: functions/search-filter.php:99 functions/search-filter.php:262
+#: functions/search-filter.php:478
+msgid "Diesel"
+msgstr "דיזל"
+
+#: functions/search-filter.php:100 functions/search-filter.php:263
+#: functions/search-filter.php:479
+msgid "Petrol"
+msgstr "בנזין"
+
+#: functions/search-filter.php:101 functions/search-filter.php:264
+#: functions/search-filter.php:480
+msgid "Autogas"
+msgstr "אוטוגות"
+
+#: functions/search-filter.php:112 functions/search-filter.php:490
+msgid "Price Range"
+msgstr "טווח מחירים"
+
+#: functions/search-filter.php:123 functions/search-filter.php:285
+#: functions/search-filter.php:501
+msgid "Type of Car"
+msgstr "סוג המכונית"
+
+#: functions/search-filter.php:274
+msgid "Price Range "
+msgstr "טווח מחירים "
+
+#: functions/social-share.php:17 functions/social-share.php:41
+msgid "Share:"
+msgstr "שיתוף:"
+
+#: functions/theme-options.php:52 functions/theme-options.php:54
+msgid "Theme Options"
+msgstr "אפשרויות תבנית"
+
+#: functions/theme-options.php:332
+msgid "Overall Setup"
+msgstr "התקנה כוללת"
+
+#: functions/theme-options.php:334
+msgid ""
+"Here in overall setup section you can edit basic settings related to overall "
+"website."
+msgstr "כאן בסעיף ההתקנה הכולל תוכלו לערוך הגדרות בסיסיות הקשורות לאתר הכללי."
+
+#: functions/theme-options.php:344 functions/theme-options.php:482
+#: functions/theme-options.php:521 functions/theme-options.php:1065
+#: functions/theme-options.php:1567 functions/theme-options.php:1666
+#: functions/theme-options.php:1745 functions/theme-options.php:1845
+#: functions/theme-options.php:2187 functions/theme-options.php:2700
+#: functions/theme-options.php:2809 functions/theme-options.php:2869
+msgid "Title"
+msgstr "כותרת"
+
+#: functions/theme-options.php:346 functions/theme-options.php:483
+#: functions/theme-options.php:523 functions/theme-options.php:1067
+#: functions/theme-options.php:1747 functions/theme-options.php:2811
+msgid "Description and image maybe."
+msgstr "תיאור ותמונה אולי."
+
+#: functions/theme-options.php:363
+msgid "General"
+msgstr "כללי"
+
+#: functions/theme-options.php:365
+msgid "General carforyou Settings"
+msgstr "הגדרות כלליות לטיפול"
+
+#: functions/theme-options.php:374
+msgid "Theme Primary Color "
+msgstr "צבע צבע ראשי"
+
+#: functions/theme-options.php:376
+msgid "Theme Primary Color Scheme."
+msgstr "ערכת צבע ראשונית של נושא."
+
+#: functions/theme-options.php:383
+msgid "Theme Hover Color "
+msgstr "צבע ריחוף נושא"
+
+#: functions/theme-options.php:385
+msgid "Theme Hover Color Scheme."
+msgstr "ערכת צבע ריחוף נושא."
+
+#: functions/theme-options.php:392
+msgid "Select Font Family"
+msgstr "בחר משפחת גופן"
+
+#: functions/theme-options.php:393
+msgid "Please Select A Font Family"
+msgstr "אנא בחר משפחת גופן"
+
+#: functions/theme-options.php:406
+msgid "Currency Symbol"
+msgstr "סמל מטבע"
+
+#: functions/theme-options.php:407
+msgid "Please Input Currency symbol"
+msgstr "אנא הזן סמל מטבע"
+
+#: functions/theme-options.php:413
+msgid "Show KM/Miles Options"
+msgstr "הצג אפשרויות KM / Miles"
+
+#: functions/theme-options.php:414
+msgid "No validation can be done on this field type"
+msgstr "ללא אימות יכול להיעשות על סוג שדה זה"
+
+#: functions/theme-options.php:415
+msgid "Show KM/Miles Auto list"
+msgstr "הצג רשימת KM / Miles Auto"
+
+#: functions/theme-options.php:424
+msgid "Breadcrumb Enable/Disable"
+msgstr "פירור לחם אפשר / השבת"
+
+#: functions/theme-options.php:427
+msgid "Breadcrumb Enable and Disable"
+msgstr "פירור לחם אפשר ובטל"
+
+#: functions/theme-options.php:437
+msgid "Type of Car Show"
+msgstr "סוג תצוגה לרכב"
+
+#: functions/theme-options.php:452
+msgid "Select Types of Category"
+msgstr "בחר סוגי קטגוריה"
+
+#: functions/theme-options.php:477
+msgid "Home Slider"
+msgstr "סליידר דף הבית"
+
+#: functions/theme-options.php:478
+msgid "Home Page Slider Settings"
+msgstr "הגדרות המחוון לדף הבית"
+
+#: functions/theme-options.php:488
+msgid "Read More Button Text"
+msgstr "טקסט עבור כפתור קרא עוד"
+
+#: functions/theme-options.php:490
+msgid "Please Input Read More Button Text."
+msgstr "אנא הזן טקסט כפתור קרא עוד."
+
+#: functions/theme-options.php:496
+msgid "Slides Options"
+msgstr "אפשרויות שקופיות"
+
+#: functions/theme-options.php:497
+msgid "Unlimited slides with drag and drop sortings."
+msgstr "שקופיות ללא הגבלה עם מיון גרירה ושחרור."
+
+#: functions/theme-options.php:511
+msgid "Header"
+msgstr "כותרת"
+
+#: functions/theme-options.php:513
+msgid "Header carforyou Settings"
+msgstr "הגדרות כותרת העליונה"
+
+#: functions/theme-options.php:539
+msgid "Header Style"
+msgstr "עיצוב כותרת"
+
+#: functions/theme-options.php:551
+msgid "Header Layouts"
+msgstr "פריסות עליונה"
+
+#: functions/theme-options.php:553
+msgid "select a layout for header"
+msgstr "בחר פריסה לכותרת העליונה"
+
+#: functions/theme-options.php:577
+msgid "Show Email"
+msgstr "הצג כתובת מייל"
+
+#: functions/theme-options.php:579
+msgid "Show your Email Header"
+msgstr "הצג את כותרת הדוא\"ל שלך"
+
+#: functions/theme-options.php:629
+msgid "Header Email Heading"
+msgstr "כותרת דוא\"ל כותרת"
+
+#: functions/theme-options.php:633
+msgid "Please Input your Email Heading."
+msgstr "הזן את כותרת הדוא\"ל שלך."
+
+#: functions/theme-options.php:655
+msgid "Header Email ID"
+msgstr "מזהה דוא\"ל כותרת"
+
+#: functions/theme-options.php:659
+msgid "Please Input your Email ID."
+msgstr "הזן את מזהה הדוא\"ל שלך."
+
+#: functions/theme-options.php:679
+msgid "Show Contact Number"
+msgstr "הצג מספר איש קשר"
+
+#: functions/theme-options.php:681
+msgid "Show your Contact Number Header"
+msgstr "הצג את כותרת מספר אנשי הקשר שלך"
+
+#: functions/theme-options.php:731
+msgid "Header Contact Number Heading"
+msgstr "כותרת מספר קשר לכותרת"
+
+#: functions/theme-options.php:735
+msgid "Please Input your Contact Number Heading."
+msgstr "הזן את כותרת מספר אנשי הקשר שלך."
+
+#: functions/theme-options.php:755
+msgid "Header Contact Number"
+msgstr "מספר איש קשר לכותרת"
+
+#: functions/theme-options.php:759
+msgid "Please Input your Contact Number."
+msgstr "הזן את מספר אנשי הקשר שלך."
+
+#: functions/theme-options.php:785
+msgid "Logo"
+msgstr "לוגו"
+
+#: functions/theme-options.php:787
+msgid "Upload logo for website."
+msgstr "העלה לוגו לאתר."
+
+#: functions/theme-options.php:801
+msgid "Site Logo"
+msgstr "לוגו האתר"
+
+#: functions/theme-options.php:805
+msgid "Upload site logo"
+msgstr "העלה את לוגו האתר"
+
+#: functions/theme-options.php:815
+msgid "Site Favicon"
+msgstr "פאבייקון לאתר"
+
+#: functions/theme-options.php:819
+msgid "Upload site favicon."
+msgstr "העלה favicon לאתר."
+
+#: functions/theme-options.php:837
+msgid "Inner Page Header"
+msgstr "כותרת עמוד פנימית"
+
+#: functions/theme-options.php:839
+msgid "Inner Page  Banner Setting"
+msgstr "הגדרת באנר של דף פנימי"
+
+#: functions/theme-options.php:855
+msgid "Inner Page Banner Image w/ URL"
+msgstr "תמונת באנר של עמוד פנימי עם / URL"
+
+#: functions/theme-options.php:857
+msgid "Please Uploade Inner Page Header Banner Image."
+msgstr "אנא העלה תמונה באנר של כותרות לעמוד הפנימי."
+
+#: functions/theme-options.php:879 functions/theme-options.php:1359
+msgid "Social"
+msgstr "חברתי"
+
+#: functions/theme-options.php:881
+msgid "Setup social profiles in Header."
+msgstr "הגדרת פרופילים חברתיים בכותרת העליונה."
+
+#: functions/theme-options.php:897
+msgid "Show Social Icons"
+msgstr "להציג  סמלילים חברתיים"
+
+#: functions/theme-options.php:899
+msgid "Show your Social Icons Header"
+msgstr "הצג את כותרת האייקונים החברתיים שלך"
+
+#: functions/theme-options.php:913 functions/theme-options.php:1413
+msgid "Facebook Page link"
+msgstr "קישור לדף הפייסבוק"
+
+#: functions/theme-options.php:917 functions/theme-options.php:1417
+msgid "Please Input link to your facebook page"
+msgstr "אנא הכנס קישור לדף הפייסבוק שלך"
+
+#: functions/theme-options.php:935 functions/theme-options.php:1435
+msgid "Twitter Page link"
+msgstr "קישור לדף הטוויטר"
+
+#: functions/theme-options.php:939 functions/theme-options.php:1439
+msgid "Please Input link to your twitter page"
+msgstr "אנא הזן קישור לדף הטוויטר שלך"
+
+#: functions/theme-options.php:957 functions/theme-options.php:1457
+msgid "Linkedin Page link"
+msgstr "קישור לדף קישור"
+
+#: functions/theme-options.php:961 functions/theme-options.php:1461
+msgid "Please Input link to your Linkedin page"
+msgstr "אנא הזן קישור לדף Linkedin שלך"
+
+#: functions/theme-options.php:979 functions/theme-options.php:1479
+msgid "Google+ Page link"
+msgstr "קישור לדף Google+"
+
+#: functions/theme-options.php:983 functions/theme-options.php:1483
+msgid "Please Input link to your google+ page"
+msgstr "אנא הזן קישור לדף + Google שלך"
+
+#: functions/theme-options.php:1003
+msgid "Instagram link"
+msgstr "קישור לאינסטגרם"
+
+#: functions/theme-options.php:1007
+msgid "Please Input link to your instagram page"
+msgstr "אנא הכנס קישור לדף האינסטגרם שלך"
+
+#: functions/theme-options.php:1027
+msgid "Pinterest Page link"
+msgstr "קישור לדף Pinterest"
+
+#: functions/theme-options.php:1031
+msgid "Please Input link to your Pinterest page"
+msgstr "אנא הכנס קישור לדף הפינטרסט שלך"
+
+#: functions/theme-options.php:1055
+msgid "Footer"
+msgstr "פוטר"
+
+#: functions/theme-options.php:1057
+msgid "Footer carforyou Settings"
+msgstr "הגדרות כותרת התחתונה"
+
+#: functions/theme-options.php:1079
+msgid "Footer Bottom "
+msgstr "תחתונה תחתונה"
+
+#: functions/theme-options.php:1081
+msgid "Footer Bottom Setting"
+msgstr "הגדרת תחתונה תחתונה"
+
+#: functions/theme-options.php:1097 functions/theme-options.php:1099
+msgid "Show Footer Brands"
+msgstr "הצג מותגי כותרת תחתונה"
+
+#: functions/theme-options.php:1113
+msgid "Popular Brands Text"
+msgstr "טקסט מותגים פופולרי"
+
+#: functions/theme-options.php:1117
+msgid "Please Input Popular Brands Text."
+msgstr "אנא הזן טקסט של מותגים פופולריים."
+
+#: functions/theme-options.php:1135
+msgid "Footer Popular Brands show at most"
+msgstr "מותגים פופולריים תחתונה מופיעים לכל היותר"
+
+#: functions/theme-options.php:1139
+msgid "Please Input your Number show the most Brands Default is \"6\"."
+msgstr "Please Input your Number show the most Brands Default is \"6\"."
+
+#: functions/theme-options.php:1159 functions/theme-options.php:1175
+msgid "Copy Right Text"
+msgstr "Copy Right Text"
+
+#: functions/theme-options.php:1161
+msgid "Show Footer Copy Right Text"
+msgstr "הצג טקסט תחתונה בכותרת תחתונה"
+
+#: functions/theme-options.php:1181
+msgid "Please Input copyrights."
+msgstr "הזן זכויות יוצרים."
+
+#: functions/theme-options.php:1201
+msgid "Our Apps"
+msgstr "האפליקציות שלנו"
+
+#: functions/theme-options.php:1203
+msgid "Show Footer Our Apps"
+msgstr "הצג כותרת תחתונה לאפליקציות שלנו"
+
+#: functions/theme-options.php:1217
+msgid "Download Our APP Text:"
+msgstr "הורד את טקסט האפליקציה שלנו:"
+
+#: functions/theme-options.php:1221
+msgid "Please Input Download APP Text:."
+msgstr "אנא הזן את הורדת טקסט האפליקציה:."
+
+#: functions/theme-options.php:1267
+msgid "Our App link "
+msgstr "הקישור האפליקציה שלנו "
+
+#: functions/theme-options.php:1279 functions/theme-options.php:1331
+msgid "Please Input Our App link"
+msgstr "הזן את קישור האפליקציה שלנו"
+
+#: functions/theme-options.php:1319
+msgid "Our App link"
+msgstr "הקישור האפליקציה שלנו"
+
+#: functions/theme-options.php:1337
+msgid "Enable button back to top."
+msgstr "אפשר לחצן לראש הדף."
+
+#: functions/theme-options.php:1343
+msgid "Back To Top"
+msgstr "חזרה למעלה"
+
+#: functions/theme-options.php:1361
+msgid "Setup social profiles in footer."
+msgstr "הגדרת כותרת תחתונה של פרופילים חברתיים."
+
+#: functions/theme-options.php:1377
+msgid "Connect with Us"
+msgstr "התחבר אלינו"
+
+#: functions/theme-options.php:1379
+msgid "Show Footer Connect with Us Social Icons"
+msgstr "Show Footer Connect with Us Social Icons"
+
+#: functions/theme-options.php:1391
+msgid "Connect with Us: "
+msgstr "צור עימנו קשר "
+
+#: functions/theme-options.php:1395
+msgid "Please Input Connect with Us Text."
+msgstr "אנא הזן קשר איתנו טקסט."
+
+#: functions/theme-options.php:1503
+msgid "Instagram Page link"
+msgstr "קישור לדף האינסטגרם"
+
+#: functions/theme-options.php:1507
+msgid "Please Input link to your Instagram page"
+msgstr "אנא הכנס קישור לדף האינסטגרם שלך"
+
+#: functions/theme-options.php:1529
+msgid "Pinterest link"
+msgstr "Pinterest link"
+
+#: functions/theme-options.php:1533
+msgid "Please Input link to your pinterest page"
+msgstr "אנא הכנס קישור לדף העניין שלך"
+
+#: functions/theme-options.php:1557
+msgid "Search Filter"
+msgstr "מסנן חיפוש"
+
+#: functions/theme-options.php:1559
+msgid "Search Form Car For You Settings"
+msgstr "טופס חיפוש מותאם אישית"
+
+#: functions/theme-options.php:1569
+msgid "Search Filter Car For You"
+msgstr "טופס חיפוש מותאם אישית"
+
+#: functions/theme-options.php:1580
+msgid "Search Filter Form"
+msgstr "טופס סינון חיפוש"
+
+#: functions/theme-options.php:1587
+msgid "Search Filter Heading"
+msgstr "כותרת מסנן חיפוש"
+
+#: functions/theme-options.php:1589
+msgid "Please Input Search Filter Heading "
+msgstr "אנא הזן כותרת של מסנן חיפוש"
+
+#: functions/theme-options.php:1598
+msgid "Search Filter Page Link"
+msgstr "חפש קישור לדף מסנן"
+
+#: functions/theme-options.php:1599
+msgid "Selected Pages will be displayed in Search Filter Page Link"
+msgstr "העמודים שנבחרו יוצגו בקישור עמוד מסנן החיפוש"
+
+#: functions/theme-options.php:1604
+msgid "Search Filter field enalble and disabled"
+msgstr "שדה מסנן חיפוש אפשר והושבת"
+
+#: functions/theme-options.php:1609
+msgid "Auto Location Enable"
+msgstr "הפעלת מיקום אוטומטי"
+
+#: functions/theme-options.php:1610
+msgid "Show auto Location Enable and Disabled"
+msgstr "הצג הפעלה ומושבת של מיקום אוטומטי"
+
+#: functions/theme-options.php:1616
+msgid "Auto Brand Enable"
+msgstr "הפעל מותג אוטומטי"
+
+#: functions/theme-options.php:1617
+msgid "Show auto Brand Enable and Disabled"
+msgstr "הצג הפעלה ומושבת של מותג אוטומטי"
+
+#: functions/theme-options.php:1623
+msgid "Auto Year Moddel Enable"
+msgstr "שנה אוטומטית Moddel אפשר"
+
+#: functions/theme-options.php:1624
+msgid "Show Auto Year Moddel Enable and Disabled"
+msgstr "הצג מודל שנה אוטומטית מופעל ומושבת"
+
+#: functions/theme-options.php:1630
+msgid "Auto Price Range Slider Enable"
+msgstr "מחוון טווח מחירים אוטומטי"
+
+#: functions/theme-options.php:1631
+msgid "Show Auto Price Range Slider Enable and Disabled"
+msgstr "הצג מחוון טווח מחירים אוטומטי מופעל ומושבת"
+
+#: functions/theme-options.php:1637
+msgid "Auto Type Enable"
+msgstr "הפעל סוג אוטומטי"
+
+#: functions/theme-options.php:1638
+msgid "Show Auto Type New and Used Enable and Disabled"
+msgstr "הצג סוג אוטומטי חדש ומשומש הפעלה ומושבת"
+
+#: functions/theme-options.php:1656
+msgid "Compare Car"
+msgstr "השוות המכוניות"
+
+#: functions/theme-options.php:1658
+msgid "Compared  Car For You Settings"
+msgstr "השוואת הגדרות רכב עבורך"
+
+#: functions/theme-options.php:1668
+msgid "Compare Car For You"
+msgstr "השוות המכוניות מותאם אישית"
+
+#: functions/theme-options.php:1680
+msgid "Compare Settings"
+msgstr "השווה הגדרות"
+
+#: functions/theme-options.php:1694
+msgid "Compare Car Heading"
+msgstr "השווה כותרת לרכב"
+
+#: functions/theme-options.php:1698
+msgid "Please Input Compare Car Heading "
+msgstr "אנא הזן השוואה בין כותרת לרכב"
+
+#: functions/theme-options.php:1716
+msgid "Compare Car Page Link"
+msgstr "השווה קישור לדף רכב"
+
+#: functions/theme-options.php:1718
+msgid "Compare Car Pages will be displayed in Compare Page Link"
+msgstr "השווה את דפי המכוניות יוצג בקישור השווה קישור"
+
+#: functions/theme-options.php:1735
+msgid "Blog "
+msgstr "בלוג"
+
+#: functions/theme-options.php:1737
+msgid "Blog Side Bar settings."
+msgstr "הגדרות סרגל הצד של הבלוג."
+
+#: functions/theme-options.php:1759
+msgid "Blog Side Bar"
+msgstr "סרגל הצד של הבלוג"
+
+#: functions/theme-options.php:1761
+msgid "Setup Side Bar Layout."
+msgstr "הגדרת פריסת סרגל הצד."
+
+#: functions/theme-options.php:1801
+msgid "Blog Single"
+msgstr "פוסט בבלוג"
+
+#: functions/theme-options.php:1803
+msgid "Blog Single Settings."
+msgstr "הגדרות יחיד בבלוג."
+
+#: functions/theme-options.php:1835
+msgid "Car Listing Page"
+msgstr "דף רישום לרכב"
+
+#: functions/theme-options.php:1837 functions/theme-options.php:2179
+msgid "Car Listing Style Settings"
+msgstr "הגדרות סגנון רכב"
+
+#: functions/theme-options.php:1857
+msgid "Car Listing"
+msgstr "רישום לרכב"
+
+#: functions/theme-options.php:1922
+msgid "Show Search Car Tab Side Bar Enable"
+msgstr "הצג סרגל צד לשונית לרכב אפשר"
+
+#: functions/theme-options.php:1936
+msgid "Search Car Heading Side Bar Text"
+msgstr "חיפוש טקסט סרגל צד לכותרת רכב"
+
+#: functions/theme-options.php:1940
+msgid "Please Input your Heading Default is \"Find Your Dream Car\"."
+msgstr "אנא הזן את ברירת המחדל של הכותרת שלך \"מצא את מכונית החלומות שלך\"."
+
+#: functions/theme-options.php:1960
+msgid "Sell Car"
+msgstr "מכירת רכב"
+
+#: functions/theme-options.php:1962
+msgid "Show Sell Car Tab Side Bar Enable"
+msgstr "הצג סרגל צד מכונית למכור אפשר"
+
+#: functions/theme-options.php:1978
+msgid "Sell Car Heading Side Bar"
+msgstr "מכור סרגל צד לכותרת רכב"
+
+#: functions/theme-options.php:1982
+msgid "Please Input your Heading Default is \"Sell Your Car\"."
+msgstr "אנא הזן את ברירת המחדל לכותרת שלך היא \"מכור את המכונית שלך\"."
+
+#: functions/theme-options.php:2004
+msgid "Sell Car Description Side Bar"
+msgstr "מכור תיאור רכב סרגל צד"
+
+#: functions/theme-options.php:2008
+msgid ""
+"Please Input your Description Default is \"Request a quote and sell your car "
+"now!\"."
+msgstr ""
+"אנא הזן את תיאור ברירת המחדל שלך היא \"בקש הצעת מחיר ומכור את המכונית שלך "
+"עכשיו!\"."
+
+#: functions/theme-options.php:2028
+msgid "Sell Car Image Upload"
+msgstr "מכירת העלאת תמונה לרכב"
+
+#: functions/theme-options.php:2032
+msgid "Please Input your Sell Car Image Upload"
+msgstr "אנא הזן את העלאת תמונת המכירה שלך למכור"
+
+#: functions/theme-options.php:2054
+msgid "Request a quote Button "
+msgstr "Request a quote Button "
+
+#: functions/theme-options.php:2058
+msgid "Please Input your Button Text Default is \"Request a quote\"."
+msgstr "אנא הזן את ברירת המחדל של טקסט הכפתור שלך \"בקש הצעת מחיר\"."
+
+#: functions/theme-options.php:2086
+msgid "Request a quote Link"
+msgstr "בקש הצעת מחיר קישור"
+
+#: functions/theme-options.php:2088
+msgid "Selected Pages will be displayed in Sell Car Request a quote Link"
+msgstr "העמודים שנבחרו יוצגו ב\"מכירת רכב \"בקש הצעת מחיר"
+
+#: functions/theme-options.php:2106
+msgid "Recently Car"
+msgstr "לאחרונה רכב"
+
+#: functions/theme-options.php:2108
+msgid "Show Recently Car Tab Side Bar Enable"
+msgstr "הצג סרגל צד לשונית רכב לאחרונה"
+
+#: functions/theme-options.php:2124
+msgid "Recently Listed Cars Heading Text"
+msgstr "רשימת מכוניות שהופיעו לאחרונה עם כותרת"
+
+#: functions/theme-options.php:2128
+msgid "Please Input your Heading Default is \"Recently Listed Cars\"."
+msgstr "אנא הזן את ברירת המחדל של הכותרת שלך היא \"מכוניות שרשמו לאחרונה\"."
+
+#: functions/theme-options.php:2148
+msgid "Recently Listed show at most"
+msgstr "מופע שהוצג לאחרונה לכל היותר"
+
+#: functions/theme-options.php:2152
+msgid "Please Input your show the Recently Listed Default is \"4\"."
+msgstr "אנא הכנס את התוכנית שלך לברירת המחדל שרשמה לאחרונה היא \"4\"."
+
+#: functions/theme-options.php:2177
+msgid "Car Detail Page"
+msgstr "דף פרטי רכב"
+
+#: functions/theme-options.php:2199
+msgid "Detail Page Setting "
+msgstr "הגדרת עמוד פירוט"
+
+#: functions/theme-options.php:2246
+msgid "Detail Page Banner Image w/ URL"
+msgstr "תמונת באנר של עמוד פירוט עם / URL"
+
+#: functions/theme-options.php:2247
+msgid "Please Uploade Inner Page Car Detail Page Banner Image."
+msgstr "אנא העלה את עמוד הפנימי של דף הפנימי של המכונית."
+
+#: functions/theme-options.php:2256
+msgid "Show Search Filter"
+msgstr "הצג מסנן חיפוש"
+
+#: functions/theme-options.php:2257
+msgid "Show Search Filter Enable and Disable"
+msgstr "הצג סינון חיפוש אפשר ובטל"
+
+#: functions/theme-options.php:2263 functions/theme-options.php:2264
+msgid "Show Financing Calculator"
+msgstr "הצג מחשבון מימון"
+
+#: functions/theme-options.php:2270 functions/theme-options.php:2271
+msgid "Show Similar Cars"
+msgstr "הצג מכוניות דומות"
+
+#: functions/theme-options.php:2277
+msgid "Heading Similar Cars"
+msgstr "פונים למכוניות דומות"
+
+#: functions/theme-options.php:2279
+msgid "Please Input your Heading Default is \"Similar Cars\"."
+msgstr "אנא הזן את ברירת המחדל של הכותרת שלך \"מכוניות דומות\"."
+
+#: functions/theme-options.php:2294
+msgid "Similar Cars show at most"
+msgstr "מכוניות דומות מציגות לכל היותר"
+
+#: functions/theme-options.php:2298
+msgid "Please Input your limit Default is \"3\"."
+msgstr "אנא הזן את הגבול שלך ברירת המחדל היא \"3\"."
+
+#: functions/theme-options.php:2318
+msgid "Detail other Info"
+msgstr "פרט מידע אחר"
+
+#: functions/theme-options.php:2320
+msgid "Detail Info"
+msgstr "פרטי פירוט"
+
+#: functions/theme-options.php:2336
+msgid "Show Schedule"
+msgstr "הצגת לוח זמנים"
+
+#: functions/theme-options.php:2338
+msgid "Show Schedule Enable"
+msgstr "הצג אפשר לוח זמנים"
+
+#: functions/theme-options.php:2354
+msgid "Schedule Heading Text"
+msgstr "תזמן טקסט לכותרת"
+
+#: functions/theme-options.php:2358
+msgid "Please Input your Heading Default is \"Schedule Test Drive\"."
+msgstr "אנא הזן את ברירת המחדל של הכותרת שלך \"תזמן כונן מבחן\"."
+
+#: functions/theme-options.php:2378
+msgid "Schedule Form Shortcode"
+msgstr "לוח הזמנים של קוד הטופס"
+
+#: functions/theme-options.php:2384
+msgid "Please Input your Schedule Form Short code Contact Form 7."
+msgstr "הזן את טופס לוח הזמנים קוד קצר טופס יצירת קשר 7."
+
+#: functions/theme-options.php:2404
+msgid "Show Make Offer"
+msgstr "הצג הצעה"
+
+#: functions/theme-options.php:2406
+msgid "Show Make Offer Enable"
+msgstr "הצג הפוך הצעה אפשרית"
+
+#: functions/theme-options.php:2422
+msgid "Make An Offer Heading Text"
+msgstr "הגש הצעת טקסט כותרת"
+
+#: functions/theme-options.php:2426
+msgid "Please Input your Heading Default is \"Make an Offer\"."
+msgstr "אנא הזן את ברירת המחדל של הכותרת שלך היא \"תציע הצעה\"."
+
+#: functions/theme-options.php:2446
+msgid "Make Offer Form Shortcode"
+msgstr "הפוך את קוד הטופס להצעת מחיר"
+
+#: functions/theme-options.php:2452
+msgid "Please Input your Offer Form Short code Contact Form 7."
+msgstr "הזן את טופס ההצעה שלך קוד קצר טופס יצירת קשר 7."
+
+#: functions/theme-options.php:2472
+msgid "Show Email Friend"
+msgstr "הצג חבר דוא\"ל"
+
+#: functions/theme-options.php:2474
+msgid "Show Email Friend Enable"
+msgstr "הצג הפעלת חבר בדוא\"ל"
+
+#: functions/theme-options.php:2490
+msgid "Email Friend Heading Text"
+msgstr "שלח כותרת לחבר בדוא\"ל"
+
+#: functions/theme-options.php:2494
+msgid "Please Input your Heading Default is \"Email to a Friend\"."
+msgstr "אנא הזן את ברירת המחדל של הכותרת שלך \"דוא\"ל לחבר\"."
+
+#: functions/theme-options.php:2514
+msgid "Email Friend Form Shortcode"
+msgstr "קוד אימייל של טופס חבר"
+
+#: functions/theme-options.php:2520
+msgid "Please Input your Email Friend Form Short code Contact Form 7."
+msgstr "הזן את טופס חבר הדוא\"ל שלך קוד קצר טופס יצירת קשר 7."
+
+#: functions/theme-options.php:2540
+msgid "Show Request More"
+msgstr "הצג בקשה נוספת"
+
+#: functions/theme-options.php:2542
+msgid "Show Request More Enable"
+msgstr "הצג בקשה אפשר יותר"
+
+#: functions/theme-options.php:2558
+msgid "Request More Info Heading Text"
+msgstr "בקש מידע נוסף על כותרת טקסט"
+
+#: functions/theme-options.php:2562
+msgid "Please Input your Heading Default is \"Request More Info\"."
+msgstr "אנא הזן את ברירת המחדל של הכותרת שלך \"בקש מידע נוסף\"."
+
+#: functions/theme-options.php:2582
+msgid "Request Form Shortcode"
+msgstr "בקש את קוד הטופס"
+
+#: functions/theme-options.php:2588
+msgid "Please Input your Request More Form Short code Contact Form 7."
+msgstr "הזן את בקשתך טופס נוסף קוד קצר טופס יצירת קשר 7."
+
+#: functions/theme-options.php:2610
+msgid "APP Setup"
+msgstr "הגדרת APP"
+
+#: functions/theme-options.php:2620
+msgid "Protected Key:"
+msgstr "מפתח מוגן:"
+
+#: functions/theme-options.php:2628
+msgid ""
+"<a href=\"http://themes.webmasterdriver.net/carforyou/android/carforyou.apk"
+"\" class=\"btn btn-primary\">Download APP</a>"
+msgstr ""
+"<a href=\"http://themes.webmasterdriver.net/carforyou/android/carforyou.apk"
+"\" class=\"btn btn-primary\"> הורד את APP </a>"
+
+#: functions/theme-options.php:2629
+msgid "You can download app on clicking above dowload button"
+msgstr "אתה יכול להוריד אפליקציה בלחיצה על כפתור ההורדה למעלה"
+
+#: functions/theme-options.php:2635
+msgid "Enable APP"
+msgstr "אפשר APP"
+
+#: functions/theme-options.php:2639
+msgid "Enabled"
+msgstr "מופעל"
+
+#: functions/theme-options.php:2640
+msgid "Disabled"
+msgstr "נכים"
+
+#: functions/theme-options.php:2648
+msgid "APP Logo"
+msgstr "לוגו APP"
+
+#: functions/theme-options.php:2652
+msgid "Upload APP logo"
+msgstr "העלה את לוגו ה- APP"
+
+#: functions/theme-options.php:2658
+msgid "Splash Screen Color "
+msgstr "צבע מסך ספלאש"
+
+#: functions/theme-options.php:2660
+msgid "App Splash Screen Color."
+msgstr "צבע מסך ספלאש לאפליקציה."
+
+#: functions/theme-options.php:2667
+msgid "App Title"
+msgstr "כותרת אפליקציה"
+
+#: functions/theme-options.php:2674
+msgid "App URL"
+msgstr "כתובת אתר לאפליקציה"
+
+#: functions/theme-options.php:2675
+msgid "Add Url which you run into APP"
+msgstr "הוסף את Url שאתה נתקל בו ב- APP"
+
+#: functions/theme-options.php:2690
+msgid "Coming Soon"
+msgstr "בקרוב"
+
+#: functions/theme-options.php:2692
+msgid "Coming Soon Form"
+msgstr "בקרוב טופס"
+
+#: functions/theme-options.php:2712
+msgid "Coming Soon Form Settings"
+msgstr "בקרוב הגדרות טופס"
+
+#: functions/theme-options.php:2728
+msgid "Coming Soon Page background Image w/ URL"
+msgstr "בקרוב תמונה רקע עם עמוד / URL"
+
+#: functions/theme-options.php:2730
+msgid "Please Uploade Coming Soon Page background Image."
+msgstr "אנא העלה בקרוב תמונת רקע של דף."
+
+#: functions/theme-options.php:2746
+msgid "Coming Soon Form Heading "
+msgstr "בקרוב כותרת טופס"
+
+#: functions/theme-options.php:2750
+msgid "Please Input your Heading Default is \"Do you have any Questions?\"."
+msgstr "אנא הזן את ברירת המחדל לכותרת שלך היא \"יש לך שאלות?\"."
+
+#: functions/theme-options.php:2766
+msgid "Coming Soon Form short code "
+msgstr "בקרוב טופס קוד קצר"
+
+#: functions/theme-options.php:2772
+msgid "Please Input your short code Contact Form 7."
+msgstr "הזן את הקוד הקצר שלך טופס יצירת קשר 7."
+
+#: functions/theme-options.php:2781
+msgid "Add Date Countdown Timer"
+msgstr "הוסף טיימר ספירה לאחור של תאריך"
+
+#: functions/theme-options.php:2784
+msgid "Examples:- March 22, 2018"
+msgstr "דוגמאות: - 22 במרץ, 2018"
+
+#: functions/theme-options.php:2799
+msgid "404 Page"
+msgstr "דף 404"
+
+#: functions/theme-options.php:2801
+msgid "404 page settings."
+msgstr "404 הגדרות עמוד."
+
+#: functions/theme-options.php:2823
+msgid "404 Page Content"
+msgstr "404 תוכן עמודים"
+
+#: functions/theme-options.php:2825
+msgid "Setup 404 Page details here."
+msgstr "התקנה של פרטי הדף 404 כאן."
+
+#: functions/theme-options.php:2839
+msgid "404 Page Header Image"
+msgstr "404 תמונת כותרת עמוד"
+
+#: functions/theme-options.php:2843
+msgid "Upload 404 Page Header Image."
+msgstr "העלה תמונת כותרת של עמוד 404."
+
+#: functions/theme-options.php:2853
+msgid "404 Title"
+msgstr "כותרת 404"
+
+#: functions/theme-options.php:2857
+msgid "Input 404 Page Title here Ex. Page Not Found"
+msgstr "קלט 404 כותרת העמוד כאן. הדף לא נמצא"
+
+#: functions/theme-options.php:2873
+msgid "Input 404 Page section Mid title here Ex.Error This page is out of site"
+msgstr "קלט 404 קטע עמוד כותרת אמצע כאן Ex.Error דף זה לא נמצא מחוץ לאתר"
+
+#: functions/theme-options.php:2885
+msgid "404 Content"
+msgstr "תוכן 404"
+
+#: functions/theme-options.php:2889
+msgid "Input 404 Page Content here"
+msgstr "קלט 404 תוכן עמוד כאן"
+
+#: page.php:53
+msgid "Edit"
+msgstr "ערוך"
+
+#: phone-rival.php:32
+msgid "Search Other Inventory"
+msgstr "חיפוש במלאי אחר"
+
+#: phone-rival.php:35
+msgid "Reset All"
+msgstr "אפס הכל"
+
+#: phone-rival.php:40 phone-rival.php:50 phone-rival.php:60
+msgid "Reset Auto"
+msgstr "אפס אוטומטית"
+
+#: phone-rival.php:42 phone-rival.php:52 phone-rival.php:62
+msgid "Replace"
+msgstr "החלף"
+
+#: phone-rival.php:76
+msgid "Inventorys"
+msgstr "מאגר"
+
+#: phone-rival.php:83 phone-rival.php:90
+msgid "V/s"
+msgstr "לעומת"
+
+#: phone-rival.php:106
+msgid "BASIC INFO"
+msgstr "מידע בסיסי"
+
+#: phone-rival.php:156
+msgid "Body Color"
+msgstr "צבע גוף הרכב"
+
+#: phone-rival.php:162
+msgid "Auto Location"
+msgstr "מיקום אוטומטי"
+
+#: phone-rival.php:300 phone-rival.php:303 phone-rival.php:306
+msgid "View Detail"
+msgstr "צפייה בפרטים"
+
+#: search-auto.php:393
+msgid "Sorry No Results, please try again."
+msgstr "מצטער ללא תוצאות, אנא נסה שוב."
+
+#: search.php:29
+#, php-format
+msgid "Search Results for: %s"
+msgstr "תוצאות חיפוש עבור: %s"
+
+#: search.php:33
+msgid "Home"
+msgstr "דף הבית"
+
+#: search.php:36
+msgid "Search Page"
+msgstr "עמוד החיפוש"
+
+#: search.php:61
+msgid "Search Result Not Found..."
+msgstr "תוצאות חיפוש לא נמצאו ..."
+
+#. Theme Name of the plugin/theme
+msgid "CarForYou"
+msgstr "CarForYou"
+
+#. Theme URI of the plugin/theme
+msgid "http://themes.webmasterdriver.net/CarForYou/"
+msgstr "http://themes.webmasterdriver.net/CarForYou/"
+
+#. Description of the plugin/theme
+msgid "Premium WordPress Theme Developed by webmasterdriver."
+msgstr "נושא וורדפרס פרימיום שפותח על ידי מנהל האתר."
+
+#. Author of the plugin/theme
+msgid "webmasterdriver"
+msgstr "מנהל האתר"
+
+#. Author URI of the plugin/theme
+msgid "https://themeforest.net/user/webmasterdriver"
+msgstr "https://themeforest.net/user/webmasterdriver"

@@ -1,0 +1,9 @@
+2021-07-31T11:27:34+00:00 CRITICAL Uncaught Error: Call to a member function add_order_note() on null in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/phone-verify.php:18
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(287): sendotpregister('')
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-admin/admin-ajax.php(199): do_action('wp_ajax_nopriv_...')
+#4 {main}
+  thrown in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/phone-verify.php on line 18
+

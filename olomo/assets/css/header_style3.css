@@ -1,0 +1,144 @@
+.header_style3 .navbar.navbar-default {
+	background: #fcfcfc;
+	box-shadow: 0 0 5px #ccc
+}
+.header_style3 .submit_listing .btn.outline-btn {
+	background: #38ccff;
+	border: none;
+	border-radius: 0
+}
+.header_style3 .submit_listing .btn.outline-btn:hover {
+	background: #03aee9;
+	border-color: #03aee9
+}
+.header_style3 #navigation .nav.navbar-nav a {
+	color: #000
+}
+.header_style3 .navbar-fixed-top {
+	height: 100px
+}
+.header_style3 .dashboard_menu {
+	display: inline-block;
+	float: none;
+	vertical-align: middle
+}
+.header_style3 .dashboard_menu li {
+	margin: 0
+}
+.header_style3 .dashboard_menu > li > a {
+	color: #000
+}
+.header_style3 .dashboard_menu > li > a:hover {
+	color: #38ccff
+}
+.header_style3 .logo {
+	margin: 10px 0
+}
+.header_style3 .submit_listing {
+	margin-top: 8px
+}
+.top_login_submit {
+	float: right
+}
+.header_style3 .menu_bar {
+	float: left;
+	width: 100%;
+	background: #fff;
+	box-shadow: 0 0 5px #ccc
+}
+.header_style3 .menu_bar #navigation {
+	text-align: center
+}
+.header_style3 .affix #navigation .nav.navbar-nav > li > a {
+	padding: 20px 12px
+}
+.header_style3 .navbar-fixed-top.affix {
+	height: 85px
+}
+ @media (min-width: 768px) {
+#header.header_style3 .container {
+	width: 750px
+}
+}
+ @media (min-width: 992px) {
+#header.header_style3 .container {
+	width: 970px
+}
+}
+ @media (min-width: 1200px) {
+#header.header_style3 .container {
+	width: 1170px
+}
+}
+ @media (min-width:768px) and (max-width:991px) {
+.header_style3 .navbar-header {
+	float: left
+}
+.header_style3 .submit_listing {
+	margin: 0
+}
+.header_style3 .dashboard_menu > li > a {
+	padding-top: 9px;
+	padding-bottom: 9px
+}
+.header_style3 .affix .logo {
+	margin-bottom: 10px
+}
+}
+ @media (max-width:767px) {
+.header_style3 #navigation .nav.navbar-nav a {
+	color:#FFF;
+}
+
+.header_style3 .navbar-fixed-top, .header_style3 .navbar-fixed-top.affix {
+	height: 77px;
+}
+.header_style3 .navbar-header {
+	float: left;
+	width: 50%;
+}
+.header_style3 .navbar-toggle {
+	margin-top: 9px;
+}
+.header_style3 .menu_bar {
+	background: #f9f9f9
+}
+.top_login_submit {
+	float: right;
+	width: 48%;
+	padding-top: 9px;
+}
+.header_style3 .dashboard_menu {
+	margin: 0
+}
+.header_style3 .submit_listing {
+	margin: 0;
+	display: inline-block;
+	vertical-align:middle;
+}
+.header_style3 .dashboard_menu > li > a {
+	padding-top: 9px;
+	padding-bottom: 9px
+}
+.header_style3 .affix .logo {
+	margin-bottom: 10px;
+	max-width: 110px;
+}
+.header_style3 .navbar-fixed-top.affix {
+	height: 56px
+}
+.nav.navbar-nav.dashboard_menu {
+	display: inline-block;
+	vertical-align: middle;
+}
+.top_login_submit .nav.navbar-nav.dashboard_menu li a {
+	padding: 8px 1px;
+	font-size: 13px;
+}
+.submit_listing .btn {
+	padding: 1px 5px;
+	font-size: 12px;
+}
+
+
+}

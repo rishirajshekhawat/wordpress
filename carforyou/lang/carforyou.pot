@@ -1,0 +1,2278 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: CarForYou\n"
+"POT-Creation-Date: 2019-08-07 14:57+0530\n"
+"PO-Revision-Date: 2019-08-07 14:56+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:50
+msgid "Back To Home"
+msgstr ""
+
+#: blog-left-sidebar.php:53 blog-left-sidebar.php:91 blog-right-sidebar.php:47
+#: blog-right-sidebar.php:83 functions/basic-functions.php:80
+#: functions/blog-style.php:35 functions/blog-style.php:74
+#: functions/blog-style.php:118 functions/blog-style.php:152
+#: functions/blog-style.php:211 functions/blog-style.php:308
+#: functions/blog-style.php:423 functions/blog-style.php:518
+msgid "Comments"
+msgstr ""
+
+#: blog-left-sidebar.php:106 functions/basic-functions.php:86
+msgid "Read More"
+msgstr ""
+
+#: car-listing-grid-page.php:37 car-listing-page.php:61 search-auto.php:272
+#: single-type-term.php:52 type-of-car-temp.php:79
+msgid "Listings"
+msgstr ""
+
+#: coming-soon.php:37
+msgid "Send Message"
+msgstr ""
+
+#: comments.php:46
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:93
+msgid "primary Menu"
+msgstr ""
+
+#: functions.php:94
+msgid "Secondary Menu"
+msgstr ""
+
+#: functions.php:117
+msgid "CarForYou Main Sidebar"
+msgstr ""
+
+#: functions.php:130
+msgid "CarForYou Footer Widget"
+msgstr ""
+
+#: functions.php:175 functions.php:181
+msgid "f"
+msgstr ""
+
+#: functions.php:177
+msgid "t"
+msgstr ""
+
+#: functions.php:179 functions.php:183
+msgid "l"
+msgstr ""
+
+#: functions.php:259
+msgid "Previous"
+msgstr ""
+
+#: functions.php:260
+msgid "Next"
+msgstr ""
+
+#: functions.php:266
+msgid "Posts navigation"
+msgstr ""
+
+#: functions.php:323
+msgctxt "Previous post link"
+msgid "Previous"
+msgstr ""
+
+#: functions.php:324
+msgctxt "Next post link"
+msgid "Next"
+msgstr ""
+
+#: functions.php:336
+msgid "Comment navigation"
+msgstr ""
+
+#: functions.php:340
+msgid "Older Comments"
+msgstr ""
+
+#: functions.php:343
+msgid "Newer Comments"
+msgstr ""
+
+#: functions.php:462
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions/auto-mata.php:19
+msgid "Miles"
+msgstr ""
+
+#: functions/auto-mata.php:21
+msgid "km"
+msgstr ""
+
+#: functions/auto-ajax-data.php:13
+msgid "Select Model"
+msgstr ""
+
+#: functions/auto-detail-fun.php:32
+msgid "Financing Calculator"
+msgstr ""
+
+#: functions/auto-detail-fun.php:39
+msgid "Vehicle Price"
+msgstr ""
+
+#: functions/auto-detail-fun.php:47
+msgid "Down Payment"
+msgstr ""
+
+#: functions/auto-detail-fun.php:49 functions/auto-detail-fun.php:69
+msgid "%"
+msgstr ""
+
+#: functions/auto-detail-fun.php:54
+msgid "10"
+msgstr ""
+
+#: functions/auto-detail-fun.php:57
+msgid "20"
+msgstr ""
+
+#: functions/auto-detail-fun.php:60
+msgid "30"
+msgstr ""
+
+#: functions/auto-detail-fun.php:67
+msgid "Annual Rate"
+msgstr ""
+
+#: functions/auto-detail-fun.php:75
+msgid "Period in Month"
+msgstr ""
+
+#: functions/auto-detail-fun.php:80
+msgid "12 Month"
+msgstr ""
+
+#: functions/auto-detail-fun.php:83
+msgid "18 Month"
+msgstr ""
+
+#: functions/auto-detail-fun.php:86
+msgid "24 Month"
+msgstr ""
+
+#: functions/auto-detail-fun.php:93
+msgid "Calculator"
+msgstr ""
+
+#: functions/auto-detail-fun.php:99
+msgid "Monthy Payment"
+msgstr ""
+
+#: functions/auto-detail-fun.php:104
+msgid "Total Interest"
+msgstr ""
+
+#: functions/auto-detail-fun.php:109
+msgid "Total Amount Pay"
+msgstr ""
+
+#: functions/auto-detail-fun.php:141
+msgid "New"
+msgstr ""
+
+#: functions/auto-detail-fun.php:146 functions/auto-function.php:99
+#: functions/basic-functions.php:248 functions/basic-functions.php:324
+#: functions/basic-functions.php:404 functions/basic-functions.php:459
+#: functions/list-page-fun.php:133 functions/list-page-fun.php:223
+#: functions/list-page-fun.php:395 functions/list-page-fun.php:523
+#: functions/list-page-fun.php:1023 functions/list-page-fun.php:1315
+#: functions/search-page-style.php:29 functions/search-page-style.php:70
+#: phone-rival.php:25 phone-rival.php:74 phone-rival.php:189
+msgid "Compare"
+msgstr ""
+
+#: functions/auto-detail-fun.php:294
+msgid "Total Miles"
+msgstr ""
+
+#: functions/auto-detail-fun.php:296
+msgid "Total Kilometres"
+msgstr ""
+
+#: functions/auto-detail-fun.php:309 functions/auto-detail-fun.php:1198
+msgid "Reg.Year"
+msgstr ""
+
+#: functions/auto-detail-fun.php:317 functions/auto-detail-fun.php:448
+#: functions/auto-detail-fun.php:1206 functions/auto-detail-fun.php:1325
+#: phone-rival.php:150
+msgid "Fuel Type"
+msgstr ""
+
+#: functions/auto-detail-fun.php:325 functions/auto-detail-fun.php:1214
+msgid "Transmission"
+msgstr ""
+
+#: functions/auto-detail-fun.php:333 functions/auto-detail-fun.php:1222
+msgid "Engine"
+msgstr ""
+
+#: functions/auto-detail-fun.php:341 functions/auto-detail-fun.php:1230
+msgid "Seats"
+msgstr ""
+
+#: functions/auto-detail-fun.php:354 functions/auto-detail-fun.php:1243
+msgid "Vehicle Overview"
+msgstr ""
+
+#: functions/auto-detail-fun.php:357 functions/auto-detail-fun.php:469
+#: functions/auto-detail-fun.php:1246 functions/auto-detail-fun.php:1337
+#: phone-rival.php:175
+msgid "Technical Specification"
+msgstr ""
+
+#: functions/auto-detail-fun.php:360 functions/auto-detail-fun.php:545
+#: functions/auto-detail-fun.php:1249 functions/auto-detail-fun.php:1403
+#: phone-rival.php:239
+msgid "Accessories"
+msgstr ""
+
+#: functions/auto-detail-fun.php:394 functions/auto-detail-fun.php:1273
+msgid "Basic Information"
+msgstr ""
+
+#: functions/auto-detail-fun.php:400 functions/auto-detail-fun.php:1279
+#: phone-rival.php:114
+msgid "Vehicle Condition"
+msgstr ""
+
+#: functions/auto-detail-fun.php:412 functions/auto-detail-fun.php:1288
+#: phone-rival.php:120
+msgid "Brand"
+msgstr ""
+
+#: functions/auto-detail-fun.php:418 functions/auto-detail-fun.php:1294
+#: phone-rival.php:132
+msgid "Model"
+msgstr ""
+
+#: functions/auto-detail-fun.php:430 functions/auto-detail-fun.php:1307
+#: phone-rival.php:126
+msgid "Model Year"
+msgstr ""
+
+#: functions/auto-detail-fun.php:436 functions/auto-detail-fun.php:1313
+#: phone-rival.php:138
+msgid "No. of Owners"
+msgstr ""
+
+#: functions/auto-detail-fun.php:442 functions/auto-detail-fun.php:1319
+#: phone-rival.php:144
+msgid "KMs Driven"
+msgstr ""
+
+#: functions/auto-detail-fun.php:475 functions/auto-detail-fun.php:1343
+#: phone-rival.php:183
+msgid "Engine Type"
+msgstr ""
+
+#: functions/auto-detail-fun.php:481 functions/auto-detail-fun.php:1349
+msgid "Engine Description"
+msgstr ""
+
+#: functions/auto-detail-fun.php:487 functions/auto-detail-fun.php:1355
+#: phone-rival.php:196
+msgid "No. of Cylinders"
+msgstr ""
+
+#: functions/auto-detail-fun.php:493 functions/auto-detail-fun.php:1361
+#: phone-rival.php:202
+msgid "Mileage-City"
+msgstr ""
+
+#: functions/auto-detail-fun.php:499 functions/auto-detail-fun.php:1367
+#: phone-rival.php:208
+msgid "Mileage-Highway"
+msgstr ""
+
+#: functions/auto-detail-fun.php:505 functions/auto-detail-fun.php:1373
+#: phone-rival.php:214
+msgid "Fuel Tank Capacity"
+msgstr ""
+
+#: functions/auto-detail-fun.php:511 functions/auto-detail-fun.php:1379
+#: phone-rival.php:220
+msgid "Seating Capacity"
+msgstr ""
+
+#: functions/auto-detail-fun.php:517 functions/auto-detail-fun.php:1385
+#: phone-rival.php:226
+msgid "Transmission Type"
+msgstr ""
+
+#: functions/auto-detail-fun.php:551 functions/auto-detail-fun.php:1408
+msgid "Cruise Control"
+msgstr ""
+
+#: functions/auto-detail-fun.php:560 functions/auto-detail-fun.php:1416
+msgid "Electrically folding doors mirrors"
+msgstr ""
+
+#: functions/auto-detail-fun.php:568 functions/auto-detail-fun.php:1423
+msgid "Heated exteriors mirrors"
+msgstr ""
+
+#: functions/auto-detail-fun.php:576
+msgid "Electric windows front+rear"
+msgstr ""
+
+#: functions/auto-detail-fun.php:584
+msgid "Leather Furnishing"
+msgstr ""
+
+#: functions/auto-detail-fun.php:592
+msgid "Armrest for"
+msgstr ""
+
+#: functions/auto-detail-fun.php:600
+msgid "Rain Sensor"
+msgstr ""
+
+#: functions/auto-detail-fun.php:608
+msgid "Start/Stop System"
+msgstr ""
+
+#: functions/auto-detail-fun.php:616
+msgid "Gear lever covered with leather"
+msgstr ""
+
+#: functions/auto-detail-fun.php:624
+msgid "Automatic Climate Control"
+msgstr ""
+
+#: functions/auto-detail-fun.php:632
+msgid "Electrically adjustable door mirrors"
+msgstr ""
+
+#: functions/auto-detail-fun.php:640
+msgid "Central door locking with remote control"
+msgstr ""
+
+#: functions/auto-detail-fun.php:648
+msgid "Seat Heating"
+msgstr ""
+
+#: functions/auto-detail-fun.php:656
+msgid "Leather Steering Wheel"
+msgstr ""
+
+#: functions/auto-detail-fun.php:664
+msgid "Light sensor"
+msgstr ""
+
+#: functions/auto-detail-fun.php:672
+msgid "Sports Suspension"
+msgstr ""
+
+#: functions/auto-detail-fun.php:688
+msgid "Tinted and heat-resistant glass"
+msgstr ""
+
+#: functions/auto-detail-fun.php:696
+msgid "ABS"
+msgstr ""
+
+#: functions/auto-detail-fun.php:704
+msgid "Airbag Passenger"
+msgstr ""
+
+#: functions/auto-detail-fun.php:712
+msgid "Alarm System"
+msgstr ""
+
+#: functions/auto-detail-fun.php:720
+msgid "Isofix (Child Seat Confirmation)"
+msgstr ""
+
+#: functions/auto-detail-fun.php:728
+msgid "Traction Control"
+msgstr ""
+
+#: functions/auto-detail-fun.php:736
+msgid "Airbag Driver"
+msgstr ""
+
+#: functions/auto-detail-fun.php:744
+msgid "Side Airbags"
+msgstr ""
+
+#: functions/auto-detail-fun.php:752
+msgid "ESP"
+msgstr ""
+
+#: functions/auto-detail-fun.php:760
+msgid "Rear Parking Sensors"
+msgstr ""
+
+#: functions/auto-detail-fun.php:768
+msgid "Bi Xenon Headlights"
+msgstr ""
+
+#: functions/auto-detail-fun.php:776
+msgid "LED Daytime running lights"
+msgstr ""
+
+#: functions/auto-detail-fun.php:784
+msgid "LED tail lights"
+msgstr ""
+
+#: functions/auto-detail-fun.php:792
+msgid "Front Fog Lights"
+msgstr ""
+
+#: functions/auto-detail-fun.php:800
+msgid "Headlights Washers"
+msgstr ""
+
+#: functions/auto-detail-fun.php:808
+msgid "Sports Package"
+msgstr ""
+
+#: functions/auto-detail-fun.php:816
+msgid "Alloy Wheels"
+msgstr ""
+
+#: functions/auto-detail-fun.php:824
+msgid "Maintenance History Present"
+msgstr ""
+
+#: functions/auto-detail-fun.php:832
+msgid "Particle Filter"
+msgstr ""
+
+#: functions/auto-detail-fun.php:840 functions/auto-detail-fun.php:1431
+#: phone-rival.php:247
+msgid "Air Conditioner"
+msgstr ""
+
+#: functions/auto-detail-fun.php:848 functions/auto-detail-fun.php:1439
+#: phone-rival.php:253
+msgid "AntiLock Braking System"
+msgstr ""
+
+#: functions/auto-detail-fun.php:856 functions/auto-detail-fun.php:1447
+#: phone-rival.php:259
+msgid "Power Steering"
+msgstr ""
+
+#: functions/auto-detail-fun.php:864 functions/auto-detail-fun.php:1455
+#: phone-rival.php:265
+msgid "Power Windows"
+msgstr ""
+
+#: functions/auto-detail-fun.php:872 functions/auto-detail-fun.php:1463
+#: phone-rival.php:271
+msgid "CD Player"
+msgstr ""
+
+#: functions/auto-detail-fun.php:880 functions/auto-detail-fun.php:1471
+#: phone-rival.php:277
+msgid "Leather Seats"
+msgstr ""
+
+#: functions/auto-detail-fun.php:888 functions/auto-detail-fun.php:1479
+#: phone-rival.php:283
+msgid "Central Locking"
+msgstr ""
+
+#: functions/auto-detail-fun.php:896 functions/auto-detail-fun.php:1487
+#: phone-rival.php:289
+msgid "Power Door Locks"
+msgstr ""
+
+#: functions/auto-detail-fun.php:904 functions/auto-detail-fun.php:1495
+msgid "Brake Assist"
+msgstr ""
+
+#: functions/auto-detail-fun.php:912 functions/auto-detail-fun.php:1503
+msgid "Driver Airbag"
+msgstr ""
+
+#: functions/auto-detail-fun.php:920 functions/auto-detail-fun.php:1511
+msgid "Passenger Airbag"
+msgstr ""
+
+#: functions/auto-detail-fun.php:928 functions/auto-detail-fun.php:1519
+msgid "Crash Sensor"
+msgstr ""
+
+#: functions/auto-detail-fun.php:936 functions/auto-detail-fun.php:1527
+msgid "Engine Check Warning"
+msgstr ""
+
+#: functions/auto-detail-fun.php:944 functions/auto-detail-fun.php:1535
+msgid "Automatic Headlamps"
+msgstr ""
+
+#: functions/auto-detail-fun.php:1000 functions/auto-detail-fun.php:1592
+msgid "Watch Video"
+msgstr ""
+
+#: functions/auto-detail-fun.php:1649 functions/search-filter.php:137
+#: functions/search-filter.php:297 functions/search-filter.php:518
+#: functions/theme-options.php:1920
+msgid "Search Car"
+msgstr ""
+
+#: functions/auto-function.php:88
+msgid "Compared Auto"
+msgstr ""
+
+#: functions/auto-function.php:102
+msgid "Clear All"
+msgstr ""
+
+#: functions/auto-function.php:137
+msgid "Sort by:"
+msgstr ""
+
+#: functions/auto-function.php:151
+msgid "Sort Listing"
+msgstr ""
+
+#: functions/auto-function.php:154
+msgid "A-Z"
+msgstr ""
+
+#: functions/auto-function.php:157
+msgid "Price (Low to High)"
+msgstr ""
+
+#: functions/auto-function.php:160
+msgid "Price (High to Low)"
+msgstr ""
+
+#: functions/auto-function.php:163
+msgid "Newest Items"
+msgstr ""
+
+#: functions/auto-function.php:166
+msgid "Oldest Items"
+msgstr ""
+
+#: functions/blog-style.php:203 functions/blog-style.php:300
+#: functions/blog-style.php:415 functions/blog-style.php:510
+msgid "Featured"
+msgstr ""
+
+#: functions/blog-style.php:234 functions/blog-style.php:323
+#: functions/blog-style.php:444 functions/blog-style.php:537
+msgid "Pages:"
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: functions/classes/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: functions/classes/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: functions/classes/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: functions/classes/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: functions/classes/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: functions/classes/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/classes/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/classes/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/classes/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/classes/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:393
+#: functions/classes/class-tgm-plugin-activation.php:920
+#: functions/classes/class-tgm-plugin-activation.php:2627
+#: functions/classes/class-tgm-plugin-activation.php:3674
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:394
+#: functions/classes/class-tgm-plugin-activation.php:3253
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:395
+#: functions/classes/class-tgm-plugin-activation.php:3046
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: functions/classes/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: functions/classes/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: functions/classes/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:1027
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:1027
+#: functions/classes/class-tgm-plugin-activation.php:1030
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:1030
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:1214
+#: functions/classes/class-tgm-plugin-activation.php:3042
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: functions/classes/class-tgm-plugin-activation.php:2076
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:2367
+msgid "Required"
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:2370
+msgid "Recommended"
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:2386
+msgid "WordPress Repository"
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:2389
+msgid "External Source"
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:2392
+msgid "Pre-Packaged"
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:2409
+msgid "Not Installed"
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:2413
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:2415
+msgid "Active"
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:2421
+msgid "Required Update not Available"
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:2424
+msgid "Requires Update"
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:2427
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: functions/classes/class-tgm-plugin-activation.php:2436
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: functions/classes/class-tgm-plugin-activation.php:2482
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: functions/classes/class-tgm-plugin-activation.php:2486
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: functions/classes/class-tgm-plugin-activation.php:2490
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: functions/classes/class-tgm-plugin-activation.php:2494
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/classes/class-tgm-plugin-activation.php:2576
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:2584
+msgid "Installed version:"
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:2592
+msgid "Minimum required version:"
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:2604
+msgid "Available version:"
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:2627
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:2641
+msgid "Plugin"
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:2642
+msgid "Source"
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:2643
+msgid "Type"
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:2647
+msgid "Version"
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:2648
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: functions/classes/class-tgm-plugin-activation.php:2697
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: functions/classes/class-tgm-plugin-activation.php:2702
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: functions/classes/class-tgm-plugin-activation.php:2708
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:2778
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:2811
+msgid "Install"
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:2817
+msgid "Update"
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:2820
+msgid "Activate"
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:2851
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:2853
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:2894
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:2896
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:3002
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:3028
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:3252
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: functions/classes/class-tgm-plugin-activation.php:3592
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: functions/classes/class-tgm-plugin-activation.php:3595
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: functions/classes/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:3601
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: functions/classes/class-tgm-plugin-activation.php:3603
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:3603
+#: functions/classes/class-tgm-plugin-activation.php:3611
+msgid "Show Details"
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:3603
+#: functions/classes/class-tgm-plugin-activation.php:3611
+msgid "Hide Details"
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:3604
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: functions/classes/class-tgm-plugin-activation.php:3606
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:3609
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: functions/classes/class-tgm-plugin-activation.php:3611
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: functions/classes/class-tgm-plugin-activation.php:3612
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: functions/classes/class-tgm-plugin-activation.php:3614
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: functions/classes/install-plugin.php:237
+msgid "Dream Real Estate"
+msgstr ""
+
+#: functions/classes/install-plugin.php:277
+msgid "Js Composer"
+msgstr ""
+
+#: functions/classes/install-plugin.php:317
+msgid "Meta Box"
+msgstr ""
+
+#: functions/classes/install-plugin.php:341
+msgid "Contact Form 7"
+msgstr ""
+
+#: functions/classes/install-plugin.php:365
+msgid "Redux Framework"
+msgstr ""
+
+#: functions/classes/install-plugin.php:389
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: functions/header-fun.php:407 header-a.php:167
+msgid "Search..."
+msgstr ""
+
+#: functions/list-page-fun.php:427
+msgid "View Details "
+msgstr ""
+
+#: functions/list-page-fun.php:553 functions/list-page-fun.php:1053
+#: functions/list-page-fun.php:1345 functions/search-page-style.php:85
+msgid "View Details"
+msgstr ""
+
+#: functions/meta/post-meta/class.php:37
+msgid "Designation Field"
+msgstr ""
+
+#: functions/meta/post-meta/class.php:49
+msgid "Designation of Testimonial:-"
+msgstr ""
+
+#: functions/meta/post-meta/class.php:51
+msgid "Example: CEO of xzy company"
+msgstr ""
+
+#: functions/meta/post-meta/class.php:59
+msgid "Brand Link"
+msgstr ""
+
+#: functions/meta/post-meta/class.php:62
+msgid "Add Brand Link:-"
+msgstr ""
+
+#: functions/meta/post-meta/class.php:64
+msgid "Example: http://www.bmw.in/"
+msgstr ""
+
+#: functions/meta/post-meta/class.php:73 functions/meta/post-meta/class.php:97
+msgid "Header Setting"
+msgstr ""
+
+#: functions/meta/post-meta/class.php:77 functions/meta/post-meta/class.php:101
+msgid "Custom Header"
+msgstr ""
+
+#: functions/meta/post-meta/class.php:78 functions/meta/post-meta/class.php:102
+msgid "Custom Header Banner Image Upload"
+msgstr ""
+
+#: functions/meta/post-meta/class.php:81 functions/meta/post-meta/class.php:105
+msgid "Header Image Upload"
+msgstr ""
+
+#: functions/meta/post-meta/class.php:117
+msgid "Show car type on page"
+msgstr ""
+
+#: functions/meta/post-meta/class.php:122
+msgid "Select car type:-"
+msgstr ""
+
+#: functions/meta/post-meta/class.php:139
+msgid "Post Formet Setting"
+msgstr ""
+
+#: functions/meta/post-meta/class.php:143
+msgid "Video Link For Video Post Formet"
+msgstr ""
+
+#: functions/meta/post-meta/class.php:146
+msgid "Video Link"
+msgstr ""
+
+#: functions/meta/post-meta/class.php:149
+msgid "Note:- Please Add youtube Only"
+msgstr ""
+
+#: functions/meta/post-meta/class.php:161
+msgid "Trending Post"
+msgstr ""
+
+#: functions/meta/post-meta/class.php:166
+msgid "Trending Car Post"
+msgstr ""
+
+#: functions/meta/post-meta/class.php:175
+msgid "Team Member Info"
+msgstr ""
+
+#: functions/meta/post-meta/class.php:178
+msgid "Member Designation :-"
+msgstr ""
+
+#: functions/meta/post-meta/class.php:180
+msgid "Example: Chief Finance Manager"
+msgstr ""
+
+#: functions/meta/post-meta/class.php:184
+msgid "Member Phone No. :-"
+msgstr ""
+
+#: functions/meta/post-meta/class.php:186
+msgid "Example: +61-12134-567-89"
+msgstr ""
+
+#: functions/meta/post-meta/class.php:190
+msgid "Member Email :-"
+msgstr ""
+
+#: functions/meta/post-meta/class.php:192
+msgid "Example: contact@example.com"
+msgstr ""
+
+#: functions/meta/post-meta/class.php:196
+msgid "Member Facebook Page Link:-"
+msgstr ""
+
+#: functions/meta/post-meta/class.php:198
+msgid "Example: https://www.facebook.com"
+msgstr ""
+
+#: functions/meta/post-meta/class.php:202
+msgid "Member Twitter Page Link:-"
+msgstr ""
+
+#: functions/meta/post-meta/class.php:204
+msgid "Example: https://www.twitter.com"
+msgstr ""
+
+#: functions/meta/post-meta/class.php:208
+msgid "Member linkedin Page Link:-"
+msgstr ""
+
+#: functions/meta/post-meta/class.php:210
+msgid "Example: https://www.linkedin.com"
+msgstr ""
+
+#: functions/meta/post-meta/class.php:214
+msgid "Member Google Plus Link:-"
+msgstr ""
+
+#: functions/meta/post-meta/class.php:216
+msgid "Example: https://www.google.com"
+msgstr ""
+
+#: functions/search-filter.php:27 functions/search-filter.php:190
+#: functions/search-filter.php:370
+msgid "Select Location"
+msgstr ""
+
+#: functions/search-filter.php:48 functions/search-filter.php:211
+#: functions/search-filter.php:391
+msgid "Select Brand"
+msgstr ""
+
+#: functions/search-filter.php:65 functions/search-filter.php:228
+#: functions/search-filter.php:440
+msgid "Select Brand First"
+msgstr ""
+
+#: functions/search-filter.php:77 functions/search-filter.php:240
+#: functions/search-filter.php:452
+msgid "Year of Model"
+msgstr ""
+
+#: functions/search-filter.php:98 functions/search-filter.php:261
+#: functions/search-filter.php:477
+msgid "Vehicle Fuel Type"
+msgstr ""
+
+#: functions/search-filter.php:99 functions/search-filter.php:262
+#: functions/search-filter.php:478
+msgid "Diesel"
+msgstr ""
+
+#: functions/search-filter.php:100 functions/search-filter.php:263
+#: functions/search-filter.php:479
+msgid "Petrol"
+msgstr ""
+
+#: functions/search-filter.php:101 functions/search-filter.php:264
+#: functions/search-filter.php:480
+msgid "Autogas"
+msgstr ""
+
+#: functions/search-filter.php:112 functions/search-filter.php:490
+msgid "Price Range"
+msgstr ""
+
+#: functions/search-filter.php:123 functions/search-filter.php:285
+#: functions/search-filter.php:501
+msgid "Type of Car"
+msgstr ""
+
+#: functions/search-filter.php:274
+msgid "Price Range "
+msgstr ""
+
+#: functions/social-share.php:17 functions/social-share.php:41
+msgid "Share:"
+msgstr ""
+
+#: functions/theme-options.php:52 functions/theme-options.php:54
+msgid "Theme Options"
+msgstr ""
+
+#: functions/theme-options.php:332
+msgid "Overall Setup"
+msgstr ""
+
+#: functions/theme-options.php:334
+msgid ""
+"Here in overall setup section you can edit basic settings related to overall "
+"website."
+msgstr ""
+
+#: functions/theme-options.php:344 functions/theme-options.php:482
+#: functions/theme-options.php:521 functions/theme-options.php:1065
+#: functions/theme-options.php:1567 functions/theme-options.php:1666
+#: functions/theme-options.php:1745 functions/theme-options.php:1845
+#: functions/theme-options.php:2187 functions/theme-options.php:2700
+#: functions/theme-options.php:2809 functions/theme-options.php:2869
+msgid "Title"
+msgstr ""
+
+#: functions/theme-options.php:346 functions/theme-options.php:483
+#: functions/theme-options.php:523 functions/theme-options.php:1067
+#: functions/theme-options.php:1747 functions/theme-options.php:2811
+msgid "Description and image maybe."
+msgstr ""
+
+#: functions/theme-options.php:363
+msgid "General"
+msgstr ""
+
+#: functions/theme-options.php:365
+msgid "General carforyou Settings"
+msgstr ""
+
+#: functions/theme-options.php:374
+msgid "Theme Primary Color "
+msgstr ""
+
+#: functions/theme-options.php:376
+msgid "Theme Primary Color Scheme."
+msgstr ""
+
+#: functions/theme-options.php:383
+msgid "Theme Hover Color "
+msgstr ""
+
+#: functions/theme-options.php:385
+msgid "Theme Hover Color Scheme."
+msgstr ""
+
+#: functions/theme-options.php:392
+msgid "Select Font Family"
+msgstr ""
+
+#: functions/theme-options.php:393
+msgid "Please Select A Font Family"
+msgstr ""
+
+#: functions/theme-options.php:406
+msgid "Currency Symbol"
+msgstr ""
+
+#: functions/theme-options.php:407
+msgid "Please Input Currency symbol"
+msgstr ""
+
+#: functions/theme-options.php:413
+msgid "Show KM/Miles Options"
+msgstr ""
+
+#: functions/theme-options.php:414
+msgid "No validation can be done on this field type"
+msgstr ""
+
+#: functions/theme-options.php:415
+msgid "Show KM/Miles Auto list"
+msgstr ""
+
+#: functions/theme-options.php:424
+msgid "Breadcrumb Enable/Disable"
+msgstr ""
+
+#: functions/theme-options.php:427
+msgid "Breadcrumb Enable and Disable"
+msgstr ""
+
+#: functions/theme-options.php:437
+msgid "Type of Car Show"
+msgstr ""
+
+#: functions/theme-options.php:452
+msgid "Select Types of Category"
+msgstr ""
+
+#: functions/theme-options.php:477
+msgid "Home Slider"
+msgstr ""
+
+#: functions/theme-options.php:478
+msgid "Home Page Slider Settings"
+msgstr ""
+
+#: functions/theme-options.php:488
+msgid "Read More Button Text"
+msgstr ""
+
+#: functions/theme-options.php:490
+msgid "Please Input Read More Button Text."
+msgstr ""
+
+#: functions/theme-options.php:496
+msgid "Slides Options"
+msgstr ""
+
+#: functions/theme-options.php:497
+msgid "Unlimited slides with drag and drop sortings."
+msgstr ""
+
+#: functions/theme-options.php:511
+msgid "Header"
+msgstr ""
+
+#: functions/theme-options.php:513
+msgid "Header carforyou Settings"
+msgstr ""
+
+#: functions/theme-options.php:539
+msgid "Header Style"
+msgstr ""
+
+#: functions/theme-options.php:551
+msgid "Header Layouts"
+msgstr ""
+
+#: functions/theme-options.php:553
+msgid "select a layout for header"
+msgstr ""
+
+#: functions/theme-options.php:577
+msgid "Show Email"
+msgstr ""
+
+#: functions/theme-options.php:579
+msgid "Show your Email Header"
+msgstr ""
+
+#: functions/theme-options.php:629
+msgid "Header Email Heading"
+msgstr ""
+
+#: functions/theme-options.php:633
+msgid "Please Input your Email Heading."
+msgstr ""
+
+#: functions/theme-options.php:655
+msgid "Header Email ID"
+msgstr ""
+
+#: functions/theme-options.php:659
+msgid "Please Input your Email ID."
+msgstr ""
+
+#: functions/theme-options.php:679
+msgid "Show Contact Number"
+msgstr ""
+
+#: functions/theme-options.php:681
+msgid "Show your Contact Number Header"
+msgstr ""
+
+#: functions/theme-options.php:731
+msgid "Header Contact Number Heading"
+msgstr ""
+
+#: functions/theme-options.php:735
+msgid "Please Input your Contact Number Heading."
+msgstr ""
+
+#: functions/theme-options.php:755
+msgid "Header Contact Number"
+msgstr ""
+
+#: functions/theme-options.php:759
+msgid "Please Input your Contact Number."
+msgstr ""
+
+#: functions/theme-options.php:785
+msgid "Logo"
+msgstr ""
+
+#: functions/theme-options.php:787
+msgid "Upload logo for website."
+msgstr ""
+
+#: functions/theme-options.php:801
+msgid "Site Logo"
+msgstr ""
+
+#: functions/theme-options.php:805
+msgid "Upload site logo"
+msgstr ""
+
+#: functions/theme-options.php:815
+msgid "Site Favicon"
+msgstr ""
+
+#: functions/theme-options.php:819
+msgid "Upload site favicon."
+msgstr ""
+
+#: functions/theme-options.php:837
+msgid "Inner Page Header"
+msgstr ""
+
+#: functions/theme-options.php:839
+msgid "Inner Page  Banner Setting"
+msgstr ""
+
+#: functions/theme-options.php:855
+msgid "Inner Page Banner Image w/ URL"
+msgstr ""
+
+#: functions/theme-options.php:857
+msgid "Please Uploade Inner Page Header Banner Image."
+msgstr ""
+
+#: functions/theme-options.php:879 functions/theme-options.php:1359
+msgid "Social"
+msgstr ""
+
+#: functions/theme-options.php:881
+msgid "Setup social profiles in Header."
+msgstr ""
+
+#: functions/theme-options.php:897
+msgid "Show Social Icons"
+msgstr ""
+
+#: functions/theme-options.php:899
+msgid "Show your Social Icons Header"
+msgstr ""
+
+#: functions/theme-options.php:913 functions/theme-options.php:1413
+msgid "Facebook Page link"
+msgstr ""
+
+#: functions/theme-options.php:917 functions/theme-options.php:1417
+msgid "Please Input link to your facebook page"
+msgstr ""
+
+#: functions/theme-options.php:935 functions/theme-options.php:1435
+msgid "Twitter Page link"
+msgstr ""
+
+#: functions/theme-options.php:939 functions/theme-options.php:1439
+msgid "Please Input link to your twitter page"
+msgstr ""
+
+#: functions/theme-options.php:957 functions/theme-options.php:1457
+msgid "Linkedin Page link"
+msgstr ""
+
+#: functions/theme-options.php:961 functions/theme-options.php:1461
+msgid "Please Input link to your Linkedin page"
+msgstr ""
+
+#: functions/theme-options.php:979 functions/theme-options.php:1479
+msgid "Google+ Page link"
+msgstr ""
+
+#: functions/theme-options.php:983 functions/theme-options.php:1483
+msgid "Please Input link to your google+ page"
+msgstr ""
+
+#: functions/theme-options.php:1003
+msgid "Instagram link"
+msgstr ""
+
+#: functions/theme-options.php:1007
+msgid "Please Input link to your instagram page"
+msgstr ""
+
+#: functions/theme-options.php:1027
+msgid "Pinterest Page link"
+msgstr ""
+
+#: functions/theme-options.php:1031
+msgid "Please Input link to your Pinterest page"
+msgstr ""
+
+#: functions/theme-options.php:1055
+msgid "Footer"
+msgstr ""
+
+#: functions/theme-options.php:1057
+msgid "Footer carforyou Settings"
+msgstr ""
+
+#: functions/theme-options.php:1079
+msgid "Footer Bottom "
+msgstr ""
+
+#: functions/theme-options.php:1081
+msgid "Footer Bottom Setting"
+msgstr ""
+
+#: functions/theme-options.php:1097 functions/theme-options.php:1099
+msgid "Show Footer Brands"
+msgstr ""
+
+#: functions/theme-options.php:1113
+msgid "Popular Brands Text"
+msgstr ""
+
+#: functions/theme-options.php:1117
+msgid "Please Input Popular Brands Text."
+msgstr ""
+
+#: functions/theme-options.php:1135
+msgid "Footer Popular Brands show at most"
+msgstr ""
+
+#: functions/theme-options.php:1139
+msgid "Please Input your Number show the most Brands Default is \"6\"."
+msgstr ""
+
+#: functions/theme-options.php:1159 functions/theme-options.php:1175
+msgid "Copy Right Text"
+msgstr ""
+
+#: functions/theme-options.php:1161
+msgid "Show Footer Copy Right Text"
+msgstr ""
+
+#: functions/theme-options.php:1181
+msgid "Please Input copyrights."
+msgstr ""
+
+#: functions/theme-options.php:1201
+msgid "Our Apps"
+msgstr ""
+
+#: functions/theme-options.php:1203
+msgid "Show Footer Our Apps"
+msgstr ""
+
+#: functions/theme-options.php:1217
+msgid "Download Our APP Text:"
+msgstr ""
+
+#: functions/theme-options.php:1221
+msgid "Please Input Download APP Text:."
+msgstr ""
+
+#: functions/theme-options.php:1267
+msgid "Our App link "
+msgstr ""
+
+#: functions/theme-options.php:1279 functions/theme-options.php:1331
+msgid "Please Input Our App link"
+msgstr ""
+
+#: functions/theme-options.php:1319
+msgid "Our App link"
+msgstr ""
+
+#: functions/theme-options.php:1337
+msgid "Enable button back to top."
+msgstr ""
+
+#: functions/theme-options.php:1343
+msgid "Back To Top"
+msgstr ""
+
+#: functions/theme-options.php:1361
+msgid "Setup social profiles in footer."
+msgstr ""
+
+#: functions/theme-options.php:1377
+msgid "Connect with Us"
+msgstr ""
+
+#: functions/theme-options.php:1379
+msgid "Show Footer Connect with Us Social Icons"
+msgstr ""
+
+#: functions/theme-options.php:1391
+msgid "Connect with Us: "
+msgstr ""
+
+#: functions/theme-options.php:1395
+msgid "Please Input Connect with Us Text."
+msgstr ""
+
+#: functions/theme-options.php:1503
+msgid "Instagram Page link"
+msgstr ""
+
+#: functions/theme-options.php:1507
+msgid "Please Input link to your Instagram page"
+msgstr ""
+
+#: functions/theme-options.php:1529
+msgid "Pinterest link"
+msgstr ""
+
+#: functions/theme-options.php:1533
+msgid "Please Input link to your pinterest page"
+msgstr ""
+
+#: functions/theme-options.php:1557
+msgid "Search Filter"
+msgstr ""
+
+#: functions/theme-options.php:1559
+msgid "Search Form Car For You Settings"
+msgstr ""
+
+#: functions/theme-options.php:1569
+msgid "Search Filter Car For You"
+msgstr ""
+
+#: functions/theme-options.php:1580
+msgid "Search Filter Form"
+msgstr ""
+
+#: functions/theme-options.php:1587
+msgid "Search Filter Heading"
+msgstr ""
+
+#: functions/theme-options.php:1589
+msgid "Please Input Search Filter Heading "
+msgstr ""
+
+#: functions/theme-options.php:1598
+msgid "Search Filter Page Link"
+msgstr ""
+
+#: functions/theme-options.php:1599
+msgid "Selected Pages will be displayed in Search Filter Page Link"
+msgstr ""
+
+#: functions/theme-options.php:1604
+msgid "Search Filter field enalble and disabled"
+msgstr ""
+
+#: functions/theme-options.php:1609
+msgid "Auto Location Enable"
+msgstr ""
+
+#: functions/theme-options.php:1610
+msgid "Show auto Location Enable and Disabled"
+msgstr ""
+
+#: functions/theme-options.php:1616
+msgid "Auto Brand Enable"
+msgstr ""
+
+#: functions/theme-options.php:1617
+msgid "Show auto Brand Enable and Disabled"
+msgstr ""
+
+#: functions/theme-options.php:1623
+msgid "Auto Year Moddel Enable"
+msgstr ""
+
+#: functions/theme-options.php:1624
+msgid "Show Auto Year Moddel Enable and Disabled"
+msgstr ""
+
+#: functions/theme-options.php:1630
+msgid "Auto Price Range Slider Enable"
+msgstr ""
+
+#: functions/theme-options.php:1631
+msgid "Show Auto Price Range Slider Enable and Disabled"
+msgstr ""
+
+#: functions/theme-options.php:1637
+msgid "Auto Type Enable"
+msgstr ""
+
+#: functions/theme-options.php:1638
+msgid "Show Auto Type New and Used Enable and Disabled"
+msgstr ""
+
+#: functions/theme-options.php:1656
+msgid "Compare Car"
+msgstr ""
+
+#: functions/theme-options.php:1658
+msgid "Compared  Car For You Settings"
+msgstr ""
+
+#: functions/theme-options.php:1668
+msgid "Compare Car For You"
+msgstr ""
+
+#: functions/theme-options.php:1680
+msgid "Compare Settings"
+msgstr ""
+
+#: functions/theme-options.php:1694
+msgid "Compare Car Heading"
+msgstr ""
+
+#: functions/theme-options.php:1698
+msgid "Please Input Compare Car Heading "
+msgstr ""
+
+#: functions/theme-options.php:1716
+msgid "Compare Car Page Link"
+msgstr ""
+
+#: functions/theme-options.php:1718
+msgid "Compare Car Pages will be displayed in Compare Page Link"
+msgstr ""
+
+#: functions/theme-options.php:1735
+msgid "Blog "
+msgstr ""
+
+#: functions/theme-options.php:1737
+msgid "Blog Side Bar settings."
+msgstr ""
+
+#: functions/theme-options.php:1759
+msgid "Blog Side Bar"
+msgstr ""
+
+#: functions/theme-options.php:1761
+msgid "Setup Side Bar Layout."
+msgstr ""
+
+#: functions/theme-options.php:1801
+msgid "Blog Single"
+msgstr ""
+
+#: functions/theme-options.php:1803
+msgid "Blog Single Settings."
+msgstr ""
+
+#: functions/theme-options.php:1835
+msgid "Car Listing Page"
+msgstr ""
+
+#: functions/theme-options.php:1837 functions/theme-options.php:2179
+msgid "Car Listing Style Settings"
+msgstr ""
+
+#: functions/theme-options.php:1857
+msgid "Car Listing"
+msgstr ""
+
+#: functions/theme-options.php:1922
+msgid "Show Search Car Tab Side Bar Enable"
+msgstr ""
+
+#: functions/theme-options.php:1936
+msgid "Search Car Heading Side Bar Text"
+msgstr ""
+
+#: functions/theme-options.php:1940
+msgid "Please Input your Heading Default is \"Find Your Dream Car\"."
+msgstr ""
+
+#: functions/theme-options.php:1960
+msgid "Sell Car"
+msgstr ""
+
+#: functions/theme-options.php:1962
+msgid "Show Sell Car Tab Side Bar Enable"
+msgstr ""
+
+#: functions/theme-options.php:1978
+msgid "Sell Car Heading Side Bar"
+msgstr ""
+
+#: functions/theme-options.php:1982
+msgid "Please Input your Heading Default is \"Sell Your Car\"."
+msgstr ""
+
+#: functions/theme-options.php:2004
+msgid "Sell Car Description Side Bar"
+msgstr ""
+
+#: functions/theme-options.php:2008
+msgid ""
+"Please Input your Description Default is \"Request a quote and sell your car "
+"now!\"."
+msgstr ""
+
+#: functions/theme-options.php:2028
+msgid "Sell Car Image Upload"
+msgstr ""
+
+#: functions/theme-options.php:2032
+msgid "Please Input your Sell Car Image Upload"
+msgstr ""
+
+#: functions/theme-options.php:2054
+msgid "Request a quote Button "
+msgstr ""
+
+#: functions/theme-options.php:2058
+msgid "Please Input your Button Text Default is \"Request a quote\"."
+msgstr ""
+
+#: functions/theme-options.php:2086
+msgid "Request a quote Link"
+msgstr ""
+
+#: functions/theme-options.php:2088
+msgid "Selected Pages will be displayed in Sell Car Request a quote Link"
+msgstr ""
+
+#: functions/theme-options.php:2106
+msgid "Recently Car"
+msgstr ""
+
+#: functions/theme-options.php:2108
+msgid "Show Recently Car Tab Side Bar Enable"
+msgstr ""
+
+#: functions/theme-options.php:2124
+msgid "Recently Listed Cars Heading Text"
+msgstr ""
+
+#: functions/theme-options.php:2128
+msgid "Please Input your Heading Default is \"Recently Listed Cars\"."
+msgstr ""
+
+#: functions/theme-options.php:2148
+msgid "Recently Listed show at most"
+msgstr ""
+
+#: functions/theme-options.php:2152
+msgid "Please Input your show the Recently Listed Default is \"4\"."
+msgstr ""
+
+#: functions/theme-options.php:2177
+msgid "Car Detail Page"
+msgstr ""
+
+#: functions/theme-options.php:2199
+msgid "Detail Page Setting "
+msgstr ""
+
+#: functions/theme-options.php:2246
+msgid "Detail Page Banner Image w/ URL"
+msgstr ""
+
+#: functions/theme-options.php:2247
+msgid "Please Uploade Inner Page Car Detail Page Banner Image."
+msgstr ""
+
+#: functions/theme-options.php:2256
+msgid "Show Search Filter"
+msgstr ""
+
+#: functions/theme-options.php:2257
+msgid "Show Search Filter Enable and Disable"
+msgstr ""
+
+#: functions/theme-options.php:2263 functions/theme-options.php:2264
+msgid "Show Financing Calculator"
+msgstr ""
+
+#: functions/theme-options.php:2270 functions/theme-options.php:2271
+msgid "Show Similar Cars"
+msgstr ""
+
+#: functions/theme-options.php:2277
+msgid "Heading Similar Cars"
+msgstr ""
+
+#: functions/theme-options.php:2279
+msgid "Please Input your Heading Default is \"Similar Cars\"."
+msgstr ""
+
+#: functions/theme-options.php:2294
+msgid "Similar Cars show at most"
+msgstr ""
+
+#: functions/theme-options.php:2298
+msgid "Please Input your limit Default is \"3\"."
+msgstr ""
+
+#: functions/theme-options.php:2318
+msgid "Detail other Info"
+msgstr ""
+
+#: functions/theme-options.php:2320
+msgid "Detail Info"
+msgstr ""
+
+#: functions/theme-options.php:2336
+msgid "Show Schedule"
+msgstr ""
+
+#: functions/theme-options.php:2338
+msgid "Show Schedule Enable"
+msgstr ""
+
+#: functions/theme-options.php:2354
+msgid "Schedule Heading Text"
+msgstr ""
+
+#: functions/theme-options.php:2358
+msgid "Please Input your Heading Default is \"Schedule Test Drive\"."
+msgstr ""
+
+#: functions/theme-options.php:2378
+msgid "Schedule Form Shortcode"
+msgstr ""
+
+#: functions/theme-options.php:2384
+msgid "Please Input your Schedule Form Short code Contact Form 7."
+msgstr ""
+
+#: functions/theme-options.php:2404
+msgid "Show Make Offer"
+msgstr ""
+
+#: functions/theme-options.php:2406
+msgid "Show Make Offer Enable"
+msgstr ""
+
+#: functions/theme-options.php:2422
+msgid "Make An Offer Heading Text"
+msgstr ""
+
+#: functions/theme-options.php:2426
+msgid "Please Input your Heading Default is \"Make an Offer\"."
+msgstr ""
+
+#: functions/theme-options.php:2446
+msgid "Make Offer Form Shortcode"
+msgstr ""
+
+#: functions/theme-options.php:2452
+msgid "Please Input your Offer Form Short code Contact Form 7."
+msgstr ""
+
+#: functions/theme-options.php:2472
+msgid "Show Email Friend"
+msgstr ""
+
+#: functions/theme-options.php:2474
+msgid "Show Email Friend Enable"
+msgstr ""
+
+#: functions/theme-options.php:2490
+msgid "Email Friend Heading Text"
+msgstr ""
+
+#: functions/theme-options.php:2494
+msgid "Please Input your Heading Default is \"Email to a Friend\"."
+msgstr ""
+
+#: functions/theme-options.php:2514
+msgid "Email Friend Form Shortcode"
+msgstr ""
+
+#: functions/theme-options.php:2520
+msgid "Please Input your Email Friend Form Short code Contact Form 7."
+msgstr ""
+
+#: functions/theme-options.php:2540
+msgid "Show Request More"
+msgstr ""
+
+#: functions/theme-options.php:2542
+msgid "Show Request More Enable"
+msgstr ""
+
+#: functions/theme-options.php:2558
+msgid "Request More Info Heading Text"
+msgstr ""
+
+#: functions/theme-options.php:2562
+msgid "Please Input your Heading Default is \"Request More Info\"."
+msgstr ""
+
+#: functions/theme-options.php:2582
+msgid "Request Form Shortcode"
+msgstr ""
+
+#: functions/theme-options.php:2588
+msgid "Please Input your Request More Form Short code Contact Form 7."
+msgstr ""
+
+#: functions/theme-options.php:2610
+msgid "APP Setup"
+msgstr ""
+
+#: functions/theme-options.php:2620
+msgid "Protected Key:"
+msgstr ""
+
+#: functions/theme-options.php:2628
+msgid ""
+"<a href=\"http://themes.webmasterdriver.net/carforyou/android/carforyou.apk"
+"\" class=\"btn btn-primary\">Download APP</a>"
+msgstr ""
+
+#: functions/theme-options.php:2629
+msgid "You can download app on clicking above dowload button"
+msgstr ""
+
+#: functions/theme-options.php:2635
+msgid "Enable APP"
+msgstr ""
+
+#: functions/theme-options.php:2639
+msgid "Enabled"
+msgstr ""
+
+#: functions/theme-options.php:2640
+msgid "Disabled"
+msgstr ""
+
+#: functions/theme-options.php:2648
+msgid "APP Logo"
+msgstr ""
+
+#: functions/theme-options.php:2652
+msgid "Upload APP logo"
+msgstr ""
+
+#: functions/theme-options.php:2658
+msgid "Splash Screen Color "
+msgstr ""
+
+#: functions/theme-options.php:2660
+msgid "App Splash Screen Color."
+msgstr ""
+
+#: functions/theme-options.php:2667
+msgid "App Title"
+msgstr ""
+
+#: functions/theme-options.php:2674
+msgid "App URL"
+msgstr ""
+
+#: functions/theme-options.php:2675
+msgid "Add Url which you run into APP"
+msgstr ""
+
+#: functions/theme-options.php:2690
+msgid "Coming Soon"
+msgstr ""
+
+#: functions/theme-options.php:2692
+msgid "Coming Soon Form"
+msgstr ""
+
+#: functions/theme-options.php:2712
+msgid "Coming Soon Form Settings"
+msgstr ""
+
+#: functions/theme-options.php:2728
+msgid "Coming Soon Page background Image w/ URL"
+msgstr ""
+
+#: functions/theme-options.php:2730
+msgid "Please Uploade Coming Soon Page background Image."
+msgstr ""
+
+#: functions/theme-options.php:2746
+msgid "Coming Soon Form Heading "
+msgstr ""
+
+#: functions/theme-options.php:2750
+msgid "Please Input your Heading Default is \"Do you have any Questions?\"."
+msgstr ""
+
+#: functions/theme-options.php:2766
+msgid "Coming Soon Form short code "
+msgstr ""
+
+#: functions/theme-options.php:2772
+msgid "Please Input your short code Contact Form 7."
+msgstr ""
+
+#: functions/theme-options.php:2781
+msgid "Add Date Countdown Timer"
+msgstr ""
+
+#: functions/theme-options.php:2784
+msgid "Examples:- March 22, 2018"
+msgstr ""
+
+#: functions/theme-options.php:2799
+msgid "404 Page"
+msgstr ""
+
+#: functions/theme-options.php:2801
+msgid "404 page settings."
+msgstr ""
+
+#: functions/theme-options.php:2823
+msgid "404 Page Content"
+msgstr ""
+
+#: functions/theme-options.php:2825
+msgid "Setup 404 Page details here."
+msgstr ""
+
+#: functions/theme-options.php:2839
+msgid "404 Page Header Image"
+msgstr ""
+
+#: functions/theme-options.php:2843
+msgid "Upload 404 Page Header Image."
+msgstr ""
+
+#: functions/theme-options.php:2853
+msgid "404 Title"
+msgstr ""
+
+#: functions/theme-options.php:2857
+msgid "Input 404 Page Title here Ex. Page Not Found"
+msgstr ""
+
+#: functions/theme-options.php:2873
+msgid "Input 404 Page section Mid title here Ex.Error This page is out of site"
+msgstr ""
+
+#: functions/theme-options.php:2885
+msgid "404 Content"
+msgstr ""
+
+#: functions/theme-options.php:2889
+msgid "Input 404 Page Content here"
+msgstr ""
+
+#: page.php:53
+msgid "Edit"
+msgstr ""
+
+#: phone-rival.php:32
+msgid "Search Other Inventory"
+msgstr ""
+
+#: phone-rival.php:35
+msgid "Reset All"
+msgstr ""
+
+#: phone-rival.php:40 phone-rival.php:50 phone-rival.php:60
+msgid "Reset Auto"
+msgstr ""
+
+#: phone-rival.php:42 phone-rival.php:52 phone-rival.php:62
+msgid "Replace"
+msgstr ""
+
+#: phone-rival.php:76
+msgid "Inventorys"
+msgstr ""
+
+#: phone-rival.php:83 phone-rival.php:90
+msgid "V/s"
+msgstr ""
+
+#: phone-rival.php:106
+msgid "BASIC INFO"
+msgstr ""
+
+#: phone-rival.php:156
+msgid "Body Color"
+msgstr ""
+
+#: phone-rival.php:162
+msgid "Auto Location"
+msgstr ""
+
+#: phone-rival.php:300 phone-rival.php:303 phone-rival.php:306
+msgid "View Detail"
+msgstr ""
+
+#: search-auto.php:393
+msgid "Sorry No Results, please try again."
+msgstr ""
+
+#: search.php:29
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:33
+msgid "Home"
+msgstr ""
+
+#: search.php:36
+msgid "Search Page"
+msgstr ""
+
+#: search.php:61
+msgid "Search Result Not Found..."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "CarForYou"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://themes.webmasterdriver.net/CarForYou/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Premium WordPress Theme Developed by webmasterdriver."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "webmasterdriver"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themeforest.net/user/webmasterdriver"
+msgstr ""

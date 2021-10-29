@@ -1,0 +1,286 @@
+2021-08-07T15:11:05+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function menu_link(), 1 passed in /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php on line 289 and exactly 2 expected in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1982
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(289): menu_link('<li class="menu...')
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-includes/plugin.php(212): WP_Hook->apply_filters('<li class="menu...', Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-includes/nav-menu-template.php(259): apply_filters('wp_nav_menu_ite...', '<li class="menu...', Object(stdClass))
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury/inc/functions/header.php(627): wp_nav_menu(Object(stdClass))
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/template-parts/headers/layout-2.php(54): martfury_header_menu()
+#5 /home/hopscon/public_html/hopscan-stg.com/wp- in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1982
+
+2021-08-07T15:11:09+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function menu_link(), 1 passed in /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php on line 289 and exactly 2 expected in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1982
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(289): menu_link('<li class="menu...')
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-includes/plugin.php(212): WP_Hook->apply_filters('<li class="menu...', Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-includes/nav-menu-template.php(259): apply_filters('wp_nav_menu_ite...', '<li class="menu...', Object(stdClass))
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury/inc/functions/header.php(627): wp_nav_menu(Object(stdClass))
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/template-parts/headers/layout-2.php(54): martfury_header_menu()
+#5 /home/hopscon/public_html/hopscan-stg.com/wp- in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1982
+
+2021-08-07T15:11:12+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function menu_link(), 1 passed in /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php on line 289 and exactly 2 expected in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1982
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(289): menu_link('<li class="menu...')
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-includes/plugin.php(212): WP_Hook->apply_filters('<li class="menu...', Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-includes/nav-menu-template.php(259): apply_filters('wp_nav_menu_ite...', '<li class="menu...', Object(stdClass))
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury/inc/functions/header.php(627): wp_nav_menu(Object(stdClass))
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/template-parts/headers/layout-2.php(54): martfury_header_menu()
+#5 /home/hopscon/public_html/hopscan-stg.com/wp- in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1982
+
+2021-08-07T15:11:13+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function menu_link(), 1 passed in /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php on line 289 and exactly 2 expected in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1982
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(289): menu_link('<li class="menu...')
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-includes/plugin.php(212): WP_Hook->apply_filters('<li class="menu...', Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-includes/nav-menu-template.php(259): apply_filters('wp_nav_menu_ite...', '<li class="menu...', Object(stdClass))
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury/inc/functions/header.php(627): wp_nav_menu(Object(stdClass))
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/template-parts/headers/layout-2.php(54): martfury_header_menu()
+#5 /home/hopscon/public_html/hopscan-stg.com/wp- in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1982
+
+2021-08-07T15:11:13+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function menu_link(), 1 passed in /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php on line 289 and exactly 2 expected in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1982
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(289): menu_link('<li class="menu...')
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-includes/plugin.php(212): WP_Hook->apply_filters('<li class="menu...', Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-includes/nav-menu-template.php(259): apply_filters('wp_nav_menu_ite...', '<li class="menu...', Object(stdClass))
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury/inc/functions/header.php(627): wp_nav_menu(Object(stdClass))
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/template-parts/headers/layout-2.php(54): martfury_header_menu()
+#5 /home/hopscon/public_html/hopscan-stg.com/wp- in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1982
+
+2021-08-07T15:11:21+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function menu_link(), 1 passed in /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php on line 289 and exactly 2 expected in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1982
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(289): menu_link('<li class="menu...')
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-includes/plugin.php(212): WP_Hook->apply_filters('<li class="menu...', Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-includes/nav-menu-template.php(259): apply_filters('wp_nav_menu_ite...', '<li class="menu...', Object(stdClass))
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury/inc/functions/header.php(627): wp_nav_menu(Object(stdClass))
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/template-parts/headers/layout-2.php(54): martfury_header_menu()
+#5 /home/hopscon/public_html/hopscan-stg.com/wp- in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1982
+
+2021-08-07T15:11:24+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function menu_link(), 1 passed in /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php on line 289 and exactly 2 expected in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1982
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(289): menu_link('<li class="menu...')
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-includes/plugin.php(212): WP_Hook->apply_filters('<li class="menu...', Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-includes/nav-menu-template.php(259): apply_filters('wp_nav_menu_ite...', '<li class="menu...', Object(stdClass))
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury/inc/functions/header.php(627): wp_nav_menu(Object(stdClass))
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/template-parts/headers/layout-2.php(54): martfury_header_menu()
+#5 /home/hopscon/public_html/hopscan-stg.com/wp- in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1982
+
+2021-08-07T15:11:25+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function menu_link(), 1 passed in /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php on line 289 and exactly 2 expected in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1982
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(289): menu_link('<li class="menu...')
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-includes/plugin.php(212): WP_Hook->apply_filters('<li class="menu...', Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-includes/nav-menu-template.php(259): apply_filters('wp_nav_menu_ite...', '<li class="menu...', Object(stdClass))
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury/inc/functions/header.php(627): wp_nav_menu(Object(stdClass))
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/template-parts/headers/layout-2.php(54): martfury_header_menu()
+#5 /home/hopscon/public_html/hopscan-stg.com/wp- in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1982
+
+2021-08-07T15:11:26+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function menu_link(), 1 passed in /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php on line 289 and exactly 2 expected in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1982
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(289): menu_link('<li class="menu...')
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-includes/plugin.php(212): WP_Hook->apply_filters('<li class="menu...', Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-includes/nav-menu-template.php(259): apply_filters('wp_nav_menu_ite...', '<li class="menu...', Object(stdClass))
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury/inc/functions/header.php(627): wp_nav_menu(Object(stdClass))
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/template-parts/headers/layout-2.php(54): martfury_header_menu()
+#5 /home/hopscon/public_html/hopscan-stg.com/wp- in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1982
+
+2021-08-07T15:30:56+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 199229448 bytes) in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury/inc/mega-menu/class-mega-menu-walker.php on line 430
+
+2021-08-07T15:31:04+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 165679000 bytes) in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury/inc/mega-menu/class-mega-menu-walker.php on line 48
+
+2021-08-07T15:31:10+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 232784832 bytes) in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury/inc/mega-menu/class-mega-menu-walker.php on line 278
+
+2021-08-07T15:31:14+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 115346056 bytes) in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury/inc/mega-menu/class-mega-menu-walker.php on line 278
+
+2021-08-07T16:03:11+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function exclude_empty_cat_menu_items(), 2 passed in /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php on line 289 and exactly 3 expected in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1980
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(289): exclude_empty_cat_menu_items(Array, Object(WP_Term))
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-includes/plugin.php(212): WP_Hook->apply_filters(Array, Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-includes/nav-menu.php(776): apply_filters('wp_get_nav_menu...', Array, Object(WP_Term), Array)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-includes/nav-menu-template.php(151): wp_get_nav_menu_items(Object(WP_Term), Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury/inc/functions/header.php(627): wp_nav_menu(Object(stdClass))
+#5 /home/hopscon/public_html/hopscan-stg.com/wp-cont in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1980
+
+2021-08-07T16:03:14+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function exclude_empty_cat_menu_items(), 2 passed in /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php on line 289 and exactly 3 expected in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1980
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(289): exclude_empty_cat_menu_items(Array, Object(WP_Term))
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-includes/plugin.php(212): WP_Hook->apply_filters(Array, Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-includes/nav-menu.php(776): apply_filters('wp_get_nav_menu...', Array, Object(WP_Term), Array)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-includes/nav-menu-template.php(151): wp_get_nav_menu_items(Object(WP_Term), Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury/inc/functions/header.php(627): wp_nav_menu(Object(stdClass))
+#5 /home/hopscon/public_html/hopscan-stg.com/wp-cont in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1980
+
+2021-08-07T16:03:15+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function exclude_empty_cat_menu_items(), 2 passed in /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php on line 289 and exactly 3 expected in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1980
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(289): exclude_empty_cat_menu_items(Array, Object(WP_Term))
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-includes/plugin.php(212): WP_Hook->apply_filters(Array, Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-includes/nav-menu.php(776): apply_filters('wp_get_nav_menu...', Array, Object(WP_Term), Array)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-includes/nav-menu-template.php(151): wp_get_nav_menu_items(Object(WP_Term), Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury/inc/functions/header.php(627): wp_nav_menu(Object(stdClass))
+#5 /home/hopscon/public_html/hopscan-stg.com/wp-cont in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1980
+
+2021-08-07T16:03:16+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function exclude_empty_cat_menu_items(), 2 passed in /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php on line 289 and exactly 3 expected in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1980
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(289): exclude_empty_cat_menu_items(Array, Object(WP_Term))
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-includes/plugin.php(212): WP_Hook->apply_filters(Array, Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-includes/nav-menu.php(776): apply_filters('wp_get_nav_menu...', Array, Object(WP_Term), Array)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-includes/nav-menu-template.php(151): wp_get_nav_menu_items(Object(WP_Term), Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury/inc/functions/header.php(627): wp_nav_menu(Object(stdClass))
+#5 /home/hopscon/public_html/hopscan-stg.com/wp-cont in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1980
+
+2021-08-07T16:03:29+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function exclude_empty_cat_menu_items(), 2 passed in /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php on line 289 and exactly 3 expected in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1980
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(289): exclude_empty_cat_menu_items(Array, Object(WP_Term))
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-includes/plugin.php(212): WP_Hook->apply_filters(Array, Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-includes/nav-menu.php(776): apply_filters('wp_get_nav_menu...', Array, Object(WP_Term), Array)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-includes/nav-menu-template.php(151): wp_get_nav_menu_items(Object(WP_Term), Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury/inc/functions/header.php(627): wp_nav_menu(Object(stdClass))
+#5 /home/hopscon/public_html/hopscan-stg.com/wp-cont in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1980
+
+2021-08-07T16:03:34+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function exclude_empty_cat_menu_items(), 2 passed in /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php on line 289 and exactly 3 expected in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1980
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(289): exclude_empty_cat_menu_items(Array, Object(WP_Term))
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-includes/plugin.php(212): WP_Hook->apply_filters(Array, Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-includes/nav-menu.php(776): apply_filters('wp_get_nav_menu...', Array, Object(WP_Term), Array)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-includes/nav-menu-template.php(151): wp_get_nav_menu_items(Object(WP_Term), Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury/inc/functions/header.php(627): wp_nav_menu(Object(stdClass))
+#5 /home/hopscon/public_html/hopscan-stg.com/wp-cont in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1980
+
+2021-08-07T16:03:35+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function exclude_empty_cat_menu_items(), 2 passed in /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php on line 289 and exactly 3 expected in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1980
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(289): exclude_empty_cat_menu_items(Array, Object(WP_Term))
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-includes/plugin.php(212): WP_Hook->apply_filters(Array, Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-includes/nav-menu.php(776): apply_filters('wp_get_nav_menu...', Array, Object(WP_Term), Array)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-includes/nav-menu-template.php(151): wp_get_nav_menu_items(Object(WP_Term), Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury/inc/functions/header.php(627): wp_nav_menu(Object(stdClass))
+#5 /home/hopscon/public_html/hopscan-stg.com/wp-cont in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1980
+
+2021-08-07T16:03:35+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function exclude_empty_cat_menu_items(), 2 passed in /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php on line 289 and exactly 3 expected in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1980
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(289): exclude_empty_cat_menu_items(Array, Object(WP_Term))
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-includes/plugin.php(212): WP_Hook->apply_filters(Array, Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-includes/nav-menu.php(776): apply_filters('wp_get_nav_menu...', Array, Object(WP_Term), Array)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-includes/nav-menu-template.php(151): wp_get_nav_menu_items(Object(WP_Term), Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury/inc/functions/header.php(627): wp_nav_menu(Object(stdClass))
+#5 /home/hopscon/public_html/hopscan-stg.com/wp-cont in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1980
+
+2021-08-07T16:03:38+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function exclude_empty_cat_menu_items(), 1 passed in /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php on line 289 and exactly 3 expected in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1980
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(289): exclude_empty_cat_menu_items(Array)
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-includes/plugin.php(212): WP_Hook->apply_filters(Array, Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-includes/nav-menu.php(776): apply_filters('wp_get_nav_menu...', Array, Object(WP_Term), Array)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-includes/nav-menu-template.php(151): wp_get_nav_menu_items(Object(WP_Term), Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury/inc/functions/header.php(627): wp_nav_menu(Object(stdClass))
+#5 /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfu in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1980
+
+2021-08-07T16:03:42+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function exclude_empty_cat_menu_items(), 1 passed in /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php on line 289 and exactly 3 expected in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1980
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(289): exclude_empty_cat_menu_items(Array)
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-includes/plugin.php(212): WP_Hook->apply_filters(Array, Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-includes/nav-menu.php(776): apply_filters('wp_get_nav_menu...', Array, Object(WP_Term), Array)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-includes/nav-menu-template.php(151): wp_get_nav_menu_items(Object(WP_Term), Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury/inc/functions/header.php(627): wp_nav_menu(Object(stdClass))
+#5 /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfu in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1980
+
+2021-08-07T16:03:43+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function exclude_empty_cat_menu_items(), 1 passed in /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php on line 289 and exactly 3 expected in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1980
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(289): exclude_empty_cat_menu_items(Array)
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-includes/plugin.php(212): WP_Hook->apply_filters(Array, Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-includes/nav-menu.php(776): apply_filters('wp_get_nav_menu...', Array, Object(WP_Term), Array)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-includes/nav-menu-template.php(151): wp_get_nav_menu_items(Object(WP_Term), Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury/inc/functions/header.php(627): wp_nav_menu(Object(stdClass))
+#5 /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfu in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1980
+
+2021-08-07T16:03:44+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function exclude_empty_cat_menu_items(), 1 passed in /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php on line 289 and exactly 3 expected in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1980
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(289): exclude_empty_cat_menu_items(Array)
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-includes/plugin.php(212): WP_Hook->apply_filters(Array, Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-includes/nav-menu.php(776): apply_filters('wp_get_nav_menu...', Array, Object(WP_Term), Array)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-includes/nav-menu-template.php(151): wp_get_nav_menu_items(Object(WP_Term), Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury/inc/functions/header.php(627): wp_nav_menu(Object(stdClass))
+#5 /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfu in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1980
+
+2021-08-07T16:03:50+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function exclude_empty_cat_menu_items(), 1 passed in /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php on line 289 and exactly 3 expected in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1980
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(289): exclude_empty_cat_menu_items(Array)
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-includes/plugin.php(212): WP_Hook->apply_filters(Array, Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-includes/nav-menu.php(776): apply_filters('wp_get_nav_menu...', Array, Object(WP_Term), Array)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-includes/nav-menu-template.php(151): wp_get_nav_menu_items(Object(WP_Term), Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury/inc/functions/header.php(627): wp_nav_menu(Object(stdClass))
+#5 /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfu in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1980
+
+2021-08-07T16:46:27+00:00 CRITICAL Cannot use temporary expression in write context in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1981
+
+2021-08-07T16:46:28+00:00 CRITICAL Cannot use temporary expression in write context in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1981
+
+2021-08-07T16:46:29+00:00 CRITICAL Cannot use temporary expression in write context in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1981
+
+2021-08-07T16:46:31+00:00 CRITICAL Cannot use temporary expression in write context in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1981
+
+2021-08-07T17:05:16+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function exclude_empty_cat_menu_items(), 2 passed in /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php on line 289 and exactly 3 expected in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1980
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(289): exclude_empty_cat_menu_items(Array, Object(WP_Term))
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-includes/plugin.php(212): WP_Hook->apply_filters(Array, Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-includes/nav-menu.php(776): apply_filters('wp_get_nav_menu...', Array, Object(WP_Term), Array)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-includes/nav-menu-template.php(151): wp_get_nav_menu_items(Object(WP_Term), Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury/inc/functions/header.php(627): wp_nav_menu(Object(stdClass))
+#5 /home/hopscon/public_html/hopscan-stg.com/wp-cont in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1980
+
+2021-08-07T17:05:20+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function exclude_empty_cat_menu_items(), 2 passed in /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php on line 289 and exactly 3 expected in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1980
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(289): exclude_empty_cat_menu_items(Array, Object(WP_Term))
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-includes/plugin.php(212): WP_Hook->apply_filters(Array, Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-includes/nav-menu.php(776): apply_filters('wp_get_nav_menu...', Array, Object(WP_Term), Array)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-includes/nav-menu-template.php(151): wp_get_nav_menu_items(Object(WP_Term), Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury/inc/functions/header.php(627): wp_nav_menu(Object(stdClass))
+#5 /home/hopscon/public_html/hopscan-stg.com/wp-cont in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1980
+
+2021-08-07T17:05:21+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function exclude_empty_cat_menu_items(), 2 passed in /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php on line 289 and exactly 3 expected in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1980
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(289): exclude_empty_cat_menu_items(Array, Object(WP_Term))
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-includes/plugin.php(212): WP_Hook->apply_filters(Array, Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-includes/nav-menu.php(776): apply_filters('wp_get_nav_menu...', Array, Object(WP_Term), Array)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-includes/nav-menu-template.php(151): wp_get_nav_menu_items(Object(WP_Term), Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury/inc/functions/header.php(627): wp_nav_menu(Object(stdClass))
+#5 /home/hopscon/public_html/hopscan-stg.com/wp-cont in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1980
+
+2021-08-07T17:05:22+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function exclude_empty_cat_menu_items(), 2 passed in /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php on line 289 and exactly 3 expected in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1980
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(289): exclude_empty_cat_menu_items(Array, Object(WP_Term))
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-includes/plugin.php(212): WP_Hook->apply_filters(Array, Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-includes/nav-menu.php(776): apply_filters('wp_get_nav_menu...', Array, Object(WP_Term), Array)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-includes/nav-menu-template.php(151): wp_get_nav_menu_items(Object(WP_Term), Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury/inc/functions/header.php(627): wp_nav_menu(Object(stdClass))
+#5 /home/hopscon/public_html/hopscan-stg.com/wp-cont in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1980
+
+2021-08-07T17:05:30+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function exclude_empty_cat_menu_items(), 2 passed in /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php on line 289 and exactly 3 expected in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1980
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(289): exclude_empty_cat_menu_items(Array, Object(WP_Term))
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-includes/plugin.php(212): WP_Hook->apply_filters(Array, Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-includes/nav-menu.php(776): apply_filters('wp_get_nav_menu...', Array, Object(WP_Term), Array)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-includes/nav-menu-template.php(151): wp_get_nav_menu_items(Object(WP_Term), Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury/inc/functions/header.php(627): wp_nav_menu(Object(stdClass))
+#5 /home/hopscon/public_html/hopscan-stg.com/wp-cont in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1980
+
+2021-08-07T17:05:33+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function exclude_empty_cat_menu_items(), 2 passed in /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php on line 289 and exactly 3 expected in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1980
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(289): exclude_empty_cat_menu_items(Array, Object(WP_Term))
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-includes/plugin.php(212): WP_Hook->apply_filters(Array, Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-includes/nav-menu.php(776): apply_filters('wp_get_nav_menu...', Array, Object(WP_Term), Array)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-includes/nav-menu-template.php(151): wp_get_nav_menu_items(Object(WP_Term), Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury/inc/functions/header.php(627): wp_nav_menu(Object(stdClass))
+#5 /home/hopscon/public_html/hopscan-stg.com/wp-cont in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1980
+
+2021-08-07T17:05:34+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function exclude_empty_cat_menu_items(), 2 passed in /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php on line 289 and exactly 3 expected in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1980
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(289): exclude_empty_cat_menu_items(Array, Object(WP_Term))
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-includes/plugin.php(212): WP_Hook->apply_filters(Array, Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-includes/nav-menu.php(776): apply_filters('wp_get_nav_menu...', Array, Object(WP_Term), Array)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-includes/nav-menu-template.php(151): wp_get_nav_menu_items(Object(WP_Term), Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury/inc/functions/header.php(627): wp_nav_menu(Object(stdClass))
+#5 /home/hopscon/public_html/hopscan-stg.com/wp-cont in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1980
+
+2021-08-07T17:05:35+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function exclude_empty_cat_menu_items(), 2 passed in /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php on line 289 and exactly 3 expected in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1980
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-includes/class-wp-hook.php(289): exclude_empty_cat_menu_items(Array, Object(WP_Term))
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-includes/plugin.php(212): WP_Hook->apply_filters(Array, Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-includes/nav-menu.php(776): apply_filters('wp_get_nav_menu...', Array, Object(WP_Term), Array)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-includes/nav-menu-template.php(151): wp_get_nav_menu_items(Object(WP_Term), Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury/inc/functions/header.php(627): wp_nav_menu(Object(stdClass))
+#5 /home/hopscon/public_html/hopscan-stg.com/wp-cont in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1980
+

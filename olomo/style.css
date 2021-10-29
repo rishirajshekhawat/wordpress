@@ -1,0 +1,407 @@
+/*
+
+Theme Name:olomo
+
+Description: olomo is premium WordPress theme developed by WebMasterDriver, It is complete solution for any type of directory and listing theme.
+
+Author: Team of WebMasterDriver
+
+Theme URI:http://themes.webmasterdriver.net/olomo/
+
+Version: 1.5
+
+Author URI: https://themeforest.net/user/webmasterdriver
+
+License:GNU General Public License v2 or later
+
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+Tags:one-column, two-columns, left-sidebar, right-sidebar, custom-background, custom-colors, custom-menu, featured-image-header, featured-images, post-formats, sticky-post, theme-options, translation-ready
+
+Text Domain: olomo
+
+*/
+
+/*===========================
+
+
+
+ =  Table of CSS
+
+ 	1. General code
+
+	2. WordPress Default Theme Css
+
+/* 1. General code */
+
+
+
+.dark_mask::after {
+
+  background: rgba(0, 0, 0, 0.7) none repeat scroll 0 0;
+
+  content: "";
+
+  display: block !important;
+
+  height: 100% !important;
+
+  left: 0;
+
+  position: absolute;
+
+  top: 0;
+
+  visibility: visible !important;
+
+  width: 100%;
+
+}
+
+
+
+.dark_mask > * {
+
+  position: relative;
+
+  z-index: 1;
+
+}
+
+
+
+.vc_btn3-style-custom {
+
+  background: #38ccff none repeat scroll 0 0 !important;
+
+  border: medium none;
+
+  border-radius: 3px;
+
+  color: #ffffff !important;
+
+  font-size: 16px !important;
+
+  font-weight: 700 !important;
+
+  line-height: 30px !important;
+
+  margin: auto;
+
+  padding: 8px 22px !important;
+
+  transition: all 0.3s linear 0s !important;
+
+  width: auto;
+
+}
+
+
+
+.vc_btn3-style-custom:hover, .vc_btn3-style-custom:focus {
+
+  background: #03aee9 none repeat scroll 0 0 !important;
+
+}
+
+
+
+
+
+
+
+.page-template-template-login header#header, .page-template-template-login footer#footer {display:none;}
+
+
+
+.page-template-template-dashboard #navigation ul.nav.navbar-nav, .page-template-template-dashboard footer#footer{display: none;}
+
+
+
+.main-menu-container {display: inline-block;vertical-align:top;}
+
+
+
+.confirmation {overflow: hidden;}
+
+
+
+.entry_meta .featured_post_m span {
+
+  color: #38ccff;
+
+  font-weight: 700;
+
+}
+
+
+
+.entry_meta .featured_post_m span i{
+
+  color: #38ccff !important;
+
+}
+
+
+
+.icon_div code {
+
+  background: inherit;
+
+  color: inherit;
+
+}
+
+
+
+/*-----------------------------*/
+
+
+
+/* 2. WordPress Default Theme Css
+
+/*----------------------------*/
+
+
+
+.wp-caption {
+
+	background: #fff;
+
+	border: 1px solid #f0f0f0;
+
+	max-width: 96%; /* Image does not overflow the content area */
+
+	padding: 5px 3px 10px;
+
+	text-align: center;
+
+}
+
+
+
+.wp-caption.alignnone {
+
+	margin: 5px 20px 20px 0;
+
+}
+
+
+
+.wp-caption.alignleft {
+
+	margin: 5px 20px 20px 0;
+
+}
+
+
+
+.wp-caption.alignright {
+
+	margin: 5px 0 20px 20px;
+
+}
+
+
+
+.wp-caption img {
+
+	border: 0 none;
+
+	height: auto;
+
+	margin: 0;
+
+	max-width: 98.5%;
+
+	padding: 0;
+
+	width: auto;
+
+}
+
+
+
+.wp-caption p.wp-caption-text {
+
+	font-size: 11px;
+
+	line-height: 17px;
+
+	margin: 0;
+
+	padding: 0 4px 5px;
+
+}
+
+
+
+.alignleft {
+
+	float: left;
+
+	margin: 5px 20px 20px 0;
+
+}
+
+
+
+.alignright {
+
+	float: right;
+
+	margin: 5px 0 20px 20px;
+
+}
+
+
+
+.aligncenter, div.aligncenter {
+
+	display: block;
+
+	margin: 5px auto;
+
+}
+
+
+
+.screen-reader-text {
+
+	display: none;
+
+}
+
+
+
+.fw-wrap-search-form {
+
+	display:none;
+
+}
+
+
+
+.wp-caption-text {
+
+	-webkit-box-sizing: border-box;
+
+	-moz-box-sizing:    border-box;
+
+	box-sizing:         border-box;
+
+	font-size: 12px;
+
+	font-style: italic;
+
+	line-height: 1.5;
+
+	margin: 9px 0;
+
+}
+
+
+
+.sticky .entry-date {
+
+	display: none;
+
+}
+
+
+
+.gallery-caption {
+
+	background-color: rgba(0, 0, 0, 0.7);
+
+	-webkit-box-sizing: border-box;
+
+	-moz-box-sizing:    border-box;
+
+	box-sizing:         border-box;
+
+	color: #fff;
+
+	font-size: 12px;
+
+	line-height: 1.5;
+
+	margin: 0;
+
+	max-height: 50%;
+
+	opacity: 0;
+
+	padding: 6px 8px;
+
+	position: absolute;
+
+	bottom: 0;
+
+	left: 0;
+
+	text-align: left;
+
+	width: 100%;
+
+}
+
+
+
+.gallery-caption:before {
+
+	content: "";
+
+	height: 100%;
+
+	min-height: 49px;
+
+	position: absolute;
+
+	top: 0;
+
+	left: 0;
+
+	width: 100%;
+
+}
+
+
+
+.bypostauthor > article .fn:before {
+
+	margin: 0 2px 0 -2px;
+
+	position: relative;
+
+	top: -1px;
+
+}
+
+
+
+.bypostauthor > article .fn:before,  .comment-edit-link:before,  .comment-reply-link:before,  .comment-reply-login:before,  .comment-reply-title small a:before,  .contributor-posts-link:before,  .menu-toggle:before,  .search-toggle:before,  .slider-direction-nav a:before,  .widget_twentyfourteen_ephemera .widget-title:before {
+
+	-webkit-font-smoothing: antialiased;
+
+	display: inline-block;
+
+	font: normal 16px/1 Genericons;
+
+	text-decoration: inherit;
+
+	vertical-align: text-bottom;
+
+}
+
+
+
+.inner_pages_cities {
+
+    margin-top: 20px;
+
+}
+
+#listing_detail_banner .owl-carousel .owl-item img {
+    -webkit-transform-style: inherit;
+}

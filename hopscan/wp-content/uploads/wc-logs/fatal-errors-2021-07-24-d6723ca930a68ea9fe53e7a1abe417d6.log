@@ -1,0 +1,16 @@
+2021-07-24T14:14:21+00:00 CRITICAL Uncaught Error: Wrong parameters for Exception([string $message [, long $code [, Throwable $previous = NULL]]]) in /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-google-distance-matrix-api.php:86
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-google-distance-matrix-api.php(86): Exception->__construct(Object(WP_Error))
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-google-distance-matrix-api.php(131): WC_Google_Distance_Matrix_API->perform_request('origins=Tumba%2...')
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-shipping-distance-rate.php(702): WC_Google_Distance_Matrix_API->get_distance('Tumba, Huye, Rw...', '5392 Rue De Con...', false, 'driving', 'none', 'metric', 'ca')
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-con in /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-google-distance-matrix-api.php on line 86
+
+2021-07-24T18:33:03+00:00 CRITICAL Uncaught Error: Call to a member function get_shop_info() on null in /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/dokan-pro/modules/elementor/includes/Tags/StoreCoupons.php:56
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/elementor/core/dynamic-tags/tag.php(35): WeDevs\DokanPro\Modules\Elementor\Tags\StoreCoupons->render()
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/elementor/core/dynamic-tags/manager.php(230): Elementor\Core\DynamicTags\Tag->get_content()
+#2 [internal function]: Elementor\Core\DynamicTags\Manager->get_tag_data_content('', 'dokan-store-cou...', Array)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/elementor/core/dynamic-tags/manager.php(123): call_user_func_array(Array, Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/elementor/core/dynamic-tags/manager.php(88): Elementor\Core\DynamicTags\Manager->parse_tag_text('[elementor-tag ...', Array, Array)
+#5 [internal function]: Elementor\Core\Dy in /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/dokan-pro/modules/elementor/includes/Tags/StoreCoupons.php on line 56
+
